@@ -1,0 +1,213 @@
+---
+title: "Territoires n'ayant pas mis en place de politique open data"
+output: 
+    html_document:
+        toc: yes
+        toc_float: yes
+date: "`r Sys.Date()`"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo=FALSE, error=FALSE, warning=FALSE, message=FALSE)
+```
+
+Ce document présente la liste des collectivités territoriales et intercommunalités françaises n'ayant, à ce jour, pas mis en place de politique open data. 
+
+<br>
+
+# Méta-données
+
+<br>
+
++ **Motivations pour la création du jeu de données**
+
+Avoir une liste exhaustive des CT ne pratiquant pas d'open data aujourd'hui, enrichie par quelques champs qui permettent de qualifier ou contacter le territoire concerné, constituant ainsi un levier pour le recrutement de collectivités novices dans l'accompagnement à l'ouverture de données.
+
++ **Composition du jeu de données**
+
+Deux bases de données sont présentées ici, l'une regroupe toutes les collectivités territoriales (régions, départements et communes) et l'autre regroupe toutes les intercommunalités (communautés d’agglomérations, communautés urbaines, communautés de communes, métropoles et établissements publics territoriaux). Ces 2 bases sont composés des champs communs suivants :
+
+    nom : nom de l’organisation
+    SIREN : numéro de SIREN (pour les collectivités et les EPCI)
+    type : type d’organisation
+        REG  =  régions,
+        CTU = collectivités territoriales uniques,
+        DEP = départements,
+        COM = communes,
+        MET = métropoles,
+        EPT = établissements publics territoriaux,
+        CA = communautés d’agglomérations,
+        CU = communautés urbaines,
+        CC = communautés de communes
+    population : nombre d'habitants
+    tranche_pop : tranches de population créées à partir du nombre d'habitants
+        hab < 1000 = moins de 1000 habitants
+        1000 ≤ hab < 3500 = entre 1000 et 3500 habitants
+        3500 ≤ hab < 10.000 = entre 3500 et 10000 habitants (obligation légale d'ouvrir les données à partir de cette tranche)
+        10.000 ≤ hab < 100.000 = entre 10.000 et 100.000 habitants
+        100.000 ≤ hab < 500.000 = entre 100.000 et 500.000 habitants
+        500.000 ≤ hab < 1.000.000 = entre 500.000 et un million d'habitants
+        hab ≥ 1.000.000 = plus d'un million d'habitants
+    adresse_courriel : adresse mail de contact (disponibles pour les mairies et EPCI)
+    telephone : numéro de téléphone (disponibles pour les mairies et EPCI)
+    site_internet : site internet (disponibles pour les mairies et EPCI)
+
+Les champs non communs aux deux bases sont les suivants :
+
+    COG : code officiel géographique de l’INSEE (pour les collectivités uniquement)
+    code_region : COG de la région dans laquelle se trouve l’organisation (pour les intercommunalités uniquement)
+    code_departement : COG du département dans lequel se trouve l’organisation (pour les intercommunalités uniquement)
+
++ **Processus de collecte des données**
+
+Les données initiales sont les identifiants des collectivités territoriales et leurs établissements récupérées sur [data.gouv.fr](https://www.data.gouv.fr/fr/datasets/identifiants-des-collectivites-territoriales-et-leurs-etablissements/), qui listent tous les CT et EPCI de France avec les identifiants nécessaires à la jointure avec d'autres bases de données (numéros SIREN et COG). 
+Est ensuite importée la base de recensement des territoires faisant de l'open data, mise à disposition par l'observatoire open data des territoires sur [différents supports](https://www.observatoire-opendata.fr/les-donnees/). 
+La différence entre ces bases est calculée et correspond aux CT et EPCI ne faisant pas d'open data. Cette dernière est ensuite enrichie par 2 sources. La première est les données budgétaires collectés par l’observatoire des finances et de la gestion publique locales (OFGL) et mis à disposition sur leur [portail data](https://data.ofgl.fr/explore/?exclude.theme=INTERNE&sort=title), desquelles est récupéré le nombre d'habitants. La seconde est l'annuaire des administrations locales collecté par Service-Public.fr et mis à disposition sur [datagouv](https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/), duquel sont récupérées les données de contact.
+
+
++ **Pré-traitement des données**
+
+Les données externes ayant pour objet d'enrichir la base initiale ont fait l'objet de traitements (sélection, formatage, renommage, filtres etc.) qui sont visibles dans le script présenté ci-après. Toutes les manipulations ont été réalisées sous R avec les packages `jsonlite` et `tidyverse` pour l’import et les manipulations, et `rio` pour l’export.
+
++ **Diffusion des jeux de données**
+
+Les jeux de données ne sont pour le moment pas publiés en open data, ils sont consultables sur cette page uniquement.
+
+<br>
+
+---
+
+# Données{.tabset}
+
+
+## Collectivités territoriales
+
+```{r echo=FALSE, error=FALSE, warning=FALSE}
+CT_no_opendata <- readr::read_csv("CT_no_opendata.csv")
+DT::datatable(CT_no_opendata, options=list(pageLength=100, searching=T, scrollX='400px'))
+```
+
+## Intercommunalités
+
+```{r echo=FALSE, warning=FALSE, error=FALSE}
+EPCI_no_opendata <- readr::read_csv("EPCI_no_opendata.csv")
+DT::datatable(EPCI_no_opendata, options=list(pageLength=100, searching=T, scrollX='400px'))
+```
+
+## Script (à améliorer)
+
+```{r eval=F, echo=T}
+library(tidyverse)
+library(jsonlite)
+
+# Import bases
+id_CT <- read_csv("https://www.data.gouv.fr/fr/datasets/r/89a74669-be6f-4644-b6b6-3c5aa61b3a14") %>% mutate(SIREN = as.character(SIREN))
+id_EPCI <- read_csv("https://www.data.gouv.fr/fr/datasets/r/e381a63d-09f5-44f5-9e72-7e889b899bf5") %>% mutate(SIREN = as.character(SIREN))
+recensement <- read_csv("Territoires_no_opendata/Indicateurs ODATER v2 (up-to-date) - Copie Organisations.csv") %>% mutate(SIREN = as.character(siren))
+
+# Différence, càd coll et EPCI qui ne font pas opendata
+CT_no_opendata <- anti_join(id_CT, recensement, by = "SIREN") %>% unique() %>% filter(SIREN != "200076958")
+EPCI_no_opendata <- anti_join(id_EPCI, recensement, by = "SIREN") %>% unique() %>% filter(SIREN != "200093201")
+
+
+    ### Enrichissement par la population
+
+# Import des données OFGL dans lesquelles il y a la population
+comptes_reg <- read_delim("https://data.ofgl.fr/explore/dataset/ofgl-base-regions-consolidee/download/?format=csv&disjunctive.reg_name=true&disjunctive.agregat=true&refine.agregat=D%C3%A9penses+totales&refine.exer=2019&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B", ";")
+comptes_dep <- read_delim("https://data.ofgl.fr/explore/dataset/ofgl-base-departements-consolidee/download/?format=csv&disjunctive.reg_name=true&disjunctive.dep_tranche_population=true&disjunctive.dep_name=true&disjunctive.agregat=true&refine.exer=2019&refine.agregat=D%C3%A9penses+totales&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B", ";")
+comptes_com <- read_delim("https://data.ofgl.fr/explore/dataset/ofgl-base-communes-consolidee/download/?format=csv&disjunctive.reg_name=true&disjunctive.dep_name=true&disjunctive.epci_name=true&disjunctive.tranche_population=true&disjunctive.tranche_revenu_imposable_par_habitant=true&disjunctive.com_name=true&disjunctive.agregat=true&refine.exer=2019&refine.agregat=D%C3%A9penses+totales&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B", ";")
+comptes_epci <- read_delim("https://data.ofgl.fr/explore/dataset/ofgl-base-gfp-consolidee/download/?format=csv&disjunctive.dep_name=true&disjunctive.gfp_tranche_population=true&disjunctive.nat_juridique=true&disjunctive.mode_financement=true&disjunctive.gfp_tranche_revenu_imposable_par_habitant=true&disjunctive.epci_name=true&disjunctive.agregat=true&refine.exer=2019&refine.agregat=D%C3%A9penses+totales&timezone=Europe/Berlin&lang=fr&use_labels_for_header=true&csv_separator=%3B", ";")
+
+# On sélectionne, renomme et modifie le type de variable
+comptes_reg <- comptes_reg %>% 
+    dplyr::select(c("Code Siren Collectivité", "Population totale")) %>% 
+    rename(SIREN = `Code Siren Collectivité`, population = `Population totale`) %>% 
+    mutate(SIREN = as.character(SIREN))
+comptes_dep <- comptes_dep %>% 
+    dplyr::select(c("Code Siren Collectivité", "Population totale")) %>% 
+    rename(SIREN = `Code Siren Collectivité`, population = `Population totale`) %>% 
+    mutate(SIREN = as.character(SIREN))
+comptes_com <- comptes_com %>% 
+    dplyr::select(c("Code Siren Collectivité", "Population totale")) %>% 
+    rename(SIREN = `Code Siren Collectivité`, population = `Population totale`) %>% 
+    mutate(SIREN = as.character(SIREN))
+comptes_epci <- comptes_epci %>% 
+    dplyr::select(c("Code Siren 2021 EPCI", "Population totale")) %>% 
+    rename(SIREN = `Code Siren 2021 EPCI`, population = `Population totale`) %>% 
+    mutate(SIREN = as.character(SIREN)) %>% 
+    group_by(SIREN) %>% distinct(SIREN, .keep_all=TRUE) %>% ungroup() #suppression de doublons
+
+# On regroupe les reg, dep et com en une base à joindre
+comptes_CT <- rbind(comptes_reg, comptes_dep, comptes_com)
+
+# On ajoute la population à nos bases
+CT_no_opendata <- left_join(CT_no_opendata, comptes_CT, by = "SIREN", na_matches="never") %>% distinct() %>% ungroup %>% 
+    mutate(tranche_pop = case_when(population < 1000 ~ "hab < 1000",
+                                   population >= 1000 & population < 3500 ~ "1000 ≤ hab < 3500",
+                                   population >= 3500 & population < 10000 ~ "3500 ≤ hab < 10.000",
+                                   population >= 10000 & population < 100000 ~ "10.000 ≤ hab < 100.000",
+                                   population >= 100000 & population < 500000 ~ "100.000 ≤ hab < 500.000",
+                                   population >= 500000 & population < 1000000 ~ "500.000 ≤ hab < 1.000.000",
+                                   population >= 1000000 ~ "hab ≥ 1.000.000",
+                                   TRUE ~ NA_character_))
+EPCI_no_opendata <- left_join(EPCI_no_opendata, comptes_epci, by = "SIREN", na_matches="never") %>% 
+    mutate(tranche_pop = case_when(population < 1000 ~ "hab < 1000",
+                                   population >= 1000 & population < 3500 ~ "1000 ≤ hab < 3500",
+                                   population >= 3500 & population < 10000 ~ "3500 ≤ hab < 10.000",
+                                   population >= 10000 & population < 100000 ~ "10.000 ≤ hab < 100.000",
+                                   population >= 100000 & population < 500000 ~ "100.000 ≤ hab < 500.000",
+                                   population >= 500000 & population < 1000000 ~ "500.000 ≤ hab < 1.000.000",
+                                   population >= 1000000 ~ "hab ≥ 1.000.000",
+                                   TRUE ~ NA_character_))
+
+
+    ### Enrichissement par l'annuaire des administrations
+
+# Import des données datagouv (https://www.data.gouv.fr/fr/datasets/service-public-fr-annuaire-de-l-administration-base-de-donnees-locales/)
+annuaire <- fromJSON("~/Downloads/annuaire_datagouv/2022-10-20_003403-data.gouv_local.json", flatten = TRUE)
+
+# Aplatissement, sélection et désimbrication de variables
+    # Collectivités territoriales
+annuaire_CT <- as.data.frame(annuaire$service) %>% 
+    select(c(nom, pivot, adresse_courriel, telephone, site_internet)) %>% 
+    unnest(cols = pivot) %>% 
+    unnest(cols = site_internet) %>% select(-libelle) %>% rename(site_internet = valeur) %>% 
+    unnest(cols = telephone, names_repair = "universal") %>% select(-description) %>% rename(telephone = valeur) %>% 
+    filter(type_service_local == "mairie" & grepl(c("Mairie déléguée|Annexe|Antenne|annexe"), nom) == F) %>% 
+    mutate(code_insee_commune = as.character(code_insee_commune),
+           adresse_courriel = as.character(adresse_courriel)) %>% 
+    select(-nom) %>% distinct() %>% 
+    group_by(code_insee_commune) %>% mutate(adresse_courriel = paste0(unique(na.omit(adresse_courriel)), collapse = ", "),
+                                            telephone = paste0(unique(na.omit(telephone)), collapse = ", "),
+                                            site_internet = paste0(unique(na.omit(site_internet)), collapse = ", ")) %>% 
+    distinct() %>% ungroup() %>% select(-type_service_local)
+annuaire_CT[annuaire_CT == "character(0)"] <- NA
+    # EPCI
+annuaire_EPCI <- as.data.frame(annuaire$service) %>% 
+    select(c(nom, pivot, siren, adresse_courriel, telephone, site_internet)) %>% 
+    unnest(cols = pivot) %>% 
+    unnest(cols = site_internet) %>% select(-libelle) %>% rename(site_internet = valeur) %>% 
+    unnest(cols = telephone, names_repair = "universal") %>% select(-description) %>% rename(telephone = valeur) %>% 
+    filter(type_service_local == "epci") %>% 
+    mutate(code_insee_commune = as.character(code_insee_commune),
+           adresse_courriel = as.character(adresse_courriel)) %>% 
+    filter(siren != "") %>% select(-nom) %>% distinct() %>% 
+    group_by(siren) %>% mutate(adresse_courriel = paste0(unique(na.omit(adresse_courriel)), collapse = ", "),
+                               telephone = paste0(unique(na.omit(telephone)), collapse = ", "),
+                               site_internet = paste0(unique(na.omit(site_internet)), collapse = ", ")) %>% 
+    ungroup() %>% select(-c(type_service_local, code_insee_commune)) %>% distinct()
+annuaire_EPCI[annuaire_EPCI == "character(0)"] <- NA
+
+# Jointure avec les données de recensement
+    # Collectivités territoriales
+CT_no_opendata <- left_join(CT_no_opendata, annuaire_CT, by = c("COG" = "code_insee_commune"))
+    # EPCI
+EPCI_no_opendata <- left_join(EPCI_no_opendata, annuaire_EPCI, by = c("SIREN" = "siren"))
+
+# Export
+rio::export(CT_no_opendata, "Territoires_no_opendata/CT_no_opendata.csv")
+rio::export(EPCI_no_opendata, "Territoires_no_opendata/EPCI_no_opendata.csv")
+```
+
+
+<div class="tocify-extend-page" data-unique="tocify-extend-page" style="height: 0;"></div>
