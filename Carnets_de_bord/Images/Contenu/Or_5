@@ -1,0 +1,436 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": "Communauté d'Agglomération du Pays de l'Or",
+      "id": 1,
+      "attr": {
+        "position": [
+          -443,
+          -115,
+          1
+        ],
+        "style": {
+          "backgroundColor": "#993300",
+          "text": {
+            "color": "#FFFFFF"
+          }
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "Direction : Aménagement du Territoire, Habitat et Politique de la Ville",
+          "id": 3,
+          "ideas": {
+            "1": {
+              "title": "Pôle : Administration Générale",
+              "id": 8,
+              "ideas": {
+                "1": {
+                  "title": "Nastasia KHEMAIS-RODRIGUES",
+                  "id": 13,
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_ZAE",
+                      "id": 14,
+                      "attr": {
+                        "style": {
+                          "textAlign": "center"
+                        }
+                      }
+                    },
+                    "2": {
+                      "title": "Templates_Défibrilateurs_DAE",
+                      "id": 15,
+                      "attr": {
+                        "style": {
+                          "textAlign": "center"
+                        }
+                      }
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#800000"
+                      },
+                      "textAlign": "center"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "textAlign": "center"
+                },
+                "position": [
+                  173.01046228408813,
+                  -86.98959875106812,
+                  2
+                ]
+              }
+            },
+            "2": {
+              "title": "Pôle  : Moyens Techniques",
+              "id": 42,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "textAlign": "center"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Cédric BONNET",
+                  "id": 43,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#800000"
+                      },
+                      "textAlign": "center"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_Patrimoine",
+                      "id": 44,
+                      "attr": {
+                        "style": {
+                          "textAlign": "center"
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Pôle : Urbanisme",
+              "id": 45,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  },
+                  "textAlign": "center"
+                },
+                "position": [
+                  178.01043176651,
+                  142.01041650772095,
+                  1
+                ]
+              },
+              "ideas": {
+                "1": {
+                  "title": "Sandie ÉTIENNE",
+                  "id": 46,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#800000"
+                      },
+                      "textAlign": "center"
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              170.00004816055298,
+              -165.9999794960022,
+              1
+            ],
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Direction : Éducation, Enfance, Jeunesse, Sports et Loisirs",
+          "id": 21,
+          "ideas": {
+            "1": {
+              "title": "Pôle : Enfance Jeunesse",
+              "id": 22,
+              "ideas": {
+                "1": {
+                  "title": "Oriane DRUBIGNY",
+                  "id": 27,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#800000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_EAJE",
+                      "id": 51
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Pôle : Restauration (?)",
+              "id": 23,
+              "ideas": {
+                "1": {
+                  "title": "Lisa GAUVRIT",
+                  "id": 32,
+                  "attr": {
+                    "style": {
+                      "text": {
+                        "color": "#800000"
+                      },
+                      "backgroundColor": "#FFFF00"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              178.00004816055298,
+              175.0000205039978,
+              2
+            ],
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "Direction : Transports, Développement et Infrastructures",
+          "id": 28,
+          "attr": {
+            "position": [
+              178.00002527236938,
+              328.0000400543213,
+              5
+            ],
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "4": {
+          "title": "Direction : Attractivité Économique et Emploi",
+          "id": 30,
+          "attr": {
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "Direction : Finances, Ressources, Prospective et Évaluation",
+          "id": 16,
+          "ideas": {
+            "1": {
+              "title": "Service des Finances de l'Agglomération",
+              "id": 17,
+              "ideas": {
+                "1": {
+                  "title": "Olivier CABRIER",
+                  "id": 19,
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_BudgetPrimitif",
+                      "id": 31
+                    },
+                    "2": {
+                      "title": "Templates_Subventions",
+                      "id": 41
+                    }
+                  },
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#993300"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Service des Affaires Juridiques et de la Commande Publique",
+              "id": 39,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Julien SANGRADOR",
+                  "id": 40,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FFFF00",
+                      "text": {
+                        "color": "#800000"
+                      }
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_Marchés_Publics (à venir)",
+                      "id": 47
+                    },
+                    "2": {
+                      "title": "Templates_Programmation_Achats (à venir)",
+                      "id": 48,
+                      "ideas": {}
+                    },
+                    "3": {
+                      "title": "Templates_ProfilsAcheteurs",
+                      "id": 50
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              180.98956823349,
+              -154.98957300186157,
+              3
+            ],
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-2": {
+          "title": "Direction : Environnement et Qualité de vie",
+          "id": 24,
+          "ideas": {
+            "1": {
+              "title": "Pôle : Environnement et Revalorisation",
+              "id": 25,
+              "ideas": {
+                "1": {
+                  "title": "Gwennaelle DURAND",
+                  "id": 26,
+                  "attr": {
+                    "style": {
+                      "text": {
+                        "color": "#800000"
+                      },
+                      "backgroundColor": "#FFFF00"
+                    }
+                  },
+                  "ideas": {
+                    "1": {
+                      "title": "Templates_PAV",
+                      "id": 52
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#339966",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          },
+          "attr": {
+            "position": [
+              186.99997472763062,
+              169.0000205039978,
+              4
+            ],
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        },
+        "-3": {
+          "title": "Direction : Développement Durable du Territoire",
+          "id": 29,
+          "attr": {
+            "style": {
+              "backgroundColor": "#3366FF",
+              "text": {
+                "color": "#FFFFFF"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": "Communauté d'Agglomération du Pays de l'Or",
+  "links": []
+}
