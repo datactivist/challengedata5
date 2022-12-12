@@ -36,49 +36,6 @@ _Le kit du datactiviste (qui a la crève) chevronné !!_
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_1.png)
 
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous avons réussi à former une bonne cohésion de groupe. Nous ne nous  connaissions pas tous véritablement et cela ne nous a pas empêché de trouver un bon équilibre et une bonne entente 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La répartition des tâches a pu se faire de manière fluide tout au cours de la journée 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Avoir le zoom nous a permit de comprendre les attendus de la collectivité 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La mauvaise connexion internet a compliqué nos échanges avec notre interlocutrice et à empêché beaucoup de fois les chargements des documents dont nous avions besoin 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Cette première journée nous a permis de mieux nous projeter pour le reste de la semaine et des activités que nous allons réaliser 
-   </td>
-  </tr>
-</table>
-
-
 
 ## JOUR 2 – IDENTIFICATION
 
@@ -105,51 +62,6 @@ L’organigramme dont nous étions si fiers…
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_4.png)
 
 
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Très bonne cohésion, belle vibe
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Productivité et efficacité 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Super organigramme (avec couleur)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>On a pris de l’avance 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Quelques petits problèmes de logistiques (Appeler les services, attente pour la réunion, fichiers différents de la wish list initiale)
-<p>
-“Wallah qu’on s’en fout des arbres” - Raphaël ZWEIN, 2022
-   </td>
-  </tr>
-</table>
-
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_5.png)
 
 
@@ -175,51 +87,6 @@ _Un magnifique jeu de données réalisé le matin et validé dans la foulée_
 
 
 Après ce travail, un rebondissement inattendu est arrivé avec un mail de notre interlocutrice croisienne nous signalant deux erreurs dans l’organigramme dont Raphaël était si fier. Comme attendu, il était ravi de le refaire (non). Après cela, deux membres de notre groupe ont pu assister à la réunion organisée par un collaborateur de la métropole de Lille pour expliquer les étapes de la publication que nous allons entamer demain. J’ai vraiment l’impression que prendre de l’avance est devenu une habitude dans ce groupe, qui est très franchement “efficace, sympa, parfait, mes préférés” (Diane, sous la pression de Raphaël).
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>L’ambiance du groupe toujours au top
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>L’efficacité du travail réparti entre les membres
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Le travail qualitatif grâce à la maîtrise des outils et à la coopération du groupe
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Rechercher les informations avec diverses sources (notamment pour les résultats aux élections présidentielles, ou pour les identifiants des établissements de petite enfance)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les arbres
-   </td>
-  </tr>
-</table>
-
-
-
 
 
 ## JOUR 4 – PUBLICATION
@@ -252,48 +119,6 @@ Enfin, alors que le soleil se couche sur Saint-Germain-En-Laye (il n’est que 1
 
 
 _Photo du superbe canva produit pour les élus de Croix_
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Le groupe a bien compris qu’il ne pouvait pas partir n’importe comment.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La production de fiches d’information de données de qualité
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Devoir refaire encore et encore des travaux que l’on pensait achevé (coucou l’organigramme)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Devoir faire le travail du groupe avec la moitié des effectifs
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>le canva
-   </td>
-  </tr>
-</table>
 
 
 ## JOUR 5 – VALORISATION
@@ -366,50 +191,6 @@ Avec Alice on reprend le travail après notre pause repas, Emma nous rejoint, on
 
 
 ### _[http://u.osmfr.org/m/838459/](http://u.osmfr.org/m/838459/)_
-
-
-**Résumé :**
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Partage super efficace sur travail et heureusement sinon on aurait jamais pu tout finir !! Ambiance toujours au rdv dans le groupe 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous sommes super fiers de nos datavisualisation aujourd’hui (surtout Raphaël). 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La visualisation du JDD des défibrillateurs pour les gars, surtout pour François parce que les données étaient fausses ! 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
 
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_17.png)
