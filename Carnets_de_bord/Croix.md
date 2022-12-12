@@ -2,7 +2,7 @@
 
 par Hady Hage, Emma Buiret, Raphaël Zwein, Maxence Hanriot, François Paillard, Capucine Renault, Alice Zarba
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/illustration.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
 
 ## Introduction
 
@@ -34,7 +34,7 @@ Lors de cette première phase du Challenge Data, nous avons découvert la collec
 
 _Le kit du datactiviste (qui a la crève) chevronné !!_
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_1.jpg)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_1.png)
 
 **Résumé :**
 
@@ -86,12 +86,7 @@ _Le kit du datactiviste (qui a la crève) chevronné !!_
 La première étape de la journée était l'exploration et la recherche de données. Le premier problème qui s’est posé c’est l’absence de jeux de données car notre interlocutrice n'était pas disponible le matin et avait une réunion jusqu’à 13:30. Étant un groupe motivé et super productif, on est pas resté les bras croisés pendant 4h30 et on est directement passé à l’étape 2, la création du magnifique organigramme ci-dessous. Pour le faire, on s’est basés sur le mail que notre interlocutrice avait envoyé hier (le nom des services et leurs affiliations) et Hady a trouvé les numéros sur le site. Le premier organigramme est basé sur la wish list du jour 1. En plus d’être productifs, on a traité un jeu de données présent sur le site (la liste des élus) en se basant sur les templates donnés par Diane. Chacun a été assigné à une catégorie (Moi (Raphaël) et Alice c’était l’âge et la date de naissance, François et Capucine les fonctions, Hady et Maxence les codes etc…). Dans un souci d’efficacité on a aussi appelé les différents services pour demander les jeux de données mais quelques problèmes d’ordre logistique sont survenus (certains ne savaient pas de quoi on parlait, d’autres n'avaient pas accès aux fichiers) alors on a juste attendu notre interlocutrice pour nous envoyer les jeux de données. On prend ensuite une pause bien méritée et puis à 13:30 on appelle notre interlocutrice. Là, on a eu un gros souci. Le problème c’est qu'elle a envoyé des jeux de données différents de ceux présents dans la wish list (dont 6 fichiers excel qui parlent littéralement que d’arbres). Du coup, on a dû faire un nouvel organigramme. On a ensuite organisé tous les jeux de données et les avons répartis. L’un des moments les plus cruciaux était l'étape 2.3 : Évaluer le travail de mise en qualité. En vrai c’était assez tranquille à faire, on a rapidement déterminé les fichiers faciles à réaliser et ceux qui étaient durs à réaliser (on a de supers bons esprits analytiques). Finalement, ce qu’on a aussi appris c’est que pas tout ne se passe comme il l’avait été prédit, on a su s’adapter (sauf pour le fichier des arbres je le déteste) et travailler en groupe avec une bonne cohésion et un consensus général (sauf pour les arbres). 
 
 
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_2.png)
 
 
 
@@ -101,21 +96,13 @@ La première étape de la journée était l'exploration et la recherche de donn�
 L’organigramme dont nous étions si fiers… 
 
 
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_3.png)
 
 
 … que nous avons dû modifier, mais on reste fiers !!!! (encore plus beau et plus précis). 
 
 
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image3.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_4.png)
 
 
 
@@ -163,13 +150,7 @@ L’organigramme dont nous étions si fiers…
   </tr>
 </table>
 
-
-
-<p id="gdcalert9" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image9.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert10">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image9.jpg "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_5.png)
 
 
 ## JOUR 3 – MISE EN QUALITÉ
@@ -178,13 +159,7 @@ L’organigramme dont nous étions si fiers…
 Pour ce troisième jour, le groupe 15 a reçu une mission claire : nettoyer, compiler, compléter et standardiser les jeux de données que nous avions reçus précédemment. Dans notre cas, le gros du travail s'effectuait sur la remise en forme des données, mais également sur la complétion de celles-ci avec la recherche sur des sources extérieures. Après une répartition des tâches efficace et légèrement biaisée par la haine des arbres de Raphaël et l’absence de François (toujours reprochée par Raphaël), nous avons débuté notre travail qui s’annonçait fastidieux. J’ai pu m’occuper des données sur les actes d’état civil, les prénoms des nouveaux-nés et les établissements d’accueil de petite enfance. Raphaël et Emma ont hérité des magnifiques résultats des élections présidentielles, tandis que Capucine et Alice ont terminé la liste des élus entamée hier et les mobilités douces. Hady s’est courageusement dévoué pour faire les arbres remarquables. Finalement, notre journée se résumait plutôt à travailler en petits groupes voire individuellement pour terminer avec des jeux de données clairs et satisfaisants. Pour parler plus en détail de mon expérience, je n’ai pas eu de mal à maîtriser l’outil Google Sheets étant donné que nos opérations de mise en forme étaient pour la majeure partie manuelles. Le groupe n’a jamais rencontré de problèmes pour utiliser les fonctions du logiciel. Les difficultés du jour étaient d’ordre de recherche des informations et de compréhension des informations demandées. Dans les templates qui nous guidaient dans la mise en forme, certains titres de colonnes étaient mystiques (coucou les identifiants uniques des établissements d’accueil de petite enfance, ainsi que les géopoints et geoshape). Cela nécessitait donc un travail pour comprendre et obtenir ces informations. De mon côté, cela se traduisait par des tonnes de recherche sur les crèches de la ville de Croix, je ne pensais pas que le challenge data allait nous demander des tâches sous cette forme. 
 
 
-    
-
-<p id="gdcalert10" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image10.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert11">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image10.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_6.png)
 
 
 _Un historique Google d’un jeune papa à Croix ou bien d’un individu très suspect_
@@ -192,13 +167,7 @@ _Un historique Google d’un jeune papa à Croix ou bien d’un individu très s
 
 J’ai pu entendre Raphaël et Emma se plaindre de la cartographie qu’ils devaient réaliser pour comprendre les quartiers de Croix et l’emplacement des bureaux de vote pour les élections présidentielles. Je remercie sincèrement Google Maps d’être aussi utile et gratuit. Nous sommes restés toute la matinée sur des tableaux excel afin de tout bien mettre en place. Après cela, nous avons contrôlé la validité de nos données sur les plateformes adéquates quand le schéma était standardisé, puis contrôlé manuellement avec l’aide de Diane les fichiers de données que nous avons créés.
 
-
-    
-
-<p id="gdcalert11" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image11.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert12">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image11.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_7.png)
 
 
 
@@ -257,12 +226,7 @@ Après ce travail, un rebondissement inattendu est arrivé avec un mail de notre
 
 Journée de tempête pour l’équipage. Alors que je réintègre le groupe après mon absence dûe à une maladie non-identifiée la veille, nous sommes encore amputés d’un membre. Capucine est tombée au combat du même mal qui a frappé moi et Emma Grgg (comme l’appelle Raphaël). Cependant, alors que nous étions confiants les jours précédents, les difficultés s’accumulent. D’abord, nous nous faisons fermement chicoter par Diane pour avoir déserté notre poste la veille sans avertissement. Cet écart de conduite ne se reproduira plus, mais il nous fait perdre le statut de groupe préféré (au grand dame de Raphaël et d’Emma qui lâchent quelques larmes). Je tousse en écrivant ces lignes, quinte de toux motivée par la maladie et la déception envers notre action commune.
 
-
-
-<p id="gdcalert12" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image12.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert13">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image12.jpg "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_8.png)
 
 
 _Les rescapés des jours précédents, venant clopin-clopant pour fournir de la data._
@@ -274,11 +238,8 @@ Mais les difficultés ne s’arrêtent pas là. D’abord, nous avons dû refair
 Dans l’après-midi, le temps s’est fait long et les difficultés se sont accumulées. D’abord, nous avons perdu deux autres membres des DataboyZ, Alice qui a dû s’absenter pour raisons professionnelles, et Emma, pour des raisons académiques. A partir de ce moment-là, la barque était trop grande pour un si petit équipage. De nouvelles informations transmises à Hady par notre interlocutrice ont provoqué un branle bas de combat général : nous avons dû relire et modifier toutes les fiches descriptives de données alors que nous pensions nous en être affranchis à tout jamais. Après d’âpres relectures, nous les avons achevées, et Hady a finalement pû les poster sur le site de la Métropole Européenne de Lille. Le site de la MEL sera la pierre d’angle de la publication des données pour la mairie de Croix. Nous posons aujourd’hui les premières bases de la publication des données de la mairie. Celle-ci pourra par la suite publier d’autres jeux de données. Malheureusement, un dernier coup au moral a été porté alors que la joie commençait à poindre parmi le groupe. Les coordonnées des défibrillateurs données par la mairie de Croix n’étaient pas bonnes et indiquaient, selon Raphaël, le pôle Nord. Bien que nous ne doutons pas de la bonne volonté de la mairie de Croix à empêcher les pingouins de faire des arrêts cardiaques, l’information suspecte doit être corrigée et nous devons alors **encore** modifier un de nos travaux  (cette fois-ci, les fiches de données publiées sur le site de la métropole). François, quant à lui, a écrit un mail à notre interlocutrice afin de lui proposer d’inviter le lendemain les élus de la municipalité pour leur présenter le travail réalisé par les DataboyZ dans le datachallenge. 
 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_9.png)
 
-<p id="gdcalert14" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image14.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert15">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image14.png "image_tooltip")
 
 
 _Un exemple du tableau modifié indiquant cette fois-ci les défibrillateurs à Croix,France, et non pas à Nuuk, Groenland_
@@ -286,12 +247,8 @@ _Un exemple du tableau modifié indiquant cette fois-ci les défibrillateurs à 
 
 Enfin, alors que le soleil se couche sur Saint-Germain-En-Laye (il n’est que 17h02), le groupe se reconvertit en designers graphiques. Raphaël et François ébauchent rapidement un logo pour le groupe Data de la ville de Croix alors que Maxence et Hady cherchent des modèles de canva pour mettre en page un prospectus à délivrer aux élus pour leur présenter le travail accompli. Tant bien que mal, nous y parvenons, éreintés et fourbus mais fiers du devoir accompli. Certains éléments du groupe se sentent particulièrement fatigués, et nous refusons poliment (je crois) l’invitation à boire un verre afin de pouvoir être (plus ou moins) en forme le lendemain.
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_10.png)
 
-
-<p id="gdcalert15" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image15.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert16">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image15.png "image_tooltip")
 
 
 _Photo du superbe canva produit pour les élus de Croix_
@@ -341,6 +298,8 @@ _Photo du superbe canva produit pour les élus de Croix_
 
 ## JOUR 5 – VALORISATION
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_11.png)
+
 Dernière journée mais non la moins chargée !! Alors un grand merci à Alice et François qui ont pensé à leurs camarades et ont ramené des viennoiseries pour toute l’équipe.
 
 
@@ -350,30 +309,7 @@ Dès la fin du briefing quotidien, toute la team se met au travail après répar
 14:46. Emma crie sur tous les toits que ses designs sont un régal pour les yeux en regardant les dix derniers pourcents de la batterie de son ipad s’écouler tranquillement : pour charger c’est la guerre !! 
 
 
-    
-
-<p id="gdcalert16" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image16.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert17">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image16.png "image_tooltip")
-
-
-<p id="gdcalert17" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image17.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert18">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image17.png "image_tooltip")
-
-
-<p id="gdcalert18" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image18.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert19">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image18.png "image_tooltip")
-
-
-<p id="gdcalert19" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image19.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert20">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image19.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_12.png)
 
 
 _Visualisation de la phrase « veni vedi vici » selon Emma._
@@ -394,45 +330,27 @@ Avec Alice on reprend le travail après notre pause repas, Emma nous rejoint, on
 [https://docs.google.com/document/d/1pJ39_bhLetc1RQ57hqUwXWywPFRxwJgf/edit](https://docs.google.com/document/d/1pJ39_bhLetc1RQ57hqUwXWywPFRxwJgf/edit)
 
 
-    
-
-<p id="gdcalert20" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image20.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert21">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image20.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_13.png)
 
 
 [https://docs.google.com/document/d/1csI377yWwsvORRbfUi8thkGeE5qC6wLX/edit](https://docs.google.com/document/d/1csI377yWwsvORRbfUi8thkGeE5qC6wLX/edit)
 
 
-
-<p id="gdcalert21" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image21.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert22">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image21.png "image_tooltip")
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_14.png)
 
 
 [https://docs.google.com/document/d/18gTe2kcIJhOxQ5pPL1HlLjTENKPc4xZn/edit](https://docs.google.com/document/d/18gTe2kcIJhOxQ5pPL1HlLjTENKPc4xZn/edit)
 
 
-
-<p id="gdcalert22" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image22.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert23">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image22.png "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_15.png)
 
 
 
 [https://docs.google.com/document/d/1o_WNbqdHih4GJ-II3_8WP8z4sUG9lX0N/edit](https://docs.google.com/document/d/1o_WNbqdHih4GJ-II3_8WP8z4sUG9lX0N/edit)
 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_16.png)
 
-<p id="gdcalert23" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image23.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert24">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image23.png "image_tooltip")
 
 
 **_Nos visualisation sous forme de cartes :_**
@@ -494,12 +412,7 @@ Avec Alice on reprend le travail après notre pause repas, Emma nous rejoint, on
 
 
 
-    
-
-<p id="gdcalert24" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image24.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert25">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image24.jpg "image_tooltip")
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Croix_17.png)
 
 
 
