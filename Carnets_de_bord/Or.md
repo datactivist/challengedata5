@@ -39,7 +39,7 @@ Sur ce, datament vôtre !
 Groupe 7 du Challenge Data. 
 
 
-**Wishlist** (fichier dans le GoogleDrive) : 
+**Wishlist** : 
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_1.png)
 
@@ -149,11 +149,14 @@ Nous avons finalement dressé les bilans de mise en qualité, qui faisaient prin
 Notre interlocutrice ne pouvant pas participer à notre point quotidien, nous lui avons fait un compte rendu par mail et lui avons transmis les bilans par mail en fin de journée… 
 
 
-_Bilan de mise en qualité des données: **https://docs.google.com/document/d/1d1MVYER51F5Zq4gT_TwqpGaong06Ltus/edit?usp=sharing&ouid=109443849090977709761&rtpof=true&sd=true**_
+_Bilan de mise en qualité des données: **[https://docs.google.com/document/d/1d1MVYER51F5Zq4gT_TwqpGaong06Ltus/edit?usp=sharing&ouid=109443849090977709761&rtpof=true&sd=true]()**_
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_4.png)
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_16.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_17.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_25.png)
 
 ## JOUR 4 – PUBLICATION
 
@@ -234,10 +237,12 @@ Constat du jour: les responsables de service qui étaient aux a-données absents
 
 **Photos et une affiche à voir dans le dossier photos (Jour 4).**
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_13.png)
+
 **Proposition de logos _(qui n’auront finalement pas servi)_**
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_5.png)
 
 
 ## JOUR 5 – VALORISATION
@@ -265,27 +270,27 @@ Par la suite, nous nous sommes attelés à contextualiser les différentes datav
 **→ Carte des emplacements des équipements collectifs (patrimoine)**
 
 
-<span style="text-decoration:underline;">Lien de visualisation : </span>umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551
+<span style="text-decoration:underline;">Lien de visualisation : </span>[umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551]()
 
 
 <span style="text-decoration:underline;">lien d’insertion page html:</span>
 
 
-&lt;iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">&lt;/iframe>&lt;p>&lt;a href="//umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551">Voir en plein écran&lt;/a>&lt;/p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-emplacements-des-equipements-collectifs_838551">Voir en plein écran</a></p>
 
 **_2- ZAE:_**
 
 
 **→ Histogramme représentant la distribution du nombre d’entreprises et de la superficie en fonction des zones d’activités de la ZAE**
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_6.png)
 
 
 
 **→ Graphique en barre représentant le nombre d’entreprises par zones d’activités de la ZAE**
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_7.png)
 
 
 **_3- Établissements petite enfance:_**
@@ -293,26 +298,26 @@ Par la suite, nous nous sommes attelés à contextualiser les différentes datav
 **→ Carte des emplacements d’établissement de petite enfance**
 
 
-<span style="text-decoration:underline;">lien de visualisation: </span>umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663
+<span style="text-decoration:underline;">lien de visualisation: </span>[umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663]()
 
 
 <span style="text-decoration:underline;">lien d’insertion page html:</span>
 
 
-&lt;iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">&lt;/iframe>&lt;p>&lt;a href="//umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663">Voir en plein écran&lt;/a>&lt;/p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/carte-des-etablissements-daccueil-petite-enfance_838663">Voir en plein écran</a></p>
 
 **_4- PAV:_**
 
 **→Carte des points d’apport volontaire (PAV)**
 
 
-<span style="text-decoration:underline;">lien de visualisation: </span>umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647
+<span style="text-decoration:underline;">lien de visualisation: </span>[umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647]()
 
 
 <span style="text-decoration:underline;">lien d’insertion page html:</span>
 
 
-&lt;iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">&lt;/iframe>&lt;p>&lt;a href="//umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647">Ver pantalla completa&lt;/a>&lt;/p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/es/map/carte-des-points-dapport-volontaires-du-pays-de-lo_838647">Ver pantalla completa</a></p>
 
 **_5- DAE (défibrillateurs):_**
 
@@ -327,15 +332,14 @@ Par la suite, nous nous sommes attelés à contextualiser les différentes datav
 
 <span style="text-decoration:underline;">lien d’insertion page html:</span>
 
-
-&lt;iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/defibrillateurs-automatises-externes-dae_838481?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false">&lt;/iframe>&lt;p>&lt;a href="//umap.openstreetmap.fr/fr/map/defibrillateurs-automatises-externes-dae_838481">Voir en plein écran&lt;/a>&lt;/p>
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/defibrillateurs-automatises-externes-dae_838481?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="//umap.openstreetmap.fr/fr/map/defibrillateurs-automatises-externes-dae_838481">Voir en plein écran</a></p>
 
 **_6- Subventions:_**
 
 
-**→ Graphique représentant les subventions principales apportées par la Communauté d’Agglomération du Pays de l’Or **
+**→ Graphique représentant les subventions principales apportées par la Communauté d’Agglomération du Pays de l’Or**
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_8.png)
 
 
 **_7- Budget:_**
@@ -343,22 +347,19 @@ Par la suite, nous nous sommes attelés à contextualiser les différentes datav
 **→ Graphique représentant le budget primitif pour l’année 2022**
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_9.png)
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_10.png)
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_3.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_11.png)
 
 
 Voir dans le Google Drive le fichier : Contexte de la datavisualisation ( Jour 5 ) [https://docs.google.com/document/d/1cBXpj4FDo2h1PC4lhwMBej4M90xpWCKa/edit#heading=h.gjdgxs](https://docs.google.com/document/d/1cBXpj4FDo2h1PC4lhwMBej4M90xpWCKa/edit#heading=h.gjdgxs)
 
-
-Photos disponibles dans le Google Drive dans le dossier “Images carnet de bord” au Jour 5
-
-
-[https://drive.google.com/drive/folders/1EXAeJ21KiIZqo8HC9FWDvGs5aCcE8hqM?fbclid=IwAR3WigqEhlxAQvK54RUmn_4ThJ7YOzGaCwPUVxZ4XxkMoYAZ-3AyUVhi1UU](https://drive.google.com/drive/folders/1EXAeJ21KiIZqo8HC9FWDvGs5aCcE8hqM?fbclid=IwAR3WigqEhlxAQvK54RUmn_4ThJ7YOzGaCwPUVxZ4XxkMoYAZ-3AyUVhi1UU)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_22.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_23.png)
 
 
 ## CONCLUSION
