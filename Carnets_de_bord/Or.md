@@ -434,5 +434,6 @@ Bilan de cette semaine:
 * 2976482 clics droits réalisés 
 * 270h de sommeil 
 
-
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_12.png)
+<p align="center">
+<img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_12.png" width="250">
+</p>
