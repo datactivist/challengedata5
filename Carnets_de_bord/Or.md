@@ -435,5 +435,5 @@ Bilan de cette semaine:
 * 270h de sommeil 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_12.png" width="250">
+<img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_12.png" width="325">
 </p>
