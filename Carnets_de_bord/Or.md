@@ -154,9 +154,6 @@ _Bilan de mise en qualité des données: **[https://docs.google.com/document/d/1
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_4.png)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_16.png)
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_17.png)
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_25.png)
 
 ## JOUR 4 – PUBLICATION
 
@@ -238,6 +235,8 @@ Constat du jour: les responsables de service qui étaient aux a-données absents
 **Photos et une affiche à voir dans le dossier photos (Jour 4).**
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_13.png)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_14.png)
 
 **Proposition de logos _(qui n’auront finalement pas servi)_**
 
@@ -358,8 +357,7 @@ Par la suite, nous nous sommes attelés à contextualiser les différentes datav
 
 Voir dans le Google Drive le fichier : Contexte de la datavisualisation ( Jour 5 ) [https://docs.google.com/document/d/1cBXpj4FDo2h1PC4lhwMBej4M90xpWCKa/edit#heading=h.gjdgxs](https://docs.google.com/document/d/1cBXpj4FDo2h1PC4lhwMBej4M90xpWCKa/edit#heading=h.gjdgxs)
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_22.png)
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_23.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_15.png)
 
 
 ## CONCLUSION
