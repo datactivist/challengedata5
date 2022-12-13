@@ -169,7 +169,7 @@ De bonne heure et de bonne humeur, nous nous lançons à l’assaut de la journ�
 Il s’agit de remplir avec les agents de la collectivité les fiches descriptives des jeux de données jusqu’ici collectées et traitées. Nous avons tenté d’avoir les informations nécessaires par mail mais face à l’absence de réponse (et la perte de temps engendrée), nous avons décidé d’appeler chaque responsable de service… en vain.En effet, tandis que les uns n’avaient pas de temps à nous consacrer, les autres étaient en déplacement et ne nous ont pas répondu. En accord avec Diane, nous avons entrepris de remplir ces fiches nous-mêmes, en indiquant à notre interlocutrice qu’elles pourraient être complétées et/ou remplies par les responsables concernés par la suite.
 
 
-Clara et Valentin qui avaient travaillé sur les ZFE ( via la template disponible sur le drive)  se rendent compte qu’ils s’étaient trompés et qu’il s’agit de ZAE ( Zones d’Activités Économiques, données envoyées par la collectivité). Ils décident alors de rectifier leurs données et se lancent dans des heures acharnées de création de templates.
+Clara et Valentin qui avaient travaillé sur les ZFE (via la template disponible sur le drive)  se rendent compte qu’ils s’étaient trompés et qu’il s’agit de ZAE (Zones d’Activités Économiques, données envoyées par la collectivité). Ils décident alors de rectifier leurs données et se lancent dans des heures acharnées de création de templates.
 
 
 **Deuxième mission**: Publication des données sur un portail open data
@@ -400,7 +400,7 @@ _Pour parer cette appréhension grandissante, nous décortiquons la journée en 
 
 _Nous décidons donc de remplir ces fiches nous-mêmes grâce aux données collectées et trouvées sur Internet._
 
-_De plus, Valentin et Clara se rerouvent face à un problème de taille : en trouvant la template ZFE, ils ne se sont pas rendus compte que le jeu de données ZAE envoyé par l’interlocutrice était différent. Ils ont donc recommencé chaque étape et créer leur propre template pour pouvoir le traiter, le mettre en qualité ,le publier etc._
+_De plus, Valentin et Clara se retrouvent face à un problème de taille : en trouvant la template ZFE, ils ne se sont pas rendus compte que le jeu de données ZAE envoyé par l’interlocutrice était différent. Ils ont donc recommencé chaque étape et créer leur propre template pour pouvoir le traiter, le mettre en qualité, le publier etc._
 
 _Dans un second temps, nous nous sommes occupés de la publication des données et de la création du compte data.gouv de l’Agglomération du Pays de l’Or . La publication n’est pas particulièrement compliquée mais répétitive et soignée donc cela prend du temps. Lorsque tout cela est fait, nous ressentons une vague de soulagement, et un sentiment du travail accompli._
 
