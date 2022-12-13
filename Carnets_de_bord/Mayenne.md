@@ -11,7 +11,7 @@ par AASLI Jibran, ABOUBAKAR Nahia, KORCHANE Angla, MADRELLE Lucas, VASQUEZ Elena
  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_1.png" />
 </p>
 
-Le lundi 21 novembre à 8h45, c’était le coup d’envoi de la 5ème édition du #ChallengeData animée par Datactivist, pour lequel nous avons créé des groupes mixtes qui seraient nos groupes de travail pendant la semaine. Notre groupe regroupe 7 personnes, 4 filles et 3 garçons dispersés dans les quatre blocs de spécialisation de M1 de notre école, dans l’ordre alphabétique il y a : Jibran, Nahia, Claire, Louis, Dounia, Lucas et Elena. Nous avions quelques appréhensions avant cette semaine, parce que le monde des Data nous paraissait flou, malgré la journée Data et territoire que nous avons eue en 2ème année, animée par Datactivist déjà. Celle-ci remontait à il y a deux ans et sa courte durée n’a pas Nous avions aussi eu des échos et souvenirs des promotions précédentes dont certains groupes avaient grandement été mis en difficulté par la collecte de données dans leur commune. Ce qui nous ravissait par avance en revanche, c’est de se retrouver sur la plateforme Gather!, un hybride de Habbo et Zoom, plus professionnel que Habbo et moins formel que Zoom. La première réunion sur Gather nous a rassurés sur la semaine à venir, éclaircissant la nature du travail que nous allions fournir. Le grand soulagement, cela a été la découverte de la collectivité sur laquelle nous allions travailler : le Conseil Départemental de la Mayenne. Une grande collectivité dont l’assise est déjà large, c’était sans doute pour nous une collecte des données plus facile car déjà existantes. Avant cette semaine de #ChallengeData, nous avions donc quelques doutes sur le déroulement serein de ces cinq jours mais par chance, les quelques jours précédent le lancement nous ont rassuré et mis dans un bon état d’esprit …!
+Le lundi 21 novembre à 8h45, c’était le coup d’envoi de la 5ème édition du #ChallengeData animée par Datactivist, pour lequel nous avons créé des groupes mixtes qui seraient nos groupes de travail pendant la semaine. Notre groupe regroupe 7 personnes, 4 filles et 3 garçons dispersés dans les quatre blocs de spécialisation de M1 de notre école, dans l’ordre alphabétique il y a : Jibran, Nahia, Claire, Louis, Dounia, Lucas et Elena. Nous avions quelques appréhensions avant cette semaine, parce que le monde des Data nous paraissait flou, malgré la journée Data et territoire que nous avons eue en 2ème année, animée par Datactivist déjà. Celle-ci remontait à il y a deux ans et sa courte durée n’a pas aidé. Nous avions aussi eu des échos et souvenirs des promotions précédentes dont certains groupes avaient grandement été mis en difficulté par la collecte de données dans leur commune. Ce qui nous ravissait par avance en revanche, c’est de se retrouver sur la plateforme Gather!, un hybride de Habbo et Zoom, plus professionnel que Habbo et moins formel que Zoom. La première réunion sur Gather nous a rassurés sur la semaine à venir, éclaircissant la nature du travail que nous allions fournir. Le grand soulagement, cela a été la découverte de la collectivité sur laquelle nous allions travailler : le Conseil Départemental de la Mayenne. Une grande collectivité dont l’assise est déjà large, c’était sans doute pour nous une collecte des données plus facile car déjà existantes. Avant cette semaine de #ChallengeData, nous avions donc quelques doutes sur le déroulement serein de ces cinq jours mais par chance, les quelques jours précédent le lancement nous ont rassuré et mis dans un bon état d’esprit …!
 
 <p align="right">
  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_2.png" width="100">
@@ -20,7 +20,6 @@ Le lundi 21 novembre à 8h45, c’était le coup d’envoi de la 5ème édition 
 
 ## JOUR 1 – DIAGNOSTIC
 
-**Résumé :**
 
 
 Nous avons premièrement pris connaissance de la collectivité qui nous avait été attribuée. Il s’agit du Conseil Départemental de la Mayenne. Nous nous sommes ensuite installés dans notre salle de travail et avons commencé à rédiger ces quelques lignes sur le carnet de bord qui nous a notamment aidé à organiser nos  journées. 
@@ -48,7 +47,6 @@ Enfin, nous avons fait parvenir ces choix à Madame X qui les a validés. Nous s
 ## JOUR 2 – IDENTIFICATION
 
 
-**Résumé :**
 
 
 Après une brève présentation des attendus de la journée par l'équipe de DatActivist, nous nous sommes mis au travail - avec un café bien mérité. La première chose à faire étant de répondre à notre interlocutrice au sein du département de la Mayenne chargée de la gouvernance de la donnée.  La journée d’aujourd’hui était dédiée à l’identification. Cette première partie est essentielle dans le processus menant à l’ouverture des données puisqu’elle prend en compte la recherche de données et leur pertinence. En ce qui nous concerne, nous avons été  plutôt chanceux car Madame X avait d’abord des besoins précis qui s’incarnent dans la mise en qualité, la publication et la valorisation des données relatives à la transition écologique. Mais également car  les données ouvertes sont déjà à l'œuvre au sein du département et ce  grâce au travail de Madame Hervé et plus largement  de la Direction  de la Transformation et de l’Innovation. 
@@ -85,9 +83,6 @@ Avec ces informations, nous avons donc  commencé à prendre de l’avance sur l
 ## JOUR 3 – MISE EN QUALITE
 
 
-**Résumé :**
-
-
 Après une brève présentation des attendus de la journée par l'équipe de DatActivist, nous nous sommes mis au travail. Nous avons pris ensuite un café afin de nous booster durant la journée. Nous avons par la suite entamé la lecture de la documentation, analysé les tutoriels de présentation pour la journée. Nous nous sommes ensuite réparti les jeux de données. Chaque personne du groupe était chargée du nettoyage et de la mise en qualité des jeux de données. Pour la plupart, le nettoyage était assez rapide et nous n'avons pas rencontré de réelle difficulté dans la mise en qualité. Sauf pour un jeu de données, où nous avons rencontré une complication, les données de la répartition des potentiels de méthanisation à horizon 2050 par canton, nous a ralenti dans la réflexion de son nettoyage. En effet, ce jeu de données n’est pas propre, il prend en compte un découpage cantonal non-conforme à la réforme de 2014. Les cantons sont découpés en 32 au lieu de 17, et par manque d’informations, nous sommes restés bloqués dans l’attente d’une clarification de notre interlocutrice pour répondre à notre problème. Nous avons donc fixé avec elle, un rendez-vous sur Gather à 14h. Nous étions donc dans l’attente du rendez-vous avec notre interlocutrice après avoir fini le nettoyage des données. Nous en avons profité pour prendre une pause déjeuner. 
 
 
@@ -110,9 +105,6 @@ Cette journée fut plutôt productive grâce à une bonne organisation du travai
 
 
 ## JOUR 4 – PUBLICATION
-
-
-**Résumé :**
 
 
 Après la petite réunion habituelle avec les datactivistes, nous avons directement assisté à une entrevue avec notre référente du département afin qu’elle nous explique les procédés nécessaires à la publication des données.  Nous allons  notamment utiliser le portail open data qui est une plateforme assez couramment utilisée par les collectivités. Notre interlocutrice récupérera nos données, notamment pour les présenter au président du Conseil départemental, ce qui devrait précéder l’ouverture d’un portail de data propre à la Mayenne en mars 2023. Il y a beaucoup d’informations avec lesquelles composer et nous sommes donc assez perplexes.  
@@ -169,9 +161,6 @@ _**Newsletter Ouvrons les données !, Groupe 19, Conseil Départemental de la Ma
 
 
 ## JOUR 5 – VALORISATION
-
-
-**Résumé :**
 
 
 Notre cinquième jour a débuté par le passage en revue du carnet de bord des jours précédents. Nous avons retravaillé certaines parties, notamment le résumé du premier jour, pour uniformiser le carnet de bord. Par la suite, nous avons convenu d’une répartition de l’introduction, de la conclusion et du résumé du cinquième jour, parmi ceux qui n’avaient pas encore pu rédiger leur part. Ce remplissage s’est fait dans la coopération. 
