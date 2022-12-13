@@ -151,8 +151,9 @@ Notre interlocutrice ne pouvant pas participer à notre point quotidien, nous lu
 
 _Bilan de mise en qualité des données: **[https://docs.google.com/document/d/1d1MVYER51F5Zq4gT_TwqpGaong06Ltus/edit?usp=sharing&ouid=109443849090977709761&rtpof=true&sd=true]()**_
 
-
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_4.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_4.png" />
+</p>
 
 
 ## JOUR 4 – PUBLICATION
@@ -230,11 +231,13 @@ Constat du jour: les responsables de service qui étaient aux a-données absents
 
 - Patrimoine (équipements): [https://www.data.gouv.fr/fr/datasets/jeu-de-donnees-patrimoine-equipements-collectifs-publics/](https://www.data.gouv.fr/fr/datasets/jeu-de-donnees-patrimoine-equipements-collectifs-publics/)
 
-**Plan de communication à voir dans le Drive**
+**Plan de communication et une affiche à voir dans le Drive**
 
-**Photos et une affiche à voir dans le dossier photos (Jour 4).**
+<p align="center">
+<img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_13.png" width="500">
+</p>
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_13.png)
+**Photos à voir dans le dossier photos (Jour 4).**
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Or_14.png)
 
