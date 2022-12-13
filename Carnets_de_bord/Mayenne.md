@@ -7,15 +7,18 @@ par AASLI Jibran, ABOUBAKAR Nahia, KORCHANE Angla, MADRELLE Lucas, VASQUEZ Elena
 
 ## INTRODUCTION
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_1.png)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_1.png" />
+</p>
 
 Le lundi 21 novembre à 8h45, c’était le coup d’envoi de la 5ème édition du #ChallengeData animée par Datactivist, pour lequel nous avons créé des groupes mixtes qui seraient nos groupes de travail pendant la semaine. Notre groupe regroupe 7 personnes, 4 filles et 3 garçons dispersés dans les quatre blocs de spécialisation de M1 de notre école, dans l’ordre alphabétique il y a : Jibran, Nahia, Claire, Louis, Dounia, Lucas et Elena. Nous avions quelques appréhensions avant cette semaine, parce que le monde des Data nous paraissait flou, malgré la journée Data et territoire que nous avons eue en 2ème année, animée par Datactivist déjà. Celle-ci remontait à il y a deux ans et sa courte durée n’a pas Nous avions aussi eu des échos et souvenirs des promotions précédentes dont certains groupes avaient grandement été mis en difficulté par la collecte de données dans leur commune. Ce qui nous ravissait par avance en revanche, c’est de se retrouver sur la plateforme Gather!, un hybride de Habbo et Zoom, plus professionnel que Habbo et moins formel que Zoom. La première réunion sur Gather nous a rassurés sur la semaine à venir, éclaircissant la nature du travail que nous allions fournir. Le grand soulagement, cela a été la découverte de la collectivité sur laquelle nous allions travailler : le Conseil Départemental de la Mayenne. Une grande collectivité dont l’assise est déjà large, c’était sans doute pour nous une collecte des données plus facile car déjà existantes. Avant cette semaine de #ChallengeData, nous avions donc quelques doutes sur le déroulement serein de ces cinq jours mais par chance, les quelques jours précédent le lancement nous ont rassuré et mis dans un bon état d’esprit …!
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_2.png)
+<p align="right">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Mayenne_2.png" width="100">
+</p>
 
 
-
- ## JOUR 1 – DIAGNOSTIC
+## JOUR 1 – DIAGNOSTIC
 
 **Résumé :**
 
@@ -168,7 +171,7 @@ _**Newsletter Ouvrons les données !, Groupe 19, Conseil Départemental de la Ma
 ## JOUR 5 – VALORISATION
 
 
-**Résumé : *
+**Résumé :**
 
 
 Notre cinquième jour a débuté par le passage en revue du carnet de bord des jours précédents. Nous avons retravaillé certaines parties, notamment le résumé du premier jour, pour uniformiser le carnet de bord. Par la suite, nous avons convenu d’une répartition de l’introduction, de la conclusion et du résumé du cinquième jour, parmi ceux qui n’avaient pas encore pu rédiger leur part. Ce remplissage s’est fait dans la coopération. 
