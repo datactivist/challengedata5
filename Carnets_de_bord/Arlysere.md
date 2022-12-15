@@ -47,7 +47,7 @@ Cependant, il est important de noter quelques points positifs et certains qui po
 Ainsi, les jeux de données sur lesquels nous allons travailler portent sur la consommation annuelle d'électricité et gaz par commune et par secteur d'activité (portant notamment sur le patrimoine général que sur les communes individuelles), l'équipement collectif public, potentiellement sur l'assainissement de l'eau et l'éclairage public.
 
 
-![équipeautravail](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere1.jpg =x400)
+![équipeautravail](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere1.jpg)
 
 
 
@@ -82,11 +82,11 @@ Nous avons établi le constat suivant : la consommation de gaz est correctement 
 Petite note de fin de journée : nos interlocuteurs ont reconnu ne pas être totalement aptes à nous accompagner sur ce travail en termes de réactivité et aussi de préparation des données en amont. L'équipe a retrouvé de l'énergie, et est prête à affronter la journée de demain.
 
 
-![milena](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere2.jpg =x400)
+![milena](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere2.jpg)
 
-![équipeautravail2](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere3.jpg =x400)
+![équipeautravail2](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere3.jpg)
 
-![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere4.jpg =x400)
+![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere4.jpg)
 
 
 
@@ -99,9 +99,9 @@ Aujourd'hui encore, la disparité des données qui nous ont été confiées a en
 
 Parmi les étapes d'aujourd'hui, nous avons dû procéder au nettoyage des données enregistrées dans nos templates. Cette première étape était à la fois constructive pour comprendre les informations dont ont besoin les datactivistes, et également assez dure car les données que nous possédions étaient extrêmement mal rangées. Notre interlocuteur de l'agglomération d'Arlysère fonctionnait seul à la composition de ces données et n'avait pas de base d'Open data très fournie. Ainsi, plusieurs erreurs dont un fichier contenant plus d'un million de lignes inutiles devaient être traitées sans compter les nombreuses données présentes dans de mauvaises feuilles de calcul ou des jeux de données du même thème mais contenant des ordres de grandeurs et des unités différentes pour des données censées être similaires. Malgré cela, nous nous sommes motivés tous ensemble à effectuer un travail appliqué en relisant plusieurs fois la méthodologie présente sur le site d'Opendata Canvas. 
 
-![confettis](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere5.jpg =x400)
+![confettis](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere5.jpg)
 
-![tableurs](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere6.jpg =x400)
+![tableurs](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere6.jpg)
 
 
 _C'était tout de même l'occasion d'effectuer les tâches en s'amusant et notamment en rendant un peu plus esthétique nos feuilles de calcul._
@@ -178,7 +178,7 @@ Le but de ce plan de communication est de rendre les données ouvertes attrayant
 3. Communiquer les avantages des données ouvertes. 
 4. Cibler les municipalités partenaires, leurs agents et citoyens.
 
-![pausecafé](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere7.jpg =x400)
+![pausecafé](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere7.jpg)
 
 
 Les challengers en pleine pause café ☕️.
@@ -229,7 +229,7 @@ Notre bilan à l'issue de cette semaine est donc positif. Malgré les difficult�
 
 
     
-![fin](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere8.jpg =x400)
+![fin](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Arlysere8.jpg)
 
 _Un beau moment pour clore la semaine, avec une pensée pour Milena qui n'a pas pu être avec nous à ce moment_
 
