@@ -23,7 +23,7 @@ Notre groupe travaille sur les communes de l’Assemblée du Pays de Tarentaise 
 
 
 
-![logo_tarentaise](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_1.jpg =x250) ![carte_tarentaise](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_2.jpg =x350)
+![logo_tarentaise](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_1.jpg) ![carte_tarentaise](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_2.jpg)
 
     
 
@@ -49,7 +49,7 @@ A 15h, nous appelons notre interlocutrice, Cheffe de projet Avenir Montagne en T
 Nous avons commencé la journée avec le briefing en salle médiane. Après cette mise au point sur le travail à effectuer en cette deuxième journée, nous nous sommes réunis en D03 autour d’un bon petit déjeuner (merci à Élise pour les viennoiseries).
     
 
-![painauchocolat](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_1.jpg =x400)
+![painauchocolat](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_1.jpg)
 
 
 Nous nous sommes ensuite répartis les tâches de la checklist et avons commencé à travailler chacun de notre côté.
@@ -68,7 +68,7 @@ Alexandre s’est occupé une bonne partie de la journée de l’organigramme, p
 
 
         
-![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_23.png =x500)
+![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_23.png)
 
 
 
@@ -81,7 +81,7 @@ Nous avons plutôt eu du mal à obtenir des informations pour deux raisons majeu
 Après chaque “session” d’entretiens téléphoniques, Lilou a remis au propre les notes qu’elle avait prises pendant les appels menés par Manon. Cela nous a permis de suivre nos prises de contact avec les communes et de savoir où nous en étions, ce qui nous manquait, et ce qu’il nous restait à faire.
 
 
-![appel](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_8.jpg =x500)
+![appel](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_8.jpg)
 
 
 
@@ -93,17 +93,17 @@ Pendant ce temps, Élise a recherché les lignes de transport sur internet, et t
 
 
     
-![appelEtienne](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_5.jpg =x500)
+![appelEtienne](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_5.jpg)
 
 
 Nous sommes ensuite partis déjeuner, et nous avons profité de ce moment pour célébrer les 21 ans d’Anita: un bon moment de partage entre étudiants et tuteurs du Challenge Data qui l’a beaucoup émue.
 
 
     
-![bougies](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_6.JPG =x500)
+![bougies](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_6.JPG)
 
 
-![galette](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_7.jpg =x500)
+![galette](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_7.jpg)
 
 
 
@@ -114,7 +114,7 @@ Ce moment nous a bien motivés pour la deuxième partie de la journée.
 
 
     
-![schema](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_11.png =x500)
+![schema](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_11.png)
 
 
 
@@ -156,7 +156,7 @@ Nous avons terminé cette journée par une session “team building” avec Clé
 
 
 
-![jeu](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_9.jpg =x500)
+![jeu](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_9.jpg)
 
 
 
@@ -172,7 +172,7 @@ Nous avons commencé par le briefing en salle médiane à 9h. Après cette mise 
 
 À 9h15 avec toute l’équipe nous avons décidé de faire un point sur les documents en notre possession et sur nos documents manquants afin d’avancer de manière efficace en début de matinée.
 
-![wendy](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_10.jpg =x500)
+![wendy](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_10.jpg)
 
 Alexandre a pris l'initiative de prendre les directives pour ce check up et Anita s’est occupée de noter les personnes qu’il fallait recontacter. 
 
@@ -201,7 +201,7 @@ Pendant ce temps, Anita et Maylis ont commencé à apprivoiser la _wanted data l
 
 La carte qui nous a servi de point d’appui : 
 
-![carte](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_2.jpg =x500)
+![carte](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_2.jpg)
 
 
 Ensuite nous avons refait un point aux alentours de 10h30 pour faire état des lieux. Puis nous nous sommes organisés pour rentrer les données dans la _wanted data list_.
@@ -249,7 +249,7 @@ A 13h, Lilou et Manon ont contacté un membre de Hanover qui nous a renvoyé ver
 
 
 Sur la photo on peut voir la _wanted data list_ (_stop_times.txt_) avec le document PDF de Valléebus qui permet d’avoir les données.
-![stoptimes](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_12.jpg =x500)
+![stoptimes](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_12.jpg)
 
 Si nous n’avons reçu aucune donnée au format GTFS, Manon a finalement eu des membres de la compagnie Transdev qui nous ont envoyé des données au format CSV relatives à Courchevel. Pour réussir à faire les liens et clarifier le tout sur la _wanted data list_, Clément nous a aidé à trier les documents reçus en CSV. Ensuite, nous avons continué de traiter les données des Avanchers Valmorel. Toutefois nous avons été face à un dilemme. Poursuivre la saisie manuellement des données pour Courchevel (sachant que celles-ci étaient à jour) et que nous maîtrisons désormais la saisie de données ou utiliser les données datant de l’année dernière au format CSV sans notion sur ce dernier (et il fallait aussi faire correspondre les noms d'arrêts donnés avec les noms des arrêts sur les fichiers). Après une réflexion collective nous avons décidé de poursuivre la saisie manuellement car avec de l’organisation et des membres efficaces nous étions optimistes. 
 
@@ -271,14 +271,14 @@ Elise explique à Anita et Lilou comment retrouver les arrêts “tar” lorsqu�
 
 La journée commence sur les chapeaux de roues. Nous avons beaucoup de travail devant nous pour finir la traduction des horaires des PDF sur Excel, dans l’optique de les transférer - enfin - au format GTFS. Certains d’entre nous ont dû travailler la nuit dernière pour avancer sur le travail. Dans la matinée, les objectifs normaux du “jour 4” (communication, création du compte pour data.gouv.fr,...) nous paraissent lointains : nous avançons efficacement malgré tout. Le fait qu’Allyson ait reconnu devant l’ensemble des groupes la nouveauté et la difficulté de l’exercice auquel nous sommes confrontés avec le groupe 8 a probablement contribué à nous booster pour la journée ! 
 
-![fatigue](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_13.jpg =x500)
+![fatigue](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_13.jpg)
 
 
 Le groupe vit très bien malgré ce flot ininterrompu d’horaires de bus à traiter, les tâches se répartissent équitablement et chacun trouve sa place. Pendant qu’Alexandre, Elise, Manon et Wendy terminent de remplir les fichiers des horaires, Maelys, Lilou et Anita réfléchissent au plan de communication. Aux alentours de 12h30, les 7 Excels de notre _wanted data list_ sont enfin complétés et transmis à Clément dans l’espoir qu’ils soient exploitables ! Dans la foulée, nous avons repris contact avec notre interlocutrice pour qu’elle nous explique plus précisément ses attentes en matière de communication. Elle nous a demandé de réaliser des cartes interactives avec arrêts et horaires, par ville et par ligne. Elle souhaite aussi un document encourageant à utiliser le bus, doté d’un lien renvoyant aux cartes interactives. Avant la pause déjeuner, Clément nous a annoncé que nos jeux de données étaient passés sur le format GTFS, mais avec un grand nombre d’erreurs qu’il va falloir résoudre rapidement pour tenir les délais.
 
 
 Elise a commencé à remplir les fiches descriptives des jeux de données, mais face à la complexité des erreurs que nous avons à traiter nous nous sommes rapidement rendus compte qu’il était inutile de le faire pour l’instant. Le résultat du premier filtre avant que nos données ne soient acceptées au format GTFS donne à voir un grand nombre de corrections à effectuer, et nous décidons donc de tous nous pencher sur le sujet pour être efficaces. 
-![travaildur](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_14.jpg =x500)
+![travaildur](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_14.jpg)
 
 C’est à ce moment que nos camarades des autres groupes sont venus en nombre nous proposer leur aide, et même s’ils n’étaient pas en mesure de nous aider réellement, leur présence ainsi que celle d’Allyson et Clément nous a rassuré sur le fait que notre situation était bel et bien d’une complexité inédite.
 
@@ -291,7 +291,7 @@ Au final, la question se résout assez rapidement, et en l’attente d’une val
 
 À 16h30, nous étions donc encore en train de rectifier les données corrompues, à l’exception de Maëlys partie prêter main forte au groupe 8. En effet, cette journée a aussi été marquée par une collaboration plus étroite avec ce groupe qui partage notre mission. Leur avance leur a permis de réaliser la création de compte data.gouv.fr et d’avancer sur la communication (avec l’appui de Maëlys) puisque ces tâches doivent être réalisées en commun. L’organigramme, commun lui aussi, est cependant à la charge d’Alexandre qui le met à jour régulièrement.
 
-![presquefini](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_15.jpg =x500)
+![presquefini](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_15.jpg)
 
 Vers 17h30, le fait d’avoir terminé les corrections, sans même savoir si elles permettraient un fonctionnement effectif sur GTFS, nous a bien remotivé au vu de l’heure avancée !
 
@@ -310,13 +310,13 @@ A 18h50 Elise et Alexandre finissent enfin les dernières résolutions d’erreu
 Dans la matinée, l’équipe de communication composée de Maëlys, Lilou et Manon poursuivent la création d’affiches sur Canva afin de promouvoir une mobilité durable au sein de la région.  Wendy poursuit le communiqué de presse pour le diffuser en interne aux autres communes de la région. Notre interlocutrice souhaite avoir des affiches pour pouvoir les diffuser au sein de l’espace public afin d’inciter les citoyens à utiliser les transports en commun au lieu de la voiture. Nous avons réfléchi à des slogans attractifs pour promouvoir la mobilité durable. On a également décidé d’effectuer 4 affiches déclinées selon le calendrier estival. 
 
 
-![affiche1](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_16.png =x500)
+![affiche1](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_16.png)
 
-![affiche2](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_17.png =x500)
+![affiche2](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_17.png)
 
-![affiche3](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_18.png =x500)
+![affiche3](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_18.png)
 
-![affiche4](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_19.png =x500)
+![affiche4](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_19.png)
 
 
 Pendant ce temps, Alexandre, Anita et Elise continuent à corriger des erreurs sur le fichier Excel avec l’aide de Clément. La tâche est ardue mais les mots d’encouragements d’Allyson sur l'intérêt et la pertinence de l’ouverture de nos données pour la collectivité ont motivé nos troupes ! 
@@ -324,7 +324,7 @@ Pendant ce temps, Alexandre, Anita et Elise continuent à corriger des erreurs s
 Après avoir passé la matinée à corriger les erreurs contenues dans les données excel, l’équipe avec le soutien de Clément parvient à les résoudre et à convertir le fichier Excel en GTFS. Nous sommes heureux d’enfin voir nos données en GTFS. La joie est à son comble ! 
 
 
-![fini](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_28.png =x500)
+![fini](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_28.png)
 
 
 
@@ -343,7 +343,7 @@ Elise et Maëlys se tâchent de remplir le contexte de datavisualization. Lilou 
 Alexandre a pu finaliser l’organigramme. Celui-ci sera transmis à notre interlocutrice. 
 
 
-![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_23.png =x500)
+![organigramme](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_23.png)
 
 
 
@@ -356,9 +356,9 @@ Alexandre a pu finaliser l’organigramme. Celui-ci sera transmis à notre inter
 
 Scanner le QR code pour avoir accès à la carte interactive 
 
-![affiche5](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_26.png =x500)
+![affiche5](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_26.png)
 
-![résumétrajets](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_27.png =x500)
+![résumétrajets](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Tarentaise_gp1_out_27.png)
 
 
 
