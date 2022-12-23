@@ -33,7 +33,7 @@ Nous avons compris que sa priorité est de travailler sur des données environne
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_2.png)
 
-Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a éclairé sur la suite des démarches à suivre. Madame E n’ayant pas la capacité de nous fournir les données sur les capteurs, nous avons contacté Wi6labs, le prestataire qui récolte sur son serveur les données, qui doit nous fournir un compte temporaire pour accéder aux données. Ensuite nous avons contacté Monsieur SR, l’agent informatique de la commune, afin de convenir d’un échange avec lui. Nous voulions avoir son avis sur la wishlist et la possibilité d’ouvrir d’autres jeux de données que ceux des capteurs, qui nous paraissent potentiellement difficiles à traiter. Nous avons également contacté Monsieur PR et avons convenu d’un entretien téléphonique avec lui mardi à 9h30. Monsieur PR est l’interlocuteur qui travaille à la métropole de Rennes et qui va nous aider à comprendre les données des capteurs, pour savoir si nous pouvons les utiliser. Dans le cas où ce n’est pas possible, nous travaillerons sur d’autres jeux de données comme l’état civil, le budget communal, les subventions aux associations ou le menu des cantines. Cet interlocuteur nous permettra d’échanger également sur la communication de ces données, puisqu’il s’agit de les publier sur l’open data de la métropole de Rennes. Nous espérons récolter rapidement ces données mardi matin afin de pouvoir les analyser. 
+Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a éclairé sur la suite des démarches à suivre. Madame E n’ayant pas la capacité de nous fournir les données sur les capteurs, nous avons contacté Wi6labs, le prestataire qui récolte sur son serveur les données, qui doit nous fournir un compte temporaire pour accéder aux données. Ensuite nous avons contacté Monsieur SR, l’agent informatique de la commune, afin de convenir d’un échange avec lui. Nous voulions avoir son avis sur la wishlist et la possibilité d’ouvrir d’autres jeux de données que ceux des capteurs, qui nous paraissent potentiellement difficiles à traiter. Nous avons également contacté Monsieur PR et avons convenu d’un entretien téléphonique avec lui mardi à 9h30. Monsieur PR est l’interlocuteur qui travaille à la métropole de Rennes et qui va nous aider à comprendre les données des capteurs, pour savoir si nous pouvons les utiliser. Dans le cas où ce n’est pas possible, nous travaillerons sur d’autres jeux de données comme l’état civil, le budget communal, les subventions aux associations ou le menu des cantines. Cet interlocuteur nous permettra d’échanger également sur la communication de ces données, puisqu’il s’agit de les publier sur le portail open data de la métropole de Rennes. Nous espérons récolter rapidement ces données mardi matin afin de pouvoir les analyser. 
 
 *Wish List :* 
 [https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040](https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040)
@@ -42,245 +42,73 @@ Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a écl
 
 ## JOUR 2 – IDENTIFICATION
 
+La deuxième journée commence à 9 heures par le point quotidien en salle médiane pour visualiser le déroulé des étapes à effectuer durant la journée. L’objectif du jour 2 est de déterminer les données que nous allons exploiter parmi la wishlist construite la veille.
 
-    La deuxième journée commence à 9 heures par le point quotidien en salle médiane pour visualiser le déroulé des étapes à effectuer durant la journée. L’objectif du jour 2 est de déterminer les données que nous allons exploiter parmi la wishlist construite la veille.
+Dès 9h30 nous avions prévu la veille un rendez-vous téléphonique avec Monsieur PR, le référent de la métropole de Rennes. L’échange est constructif. Notre référent Datactivist Guillaume est présent au rendez-vous et oriente l’entretien (cf photo ci-dessous). Au départ, Monsieur PR est motivé par l’exploitation des données des capteurs récemment installés dans la commune de Chavagne. Cependant, la collecte des données n’est pas encore finalisée et il paraît impossible de les exploiter cette semaine en raison du calendrier et de la difficulté du format. Monsieur PR nous aide donc à déterminer d’autres types de données exploitables dans la commune. Il nous explique également la procédure open data de la métropole de Rennes.
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_5.png)
 
-    Dès 9h30 nous avions prévu la veille un rendez-vous téléphonique avec Monsieur PR, le référent de la métropole de Rennes. L’échange est constructif. Notre référent Datactivist Guillaume est présent au rendez-vous et oriente l’entretien (cf photo ci-dessous). Au départ, Monsieur PR est motivé par l’exploitation des données des capteurs récemment installés dans la commune de Chavagne. Cependant, la collecte des données n’est pas encore finalisée et il paraît impossible de les exploiter cette semaine en raison du calendrier et de la difficulté du format. Monsieur PR nous aide donc à déterminer d’autres types de données exploitables dans la commune. Il nous explique également la procédure open data de la métropole de Rennes.
+A la suite de cet échange, nous envoyons directement un mail à la référente de la commune, Madame E,  pour lui faire un retour et fixer définitivement les thématiques de données sélectionnées. Les jeux de données de la wish list suivants n’ont pas été ajoutés à la wanted data list : budget communal, recensement, subvention aux associations, état civil, qualité de l’air, consommation annuelle d’électricité. Ce sont les menus de la cantine, les données des commerces et les DAE qui ont retenu l’attention de la commune.
 
+Ainsi, à la suite de l’identification des thématiques prioritaires, nous nous sommes répartis les tâches à effectuer, après la lecture du guide open data canvas. Eden et Thibault complètent l’organigramme de la donnée. Salomé et Agathe évaluent le travail de mise en qualité. Sacha étudie les templates sur les menus de la cantine, ce qui demande une attention plus particulière en raison du format pdf. Mathilde et Eve se sont concentrées sur la mise en forme de la WantedDataList.
 
-    
+Après la pause déjeuner, la chasse aux données est lancée, il manque en effet beaucoup d’informations sur beaucoup de thématiques que nous nous répartissons. Eve appelle Monsieur J qui s’occupe de l’éclairage spécifique à la commune de Chavagne. Absent, Monsieur J détiendrait les données des horaires d’éclairages, mais on constate donc que ces données vont être compliquées à récupérer.
 
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.jpg). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+De plus, certaines informations manquent sur la carte des DAE du site de Chavagne. Un recensement national des défibrillateurs existe mais il est incomplet, il ne recense qu’un seul défibrillateur sur les trois mis en avant sur le site de Chavagne. Nous formulons donc des requêtes sur les informations manquantes à Monsieur M, un collaborateur recommandé par Monsieur PR. Sur le même sujet, Monsieur C, Directeur Général des Services, a répondu de manière très impliquée au téléphone. Il nous a transmis de nombreuses données manquantes, notamment la facture des défibrillateurs. Cela montre la démarche positive vis-à-vis de l’ouverture des données du Directeur Général des Services.
 
+En parallèle, le travail sur le recensement des commerces de la commune s’organise. Grâce au site internet de Chavagne, la majorité des données peut être collectée.
 
-![alt_text](images/image2.jpg "image_tooltip")
+Sur le sujet de la biodiversité, malgré la motivation de l’élue à la transition écologique, Madame E, le format des données transmises en capture d’écran de powerpoint paraît compliqué à traiter. 
 
 
+*Wanted Datalist :*
+[https://docs.google.com/spreadsheets/d/1mmuj9LTKhFTpf_HRKhmYpeQjm78oHBpK/edit#gid=819341745](https://docs.google.com/spreadsheets/d/1mmuj9LTKhFTpf_HRKhmYpeQjm78oHBpK/edit#gid=819341745)
 
-    A la suite de cet échange, nous envoyons directement un mail à la référente de la commune, Madame E,  pour lui faire un retour et fixer définitivement les thématiques de données sélectionnées. Les jeux de données de la wish list suivants n’ont pas été ajoutés à la wanted data list : budget communal, recensement, subvention aux associations, état civil, qualité de l’air, consommation annuelle d’électricité. Ce sont les menus de la cantine, les données des commerces et les DAE qui ont retenu l’attention de la commune.
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_6.png)  
 
+*Organigramme :*
 
-    Ainsi, à la suite de l’identification des thématiques prioritaires, nous nous sommes répartis les tâches à effectuer, après la lecture du guide open data canvas. Eden et Thibault complètent l’organigramme de la donnée. Salomé et Agathe évaluent le travail de mise en qualité. Sacha étudie les templates sur les menus de la cantine, ce qui demande une attention plus particulière en raison du format pdf. Mathilde et Eve se sont concentrées sur la mise en forme de la WantedDataList.
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_7.png)  
 
+MOOD DU JOUR :  Les nouvelles données remotivent l’équipe qui part à la recherche des informations, à tout prix. Super cohésion de groupe qui permet un travail efficace.
 
-    Après la pause déjeuner, la chasse aux données est lancée, il manque en effet beaucoup d’informations sur beaucoup de thématiques que nous nous répartissons. Eve appelle Monsieur J qui s’occupe de l’éclairage spécifique à la commune de Chavagne. Absent, Monsieur J détiendrait les données des horaires d’éclairages, mais on constate donc que ces données vont être compliquées à récupérer.
 
+## JOUR 3 – MISE EN QUALITÉ
 
-    De plus, certaines informations manquent sur la carte des DAE du site de Chavagne. Un recensement national des défibrillateurs existe mais il est incomplet, il ne recense qu’un seul défibrillateur sur les trois mis en avant sur le site de Chavagne. Nous formulons donc des requêtes sur les informations manquantes à Monsieur M, un collaborateur recommandé par Monsieur PR. Sur le même sujet, Monsieur C, Directeur Général des Services, a répondu de manière très impliquée au téléphone. Il nous a transmis de nombreuses données manquantes, notamment la facture des défibrillateurs. Cela montre la démarche positive vis-à-vis de l’ouverture des données du Directeur Général des Services.
 
+Comme tous les jours, la journée commence à 9h par un point des objectifs en salle médiane. La troisième journée se concentre sur les traitements des jeux de données récoltés la veille. 
 
-    En parallèle, le travail sur le recensement des commerces de la commune s’organise. Grâce au site internet de Chavagne, la majorité des données peut être collectée.
+Dès la fin de la réunion, nous faisons une lecture en groupe de l’open data canvas pour mieux visualiser les étapes journalières. S'ensuit une répartition des vérifications (nettoyage, compilation, standardisation) des jeux de données. Malgré la volonté de Madame E, nous sommes contraints à abandonner le traitement des données  d’avis de recherche sur la biodiversité, car le format est impossible à traiter (format de powerpoint trop lourd à l’envoi et capture d’écran des slides de powerpoint insuffisantes).
 
+Eve et Eden se concentrent sur les DAE. Monsieur C (le DGS) avait évoqué d’autres défibrillateurs relevant du domaine privé lors des échanges téléphoniques. Il a été impossible de les trouver : pas de réponses de la maison d’accueil spécialisée des papillons blancs ni de l’association espérance.
 
-    Sur le sujet de la biodiversité, malgré la motivation de l’élue à la transition écologique, Madame E, le format des données transmises en capture d’écran de powerpoint paraît compliqué à traiter. 
+Salomé, Agathe et Thibault travaillent les données des commerces. Malgré un nouvel appel avec le DGS pour avoir la base de données qui a servi à construire le site internet, il est impossible de récupérer le fichier excel de base. Le DGS évoque le RGPD, des informations sensibles, et il nous donne l’annuaire des bases de données des commerces pour nous aider à retranscrire toutes les données dans un document excel. Après avoir rempli le tableau excel recensant toutes les données du site, nous devons ensuite modifier toutes les données GPS des google sheet car le format de google maps n’est pas adapté. Nous les avons donc converties en données Lambert. Eve et Eden également pour les DAE. Sacha et Mathilde vérifient les menus de la cantine.
 
+Pour l’étape 3.4 de validation avec Validata nous rencontrons de grosses difficultés : le site ne reconnait pas le document de DAE et pour les données de la cantine des erreurs sont relevées alors qu’il n’y en a pas ou qu’elles sont pratiquement non-identifiables… (check avec la référente remplaçante de Guillaume qui remarque aussi que c’est étrange).
 
+Cependant sur schema.data.gouv tout a fonctionné, les jeux de données sont conformes. Nous en déduisons que c’est le site Validata qui a un problème.
 
-* <span style="text-decoration:underline;">Wanted Datalist</span> : [https://docs.google.com/spreadsheets/d/1mmuj9LTKhFTpf_HRKhmYpeQjm78oHBpK/edit#gid=819341745](https://docs.google.com/spreadsheets/d/1mmuj9LTKhFTpf_HRKhmYpeQjm78oHBpK/edit#gid=819341745)
+Par la suite, nous rentrons toutes les données GPS sur UMap pour vérifier la concordance des coordonnées Lambert récoltées. Nous avons bien suivi la méthode de vérification à la main d’open data canvas pour les données des commerces et tout est valide.
 
-    
+Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publication sur le portail Open Data de Rennes. A 15h30 nous avons prévu un appel avec lui afin de nous renseigner sur les démarches précises de publication des données sur le site. Nous avons au préalable créé un compte utilisateur sur l’Open Data de Rennes pour anticiper cette étape, comme il nous l’a demandé par mail. L’appel commence par la présentation de la plateforme et la démonstration du processus de publication sur le site, à l’aide d’un partage d’écran de Monsieur BL qui se base sur un exemple de jeu de données. Il nous a aussi mis en garde sur le jeu de données des menus de la cantine qui risque d’être rapidement obsolète. Il faudrait donc échanger avec la commune pour voir s’ils auraient la possibilité de le mettre à jour régulièrement.
 
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image3.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
 
+*Validation des données DAE :*
 
-![alt_text](images/image3.png "image_tooltip")
-
-
-* <span style="text-decoration:underline;">Organigramme</span> :
-
-    
-
-<p id="gdcalert4" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image4.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert5">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image4.png "image_tooltip")
-
-
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>L’entretien avec le référent de la métropole de Rennes, Monsieur PR, a été très instructif : abandon de l’exploitation des données sur les capteurs environnementaux au profit d’une sélection de thématiques de données plus exploitables.
-<ul>
-
-<li>Validation par l’élue Madame E des thématiques de données à traiter.
-<ul>
-
-<li>Appropriation du matériel datactivist : organigramme des données, WantedDataList, templates des données.
-<ul>
-
-<li>Malgré les difficultés à contacter les intervenants, nous avons réussi à rassembler les données des DAE de la commune.
-<ul>
-
-<li>La bonne volonté du Directeur Général des Services a permis de récolter des données des DAE essentielles. Son investissement vis-à-vis de la commune est remarquable.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Les formats des données sont parfois très difficiles à exploiter : par exemple, les menus de cantine en pdf (nécessité de conversion en excel).
-<ul>
-
-<li>La chasse aux données est semée d'embûches : impossibilité de joindre l’interlocuteur sur l’éclairage, manque d’identification des DAE sur le site internet de la commune mais aussi sur le site du gouvernement, de manière générale le travail de collecte des données est parfois long.
-<ul>
-
-<li>Le format des données sur la biodiversité est inexploitable : il consiste en une capture d’écran de slides de powerpoint qui ne nous permet pas dans le temps imparti du challenge de l’exploiter. Le fichier powerpoint est cependant trop lourd à envoyer. 
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-
-    MOOD DU JOUR :  Les nouvelles données remotivent l’équipe qui part à la recherche des informations, à tout prix. Super cohésion de groupe qui permet un travail efficace.
-
-
-    **JOUR 3 – MISE EN QUALITÉ**
-
-
-    Comme tous les jours, la journée commence à 9h par un point des objectifs en salle médiane. La troisième journée se concentre sur les traitements des jeux de données récoltés la veille. 
-
-
-    Dès la fin de la réunion, nous faisons une lecture en groupe de l’open data canvas pour mieux visualiser les étapes journalières. S'ensuit une répartition des vérifications (nettoyage, compilation, standardisation) des jeux de données. Malgré la volonté de Madame E, nous sommes contraints à abandonner le traitement des données  d’avis de recherche sur la biodiversité, car le format est impossible à traiter (format de powerpoint trop lourd à l’envoi et capture d’écran des slides de powerpoint insuffisantes).
-
-
-    Eve et Eden se concentrent sur les DAE. Monsieur C (le DGS) avait évoqué d’autres défibrillateurs relevant du domaine privé lors des échanges téléphoniques. Il a été impossible de les trouver : pas de réponses de la maison d’accueil spécialisée des papillons blancs ni de l’association espérance.
-
-
-    Salomé, Agathe et Thibault travaillent les données des commerces. Malgré un nouvel appel avec le DGS pour avoir la base de données qui a servi à construire le site internet, il est impossible de récupérer le fichier excel de base. Le DGS évoque le RGPD, des informations sensibles, et il nous donne l’annuaire des bases de données des commerces pour nous aider à retranscrire toutes les données dans un document excel. Après avoir rempli le tableau excel recensant toutes les données du site, nous devons ensuite modifier toutes les données GPS des google sheet car le format de google maps n’est pas adapté. Nous les avons donc converties en données Lambert. Eve et Eden également pour les DAE. Sacha et Mathilde vérifient les menus de la cantine.
-
-
-                                Pour l’étape 3.4 de validation avec Validata nous rencontrons de grosses difficultés : le site ne reconnait pas le document de DAE et pour les données de la cantine des erreurs sont relevées alors qu’il n’y en a pas ou qu’elles sont pratiquement non-identifiables… (check avec la référente remplaçante de Guillaume qui remarque aussi que c’est étrange).
-
-
-    Cependant sur schema.data.gouv tout a fonctionné, les jeux de données sont conformes. Nous en déduisons que c’est le site Validata qui a un problème.
-
-
-    Par la suite, nous rentrons toutes les données GPS sur UMap pour vérifier la concordance des coordonnées Lambert récoltées. Nous avons bien suivi la méthode de vérification à la main d’open data canvas pour les données des commerces et tout est valide.
-
-
-    Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publication sur le portail Open Data de Rennes. A 15h30 nous avons prévu un appel avec lui afin de nous renseigner sur les démarches précises de publication des données sur le site. Nous avons au préalable créé un compte utilisateur sur l’Open Data de Rennes pour anticiper cette étape, comme il nous l’a demandé par mail. L’appel commence par la présentation de la plateforme et la démonstration du processus de publication sur le site, à l’aide d’un partage d’écran de Monsieur BL qui se base sur un exemple de jeu de données. Il nous a aussi mis en garde sur le jeu de données des menus de la cantine qui risque d’être rapidement obsolète. Il faudrait donc échanger avec la commune pour voir s’ils auraient la possibilité de le mettre à jour régulièrement.
-
-
-
-* Validation des données DAE :
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_8.png) 
      
+*Lien de la Umap sur les DAE de Chavagne :*
 
-<p id="gdcalert5" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image5.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert6">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
+[uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/emplacement-des-dae-de-la-commune-de-chavagne_837528#14/48.0522/-1.8103) : 
 
+*Lien de la Umap sur les vérifications des coordonnées GPS des commerces de Chavagne :*
 
-![alt_text](images/image5.png "image_tooltip")
+[uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/carte-verification-coordonnees-commerces-chavagne_837565)  
 
+*Bilan de mise en qualité :*
+[https://docs.google.com/document/d/13K1x6l_ygX2tO1jX29k3NGJvsOF5KRI4/edit](https://docs.google.com/document/d/13K1x6l_ygX2tO1jX29k3NGJvsOF5KRI4/edit)
 
-
-    [uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/emplacement-des-dae-de-la-commune-de-chavagne_837528#14/48.0522/-1.8103) :  Lien de la Umap sur les DAE de Chavagne.
-
-* Validation de la base de données commerce (via uMap)
-
-      [uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/carte-verification-coordonnees-commerces-chavagne_837565) : Lien de la Umap sur les vérifications des coordonnées GPS des commerces de Chavagne. 
-
-* Bilan de mise en qualité : [https://docs.google.com/document/d/13K1x6l_ygX2tO1jX29k3NGJvsOF5KRI4/edit](https://docs.google.com/document/d/13K1x6l_ygX2tO1jX29k3NGJvsOF5KRI4/edit)
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Difficultés d’utilisation du site validata qui ne permet pas de visualiser les erreurs pour les DAE et relève certaines erreurs minimes pour les données des menus des cantines.
-<ul>
-
-<li>Echec de collecte des données des défibrillateurs privés. 
-<ul>
-
-<li>Le format des données GPS de Google Maps n’est pas adapté aux logiciels. Il a fallu les convertir en données Lambert.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Répartition effective des jeux de données à nettoyer et standardiser.
-<ul>
-
-<li>Bon fonctionnement de Umap pour visualiser les données GPS.
-<ul>
-
-<li>Familiarisation avec les sites schéma.data.gouv et validata.
-<ul>
-
-<li>Bilan de mise en qualité rédigé sans difficulté.
-<ul>
-
-<li>La pédagogie de Monsieur BL pour la publication des données nous a touché et nous a permis d’y voir plus clair pour l’étape à venir du Jour 4. 
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-
-    MOOD DU JOUR : Tout prend forme, les données sont récoltées, les enjeux sont plus clairs pour nous 7, on ne lâche    rien pour fournir des jeux de données qualitatifs. Encore une fois, malgré les difficultés parfois rencontrées, la solidarité ne lâche pas et notre volonté de bien faire nous encourage.
+MOOD DU JOUR : Tout prend forme, les données sont récoltées, les enjeux sont plus clairs pour nous 7, on ne lâche    rien pour fournir des jeux de données qualitatifs. Encore une fois, malgré les difficultés parfois rencontrées, la solidarité ne lâche pas et notre volonté de bien faire nous encourage.
 
 
     **JOUR 4 – PUBLICATION**
