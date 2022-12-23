@@ -103,11 +103,9 @@ Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publicat
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_10.png) 
      
 *Lien de la Umap sur les DAE de Chavagne :*
-
 [uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/emplacement-des-dae-de-la-commune-de-chavagne_837528#14/48.0522/-1.8103) : 
 
 *Lien de la Umap sur les vérifications des coordonnées GPS des commerces de Chavagne :*
-
 [uMap (openstreetmap.fr)](https://umap.openstreetmap.fr/fr/map/carte-verification-coordonnees-commerces-chavagne_837565)  
 
 *Bilan de mise en qualité :*
@@ -144,25 +142,18 @@ Enfin, nous nous penchons sur la communication et émettons une planification st
 ### Liens des jeux de données publiés :
 
 *DAE :* 
-
 [https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/)
 
 *Base des données des commerces :*
-
 [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
 
-
 *Menu de la restauration collective :*
-
 [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
 
 *Fiches descriptives des jeux de données :*
-
 [https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1](https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1)
 
-
 *Lien du communiqué de presse :*
-
 [https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit](https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit)
 
 MOOD DU JOUR : Le soleil est revenu, l’équipe est enthousiaste et déterminée à rendre un travail complet et de qualité. Nous mettons un point d’honneur à rendre notre travail utile pour la Commune de Chavagne. 
@@ -188,29 +179,23 @@ Concernant le <span style="text-decoration:underline;">jeu de données des comme
 
 Enfin, concernant le <span style="text-decoration:underline;">jeu de données des défibrillateurs</span>, la seule communication qui nous semble intéressante est la proposition d’une carte repérant ces défibrillateurs dans une logique d’information des citoyens et des acteurs qui seraient intéressés de reprendre ces données ; à retrouver également dans l’onglet “carte” de la plateforme Open Data de Rennes.
 
-*Ci-dessous les liens des datavisualisations :*
+### Nos datavisualisations :
 
-*cartographie des commerces :*
-
+*Cartographie des commerces :*
 [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a)
 
-*cartographie des DAE :*
-
+*Cartographie des DAE :*
 [https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a)
 
 
-*fiche ludique des commerces :*
-
+*Fiche ludique des commerces :*
 [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
 
-*graphiques de la restauration collective :* 
-
+*Graphiques de la restauration collective :* 
 [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
 
-*graphique des catégories des commerces de Chavagne :* 
-
+*Graphique des catégories des commerces de Chavagne :* 
 [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
-
 
 MOOD DU JOUR : Cette dernière journée est la consécration de notre travail de la semaine ; nous sommes ravis de voir l’aboutissement de ce temps dédié à la Commune de Chavagne et à l’ouverture de ses données. Nous sommes fiers de la détermination avec laquelle nous avons mené à bien ce projet et espérons que nos interlocuteurs seront satisfaits. 
 
