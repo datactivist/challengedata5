@@ -1,172 +1,39 @@
-<!-- Output copied to clipboard! -->
+# Carnet de bord de l'ouverture des données de Chavagne
 
-<!-----
+par Salomé Heuberger, Eden Cantens, Agathe Hélaine, Thibault Cieslak, Mathilde Baleyte, Sacha Mesnier-Levatic et Eve Hoquidant
 
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 6
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
 
-Conversion time: 2.519 seconds.
+## Introduction
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_1.png)
 
-Using this Markdown file:
+Dans le cadre du Challenge DATA organisé par Sciences Po Saint-Germain-en-Laye et Datactivist, 7 étudiants : Mathilde BALEYTE, Eden CANTENS, Thibault CIESLAK, Eve HOQUIDANT, Salomé HEUBERGER, Agathe HELAINE et Sacha MESNIER-LEVATIC ont collaboré avec la commune de Chavagne. L’objectif du Challenge Data est de nous sensibiliser à l’importance de la publication des données et d’accompagner les collectivités territoriales dans l’application de la loi de 2016 pour une République numérique. Cette semaine de coopération entre étudiants et collectivités doit permettre à ces dernières d’amorcer ou d’approfondir l’exploitation de leurs données. 
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+Dans le cadre de notre coopération avec la commune de Chavagne, nous avons été mis en relation avec Madame E, élue chargée de la transition écologique. Chavagne, commune de la métropole rennaise, connaît un rapide essor démographique à partir des années 1970 et passe de 400 habitants à environ 4000 aujourd’hui. Commune périurbaine et résidentielle, le site PSA La Janais reste un grand pourvoyeur d’emploi local. Chavagne dispose d’un important tissu économique avec la présence de nombreuses PME et commerces, favorisé par la proximité de la capitale bretonne. Au-delà de son dynamisme économique, Chavagne est une commune tournée vers l’environnement. Les espaces verts y sont très présents et préservés et la commune attache une grande importance à sa conservation. 
 
-Conversion notes:
+Dans le cadre du Challenge Data, nous avons établi avec Madame E plusieurs jeux de données à traiter. Nous avons initialement voulu analyser les données issues des nouveaux capteurs d’ambiance et de consommation d’énergie mais cela n’a pas été possible en raison de leur récente installation. Toujours en coopération avec Madame E, de nouveaux jeux de données nous ont été fournis pour répondre aux besoins de la commune. Nous avons collecté les menus de la restauration collective de Chavagne, la base de commerces et les défibrillateurs. Nous avons compilé et standardisé ces données afin qu’elles puissent être rendues publiques et utilisées à différentes fins comme par exemple simplifier l’accès aux défibrillateurs grâce à une application mobile.
 
-* Docs to Markdown version 1.0β34
-* Fri Dec 23 2022 02:31:04 GMT-0800 (PST)
-* Source doc: Carnet de bord
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
-
------>
+Nous sommes parvenus à relever les défis posés par la collecte de ces données et nous espérons maintenant que le travail fourni sera utile à la commune de Chavagne. Il est nécessaire que la collecte et l’exploitation de ces données soient pérennisées afin d’être utiles aux administrés de Chavagne.  
 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 6.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+## JOUR 1 – DIAGNOSTIC
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-<a href="#gdcalert4">alert4</a>
-<a href="#gdcalert5">alert5</a>
-<a href="#gdcalert6">alert6</a>
+Après la réunion d’information sur le déroulement de la semaine et les différents objectifs journaliers à atteindre, nous avons pris connaissance de la commune qui nous a été attribuée, à savoir la Commune de Chavagne. C’est une petite commune d’environ 4000 habitants, qui fait partie de la métropole de Rennes. Nous nous sommes familiarisés avec les outils à notre disposition sur le site opendatacanvas ainsi que le Google drive sur lequel sont partagés les documents. Nous nous sommes répartis les rôles et tâches attribués à chacun pour la journée : Mathilde est l’interlocutrice avec la commune et les différents agents par mail, Eden s’occupe du carnet de bord, Salomé et Sacha se sont occupés de prendre des notes pendant l’entretien que Thibault et Eve ont mené avec Madame E, et Agathe s’est chargée de mettre au clair la wishlist par la suite.
 
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+La première étape a été de prendre contact avec notre interlocutrice principale, élue de la commune de Chavagne, en tant qu’adjointe à la transition écologique. Elle nous a proposé un appel à 14h00.
 
+Nous avons compris que sa priorité est de travailler sur des données environnementales, en particulier les données résultant de la récente installation de capteurs. Ces capteurs recueillent des données quant à la qualité de l’air, l’humidité et la consommation d’énergie des différents établissements publics. L’objectif de ces capteurs est d’optimiser l’utilisation des salles, d’éviter le gaspillage énergétique, et de mesurer la qualité de l’air. Ce que nous avons retenu de cet échange est que la commune en est au stade premier du développement de l’open data, un stade très peu développé.
 
+*L’équipe Commune de Chavagne*
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_3.png)
+ 
+*A la recherche de la wifi*
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_2.png)
 
-    _Ce carnet de bord est destiné à écrire le récit de vos aventures ! Il doit être complété tout au long des étapes de ce patchwork._
+Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a éclairé sur la suite des démarches à suivre. Madame E n’ayant pas la capacité de nous fournir les données sur les capteurs, nous avons contacté Wi6labs, le prestataire qui récolte sur son serveur les données, qui doit nous fournir un compte temporaire pour accéder aux données. Ensuite nous avons contacté Monsieur SR, l’agent informatique de la commune, afin de convenir d’un échange avec lui. Nous voulions avoir son avis sur la wishlist et la possibilité d’ouvrir d’autres jeux de données que ceux des capteurs, qui nous paraissent potentiellement difficiles à traiter. Nous avons également contacté Monsieur PR et avons convenu d’un entretien téléphonique avec lui mardi à 9h30. Monsieur PR est l’interlocuteur qui travaille à la métropole de Rennes et qui va nous aider à comprendre les données des capteurs, pour savoir si nous pouvons les utiliser. Dans le cas où ce n’est pas possible, nous travaillerons sur d’autres jeux de données comme l’état civil, le budget communal, les subventions aux associations ou le menu des cantines. Cet interlocuteur nous permettra d’échanger également sur la communication de ces données, puisqu’il s’agit de les publier sur l’open data de la métropole de Rennes. Nous espérons récolter rapidement ces données mardi matin afin de pouvoir les analyser. 
 
-
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>Introduction
-   </td>
-   <td>Salomé Heuberger
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Diagnostic
-   </td>
-   <td>Eden Cantens
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Identification
-   </td>
-   <td>Agathe Hélaine
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Mise en qualité
-   </td>
-   <td>Thibault Cieslak
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Publication
-   </td>
-   <td>Mathilde Baleyte
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Valorisation
-   </td>
-   <td>Sacha Mesnier-Levatic
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>Conclusion
-   </td>
-   <td>Eve Hoquidant
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-        **<span style="text-decoration:underline;">Consignes pour la rédaction des CDB</span>**
-
-
-
-* **Vous avez toutes et tous choisi d’être identifiés par vos noms et prénoms ou de ne pas être identifié avec le document “_Autorisations CCBYSA_”, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction du carnet de bord ;**
-* **N’oubliez pas d’inclure les pièces-jointes et documents demandés chaque jour ; **
-        * **Wishlist **
-        * **Organigramme **
-        * **Communication éventuelle **
-        * **Dataviz **
-        * **etc.**
-* **N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents de collectivité ;**
-* **Enfin, si vous insérez des images dans votre carnet de bord, merci de les déposer également dans le dossier “_Images carnet de bord_” sur le drive de votre groupe.**
-
-    **INTRODUCTION**
-
-
-        Dans le cadre du Challenge DATA organisé par Sciences Po Saint-Germain-en-Laye et Datactivist, 7 étudiants : Mathilde BALEYTE, Eden CANTENS, Thibault CIESLAK, Eve HOQUIDANT, Salomé HEUBERGER, Agathe HELAINE et Sacha MESNIER-LEVATIC ont collaboré avec la commune de Chavagne. L’objectif du Challenge Data est de nous sensibiliser à l’importance de la publication des données et d’accompagner les collectivités territoriales dans l’application de la loi de 2016 pour une République numérique. Cette semaine de coopération entre étudiants et collectivités doit permettre à ces dernières d’amorcer ou d’approfondir l’exploitation de leurs données. 
-
-
-        Dans le cadre de notre coopération avec la commune de Chavagne, nous avons été mis en relation avec Madame E, élue chargée de la transition écologique. Chavagne, commune de la métropole rennaise, connaît un rapide essor démographique à partir des années 1970 et passe de 400 habitants à environ 4000 aujourd’hui. Commune périurbaine et résidentielle, le site PSA La Janais reste un grand pourvoyeur d’emploi local. Chavagne dispose d’un important tissu économique avec la présence de nombreuses PME et commerces, favorisé par la proximité de la capitale bretonne. Au-delà de son dynamisme économique, Chavagne est une commune tournée vers l’environnement. Les espaces verts y sont très présents et préservés et la commune attache une grande importance à sa conservation. 
-
-
-        Dans le cadre du Challenge Data, nous avons établi avec Madame E plusieurs jeux de données à traiter. Nous avons initialement voulu analyser les données issues des nouveaux capteurs d’ambiance et de consommation d’énergie mais cela n’a pas été possible en raison de leur récente installation. Toujours en coopération avec Madame E, de nouveaux jeux de données nous ont été fournis pour répondre aux besoins de la commune. Nous avons collecté les menus de la restauration collective de Chavagne, la base de commerces et les défibrillateurs. Nous avons compilé et standardisé ces données afin qu’elles puissent être rendues publiques et utilisées à différentes fins comme par exemple simplifier l’accès aux défibrillateurs grâce à une application mobile.
-
-
-        Nous sommes parvenus à relever les défis posés par la collecte de ces données et nous espérons maintenant que le travail fourni sera utile à la commune de Chavagne. Il est nécessaire que la collecte et l’exploitation de ces données soient pérennisées afin d’être utiles aux administrés de Chavagne.  
-
-
-    **JOUR 1 – DIAGNOSTIC**
-
-
-    Après la réunion d’information sur le déroulement de la semaine et les différents objectifs journaliers à atteindre, nous avons pris connaissance de la commune qui nous a été attribuée, à savoir la Commune de Chavagne. C’est une petite commune d’environ 4000 habitants, qui fait partie de la métropole de Rennes. Nous nous sommes familiarisés avec les outils à notre disposition sur le site opendatacanvas ainsi que le Google drive sur lequel sont partagés les documents. Nous nous sommes répartis les rôles et tâches attribués à chacun pour la journée : Mathilde est l’interlocutrice avec la commune et les différents agents par mail, Eden s’occupe du carnet de bord, Salomé et Sacha se sont occupés de prendre des notes pendant l’entretien que Thibault et Eve ont mené avec Madame E, et Agathe s’est chargée de mettre au clair la wishlist par la suite.
-
-
-    La première étape a été de prendre contact avec notre interlocutrice principale, élue de la commune de Chavagne, en tant qu’adjointe à la transition écologique. Elle nous a proposé un appel à 14h00.
-
-
-    Nous avons compris que sa priorité est de travailler sur des données environnementales, en particulier les données résultant de la récente installation de capteurs. Ces capteurs recueillent des données quant à la qualité de l’air, l’humidité et la consommation d’énergie des différents établissements publics. L’objectif de ces capteurs est d’optimiser l’utilisation des salles, d’éviter le gaspillage énergétique, et de mesurer la qualité de l’air. Ce que nous avons retenu de cet échange est que la commune en est au stade premier du développement de l’open data, un stade très peu développé.
-
-
-    									             _<span style="text-decoration:underline;">l’équipe Commune de Chavagne</span>_
-
-
-    										
-
-
-                                  _<span style="text-decoration:underline;">à la recherche de la wifi</span>_
-
-
-    Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a éclairé sur la suite des démarches à suivre. Madame E n’ayant pas la capacité de nous fournir les données sur les capteurs, nous avons contacté Wi6labs, le prestataire qui récolte sur son serveur les données, qui doit nous fournir un compte temporaire pour accéder aux données. Ensuite nous avons contacté Monsieur SR, l’agent informatique de la commune, afin de convenir d’un échange avec lui. Nous voulions avoir son avis sur la wishlist et la possibilité d’ouvrir d’autres jeux de données que ceux des capteurs, qui nous paraissent potentiellement difficiles à traiter. Nous avons également contacté Monsieur PR et avons convenu d’un entretien téléphonique avec lui mardi à 9h30. Monsieur PR est l’interlocuteur qui travaille à la métropole de Rennes et qui va nous aider à comprendre les données des capteurs, pour savoir si nous pouvons les utiliser. Dans le cas où ce n’est pas possible, nous travaillerons sur d’autres jeux de données comme l’état civil, le budget communal, les subventions aux associations ou le menu des cantines. Cet interlocuteur nous permettra d’échanger également sur la communication de ces données, puisqu’il s’agit de les publier sur l’open data de la métropole de Rennes. Nous espérons récolter rapidement ces données mardi matin afin de pouvoir les analyser. 
-
-* <span style="text-decoration:underline;">Wish List</span> : [https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040](https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040)
+*Wish List*: [https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040](https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040)
 
 
 
