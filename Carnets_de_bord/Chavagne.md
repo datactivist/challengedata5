@@ -73,6 +73,8 @@ Sur le sujet de la biodiversité, malgré la motivation de l’élue à la trans
 MOOD DU JOUR :  Les nouvelles données remotivent l’équipe qui part à la recherche des informations, à tout prix. Super cohésion de groupe qui permet un travail efficace.
 
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_8.png) 
+
 ## JOUR 3 – MISE EN QUALITÉ
 
 
@@ -83,6 +85,9 @@ Dès la fin de la réunion, nous faisons une lecture en groupe de l’open data 
 Eve et Eden se concentrent sur les DAE. Monsieur C (le DGS) avait évoqué d’autres défibrillateurs relevant du domaine privé lors des échanges téléphoniques. Il a été impossible de les trouver : pas de réponses de la maison d’accueil spécialisée des papillons blancs ni de l’association espérance.
 
 Salomé, Agathe et Thibault travaillent les données des commerces. Malgré un nouvel appel avec le DGS pour avoir la base de données qui a servi à construire le site internet, il est impossible de récupérer le fichier excel de base. Le DGS évoque le RGPD, des informations sensibles, et il nous donne l’annuaire des bases de données des commerces pour nous aider à retranscrire toutes les données dans un document excel. Après avoir rempli le tableau excel recensant toutes les données du site, nous devons ensuite modifier toutes les données GPS des google sheet car le format de google maps n’est pas adapté. Nous les avons donc converties en données Lambert. Eve et Eden également pour les DAE. Sacha et Mathilde vérifient les menus de la cantine.
+
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_9.png) 
 
 Pour l’étape 3.4 de validation avec Validata nous rencontrons de grosses difficultés : le site ne reconnait pas le document de DAE et pour les données de la cantine des erreurs sont relevées alors qu’il n’y en a pas ou qu’elles sont pratiquement non-identifiables… (check avec la référente remplaçante de Guillaume qui remarque aussi que c’est étrange).
 
@@ -95,7 +100,7 @@ Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publicat
 
 *Validation des données DAE :*
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_8.png) 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_10.png) 
      
 *Lien de la Umap sur les DAE de Chavagne :*
 
@@ -119,15 +124,15 @@ Thibault et Salomé corrigent les horaires du jeu de données commerce grâce au
 
 Les trois jeux de données sont validés et  on se charge maintenant des trois fiches descriptives afin d’expliquer à la commune les usages potentiels de ces données et les caractéristiques techniques (variables, licences…). Notre objectif est de rendre clair l’enjeu qui réside dans l’usage de ces données et de leur traitement. 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_9.png) 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_11.png) 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_10.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_12.png)
 
 Fin de la pause midi, il est l’heure de publier les trois jeux de données sur le portail open Data de Rennes. Après téléchargement des jeux sous forme .csv, nous suivons désormais les étapes expliquées hier par Monsieur BL.
 
 Malgré de lourdes difficultés de connexion, nous parvenons à publier nos jeux de données  en remplissant toutes les informations demandées (identifiant technique, description, thèmes, mots clés, date de création, informations régionales…). La dernière étape est de décocher le bouton sécurité afin que les jeux de données ne soient plus en accès restreint.
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_11.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_13.png)
 
 En parallèle, nous avons passé un appel à Madame E. afin de la tenir au courant de nos avancées. Malgré une certaine déception concernant les avis de recherche que nous n’avons pas pu traiter, elle était particulièrement intéressée par les statistiques des menus de la restauration collective, notamment la part de repas bio. Nous fournirons également une analyse statistique des repas servis aux enfants.
 
