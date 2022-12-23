@@ -26,73 +26,21 @@ La première étape a été de prendre contact avec notre interlocutrice princip
 Nous avons compris que sa priorité est de travailler sur des données environnementales, en particulier les données résultant de la récente installation de capteurs. Ces capteurs recueillent des données quant à la qualité de l’air, l’humidité et la consommation d’énergie des différents établissements publics. L’objectif de ces capteurs est d’optimiser l’utilisation des salles, d’éviter le gaspillage énergétique, et de mesurer la qualité de l’air. Ce que nous avons retenu de cet échange est que la commune en est au stade premier du développement de l’open data, un stade très peu développé.
 
 *L’équipe Commune de Chavagne*
+
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_3.png)
  
 *A la recherche de la wifi*
+
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_2.png)
 
 Vers 15h00 nous avons fait un point avec notre mentor Guillaume, qui nous a éclairé sur la suite des démarches à suivre. Madame E n’ayant pas la capacité de nous fournir les données sur les capteurs, nous avons contacté Wi6labs, le prestataire qui récolte sur son serveur les données, qui doit nous fournir un compte temporaire pour accéder aux données. Ensuite nous avons contacté Monsieur SR, l’agent informatique de la commune, afin de convenir d’un échange avec lui. Nous voulions avoir son avis sur la wishlist et la possibilité d’ouvrir d’autres jeux de données que ceux des capteurs, qui nous paraissent potentiellement difficiles à traiter. Nous avons également contacté Monsieur PR et avons convenu d’un entretien téléphonique avec lui mardi à 9h30. Monsieur PR est l’interlocuteur qui travaille à la métropole de Rennes et qui va nous aider à comprendre les données des capteurs, pour savoir si nous pouvons les utiliser. Dans le cas où ce n’est pas possible, nous travaillerons sur d’autres jeux de données comme l’état civil, le budget communal, les subventions aux associations ou le menu des cantines. Cet interlocuteur nous permettra d’échanger également sur la communication de ces données, puisqu’il s’agit de les publier sur l’open data de la métropole de Rennes. Nous espérons récolter rapidement ces données mardi matin afin de pouvoir les analyser. 
 
-*Wish List*: [https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040](https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040)
+*Wish List :* 
+[https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040](https://docs.google.com/spreadsheets/d/1JuIGbvPmnwdrUKOD2VYrIeMoMwPYEsIL/edit#gid=365766040)
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_4.png)
 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-** **
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Échange intéressant avec la référente de la commune (Madame E), prise de connaissance des enjeux de la commune et ce sur quoi elle veut travailler en priorité : les données issues des capteurs d’information.
-
-<li>Prise de contact avec d’autres interlocuteurs essentiels pour la suite du travail et convenance de rendez-vous concret pour le mardi matin (wi6labs, Monsieur PR et Monsieur SR)
-
-<li>La manière dont nous nous sommes répartis les tâches de la journée a été productive, chacun a trouvé sa place.
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Le sujet des jeux de données est assez précis et on a peur de manquer de données puisque les capteurs ont été installés la semaine dernière.
-
-<li>Difficulté quant à l’accès rapide aux jeux de données : pour accéder aux données concernant les capteurs nous avons besoin de la création d’un compte temporaire qui ne nous a pour le moment pas été fourni. 
-
-<li> Questionnement quant à la pertinence du jeu de données sur les capteurs : ce sont des données récentes et en évolution, est-ce pertinent de communiquer sur ces données ? Pouvons-nous trouver d’autres jeux de données sur lesquels travailler ? 
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-
-    MOOD DU JOUR : Un peu d’inquiétude se ressent au cœur de l’équipe face à la tâche qui nous attend et des données qui semblent difficiles à réunir et traiter. En un mot : appréhension.
-
-
-    **JOUR 2 – IDENTIFICATION**
+## JOUR 2 – IDENTIFICATION
 
 
     La deuxième journée commence à 9 heures par le point quotidien en salle médiane pour visualiser le déroulé des étapes à effectuer durant la journée. L’objectif du jour 2 est de déterminer les données que nous allons exploiter parmi la wishlist construite la veille.
