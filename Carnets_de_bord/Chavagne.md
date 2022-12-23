@@ -88,7 +88,7 @@ Pour l’étape 3.4 de validation avec Validata nous rencontrons de grosses diff
 
 Cependant sur schema.data.gouv tout a fonctionné, les jeux de données sont conformes. Nous en déduisons que c’est le site Validata qui a un problème.
 
-Par la suite, nous rentrons toutes les données GPS sur UMap pour vérifier la concordance des coordonnées Lambert récoltées. Nous avons bien suivi la méthode de vérification à la main d’open data canvas pour les données des commerces et tout est valide.
+Par la suite, nous rentrons toutes les données GPS sur UMap pour vérifier la concordance des coordonnées GPS récoltées. Nous avons bien suivi la méthode de vérification à la main d’open data canvas pour les données des commerces et tout est valide.
 
 Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publication sur le portail Open Data de Rennes. A 15h30 nous avons prévu un appel avec lui afin de nous renseigner sur les démarches précises de publication des données sur le site. Nous avons au préalable créé un compte utilisateur sur l’Open Data de Rennes pour anticiper cette étape, comme il nous l’a demandé par mail. L’appel commence par la présentation de la plateforme et la démonstration du processus de publication sur le site, à l’aide d’un partage d’écran de Monsieur BL qui se base sur un exemple de jeu de données. Il nous a aussi mis en garde sur le jeu de données des menus de la cantine qui risque d’être rapidement obsolète. Il faudrait donc échanger avec la commune pour voir s’ils auraient la possibilité de le mettre à jour régulièrement.
 
@@ -111,143 +111,56 @@ Monsieur PR nous a donné le contact de Monsieur BL, référent pour la publicat
 MOOD DU JOUR : Tout prend forme, les données sont récoltées, les enjeux sont plus clairs pour nous 7, on ne lâche    rien pour fournir des jeux de données qualitatifs. Encore une fois, malgré les difficultés parfois rencontrées, la solidarité ne lâche pas et notre volonté de bien faire nous encourage.
 
 
-    **JOUR 4 – PUBLICATION**
+## JOUR 4 – PUBLICATION
+
+Pour commencer cette quatrième journée, nous faisons un petit point avec Guillaume notre mentor sur les trois jeux de données validés la veille. On met avec lui en lumière des points à améliorer. Il s’agit dans un premier temps de terminer la mise en qualité des jeux de données en s’aidant les uns les autres. Puis cet après-midi, il faudra publier les données et enfin se concentrer sur la communication autour des données.
+
+Thibault et Salomé corrigent les horaires du jeu de données commerce grâce au logiciel Yohours, elles sont maintenant standardisées. Pendant ce temps, Eve et Eden repassent le jeu de données des DAE sur le validateur (schema.data.gouv) et Agathe réfléchit déjà à la communication sur les données (réalisation d’un logo). Sacha, lui, remplit la fiche descriptive concernant les menus des cantines.
+
+Les trois jeux de données sont validés et  on se charge maintenant des trois fiches descriptives afin d’expliquer à la commune les usages potentiels de ces données et les caractéristiques techniques (variables, licences…). Notre objectif est de rendre clair l’enjeu qui réside dans l’usage de ces données et de leur traitement. 
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_9.png) 
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_10.png)
+
+Fin de la pause midi, il est l’heure de publier les trois jeux de données sur le portail open Data de Rennes. Après téléchargement des jeux sous forme .csv, nous suivons désormais les étapes expliquées hier par Monsieur BL.
+
+Malgré de lourdes difficultés de connexion, nous parvenons à publier nos jeux de données  en remplissant toutes les informations demandées (identifiant technique, description, thèmes, mots clés, date de création, informations régionales…). La dernière étape est de décocher le bouton sécurité afin que les jeux de données ne soient plus en accès restreint.
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_11.png)
+
+En parallèle, nous avons passé un appel à Madame E. afin de la tenir au courant de nos avancées. Malgré une certaine déception concernant les avis de recherche que nous n’avons pas pu traiter, elle était particulièrement intéressée par les statistiques des menus de la restauration collective, notamment la part de repas bio. Nous fournirons également une analyse statistique des repas servis aux enfants.
+
+Un dernier appel avec Monsieur BL nous confirme la publication des données sur l’Open Data de Rennes, qui sera suivie cette nuit à 4 heures du matin d’un ajout automatique sur le portail national de données ouvertes data.gouv (processus de moissonnage). Il nous indique aussi que nous n’avons pas besoin de la certification puisque la publication de nos jeux de données passe par Rennes métropole (compte déjà certifié). Enfin, nous sommes ravis d’apprendre que les données concernant les commerces pourront être reprises pour un projet collaboratif de cartographie en ligne (commerces.openstreetmap).
+
+Enfin, nous nous penchons sur la communication et émettons une planification stratégique. Dans un premier temps, il s’agit de proposer un communiqué de presse, qui pourra être renforcé par des communiqués sur les réseaux sociaux (posts instagram, facebook, site internet). Pour finir, nous proposons un logo pour la charte graphique de l’Open Data Chavagne pour insister sur la démarche de la commune. 
 
 
-    Pour commencer cette quatrième journée, nous faisons un petit point avec Guillaume notre mentor sur les trois jeux de données validés la veille. On met avec lui en lumière des points à améliorer. Il s’agit dans un premier temps de terminer la mise en qualité des jeux de données en s’aidant les uns les autres. Puis cet après-midi, il faudra publier les données et enfin se concentrer sur la communication autour des données.
+### Liens des jeux de données publiés :
+
+*DAE :* 
+
+[https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/)
+
+*Base des données des commerces :*
+
+[https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
 
 
-    Thibault et Salomé corrigent les horaires du jeu de données commerce grâce au logiciel Yohours, elles sont maintenant standardisées. Pendant ce temps, Eve et Eden repassent le jeu de données des DAE sur le validateur (schema.data.gouv) et Agathe réfléchit déjà à la communication sur les données (réalisation d’un logo). Sacha, lui, remplit la fiche descriptive concernant les menus des cantines.
+*Menu de la restauration collective :*
+
+[https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
+
+*Fiches descriptives des jeux de données :*
+
+[https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1](https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1)
 
 
-    Les trois jeux de données sont validés et  on se charge maintenant des trois fiches descriptives afin d’expliquer à la commune les usages potentiels de ces données et les caractéristiques techniques (variables, licences…). Notre objectif est de rendre clair l’enjeu qui réside dans l’usage de ces données et de leur traitement. 
+*Lien du communiqué de presse :*
 
+[https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit](https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit)
 
-
-<p id="gdcalert6" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image6.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert7">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image6.png "image_tooltip")
-
-
-
-    Fin de la pause midi, il est l’heure de publier les trois jeux de données sur l’Open Data de Rennes. Après téléchargement des jeux sous forme .csv, nous suivons désormais les étapes expliquées hier par Monsieur BL.
-
-
-    Malgré de lourdes difficultés de connexion, nous parvenons à         publier nos jeux de données  en remplissant toutes les informations demandées (identifiant technique, description, thèmes, mots clés, date de création, informations régionales…). La dernière étape est de décocher le bouton sécurité afin que les jeux de données ne soient plus restreints.
-
-
-    En parallèle, nous avons passé un appel à Madame E. afin de la tenir au courant de nos avancées. Malgré une certaine déception concernant les avis de recherche que nous n’avons pas pu traiter, elle était particulièrement intéressée par les statistiques des menus de la restauration collective, notamment la part de repas bio. Nous fournirons également une analyse statistique des repas servis aux enfants.
-
-
-    Un dernier appel avec Monsieur BL nous confirme la publication des données sur l’Open Data de Rennes, qui sera suivie cette nuit à 4 heures du matin d’un ajout automatique sur l’Open Data national (processus de moissonnage). Il nous indique aussi que nous n’avons pas besoin de la certification puisque la publication de nos jeux de données passe par Rennes métropole (compte déjà certifié). Enfin, nous sommes ravis d’apprendre que les données concernant les commerces pourront être reprises pour un projet collaboratif de cartographie en ligne (commerces.openstreetmap).
-
-
-    Enfin, nous nous penchons sur la communication et émettons une planification stratégique. Dans un premier temps, il s’agit de proposer un communiqué de presse, qui pourra être renforcé par des communiqués sur les réseaux sociaux (posts instagram, facebook, site internet). Pour finir, nous proposons un logo pour la charte graphique de l’Open Data Chavagne pour insister sur la démarche de la commune. 
-
-
-
-* Liens des jeux de données validés : 
-
-    DAE : [https://drive.google.com/drive/folders/1ODF1dm89eA5dM6Hes6VowWXsxgnwo781?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1ODF1dm89eA5dM6Hes6VowWXsxgnwo781?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
-
-
-    Base des données des commerces : [https://docs.google.com/spreadsheets/d/14qrQ0JzAnoZt5YhM1LdLXbax2qGukrtaiI4lnpW_N_0/edit#gid=421764692](https://docs.google.com/spreadsheets/d/14qrQ0JzAnoZt5YhM1LdLXbax2qGukrtaiI4lnpW_N_0/edit#gid=421764692)
-
-
-    Menu de la restauration collective : 
-
-
-    [https://docs.google.com/spreadsheets/d/1fFfNLxhzQoAY3hwR-mJsRekX96Kj4vlc/edit#gid=196157944](https://docs.google.com/spreadsheets/d/1fFfNLxhzQoAY3hwR-mJsRekX96Kj4vlc/edit#gid=196157944)
-
-* Liens des jeux de données publiés :
-
-    DAE : 
-
-
-    [https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/information/)
-
-
-    Base des données des commerces :
-
-
-    [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
-
-
-    Menu de la restauration collective : [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/information/)
-
-* Fiches descriptives des jeux de données
-
-           [https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1](https://docs.google.com/presentation/d/11AQNw0CEhZyjJw3wmOY_EuhesXMpYKam/edit#slide=id.p1)
-
-
-
-* Lien du communiqué de presse : 
-
-           [https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit](https://docs.google.com/document/d/14VYTTOHCHb1pNtUTA-_7A3TcWjAaELSM/edit)
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Mise en qualité des jeux de données réussie.
-<ul>
-
-<li>Remplissage des fiches descriptives des jeux de données sans difficulté.
-<ul>
-
-<li>Les données sont publiées ! Elles sont désormais accessibles au public et pourront permettre d’atteindre les objectifs exprimés dans les fiches descriptives.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Petites corrections à établir afin que la mise en qualité soit complète; mais rien de très compliqué.
-<ul>
-
-<li>Devoir convertir les horaires du jeu de données commerces dans un format standard (opening-hours utilisé par openstreetmap)
-<ul>
-
-<li>La lenteur de la wifi nous rend la tâche difficile…Suppression des informations préremplies au moment de la publication.
-<ul>
-
-<li>Après la publication des données, elles restent introuvables sur l’Open Data : Monsieur BL nous indique alors qu’il faut décocher le bouton de sécurité et qu’une fois cela fait tout sera bon. Gros casse-tête pour que les données ne soient plus en accès restreint.
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-
-    MOOD DU JOUR : Le soleil est revenu, l’équipe est enthousiaste et déterminée à rendre un travail complet et de qualité. Nous mettons un point d’honneur à rendre notre travail utile pour la Commune de Chavagne. 
+MOOD DU JOUR : Le soleil est revenu, l’équipe est enthousiaste et déterminée à rendre un travail complet et de qualité. Nous mettons un point d’honneur à rendre notre travail utile pour la Commune de Chavagne. 
 
 
     **JOUR 5 – VALORISATION**
