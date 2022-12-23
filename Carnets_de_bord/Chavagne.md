@@ -168,93 +168,61 @@ Enfin, nous nous penchons sur la communication et émettons une planification st
 MOOD DU JOUR : Le soleil est revenu, l’équipe est enthousiaste et déterminée à rendre un travail complet et de qualité. Nous mettons un point d’honneur à rendre notre travail utile pour la Commune de Chavagne. 
 
 
-    **JOUR 5 – VALORISATION**
+## JOUR 5 – VALORISATION
+
+Dernier jour, l’équipe est déterminée à rendre un travail complet et à proposer une communication qui pourra être utile à la Commune de Chavagne. Ainsi, après une petite mise au point avec notre mentor Guillaume, nous nous répartissons les étapes de la communication et réfléchissons aux formats intéressants de datavisualisations que nous pouvons proposer.
+
+En ce sens, nous décidons de commencer par rédiger le communiqué de presse. On se lance ensuite sur les premières datavisualisations.
+
+Concernant le <span style="text-decoration:underline;">jeu de données des menus de la restauration</span>, nous souhaitons mettre en avant la qualité des produits servis et la part de plats issus de l’agriculture biologique à travers des graphiques (en anneaux). Les graphiques supplémentaires mettent l’accent sur le nombre de plats global, les entrées, les produits laitiers… pour en faire ressortir les spécificités.
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_14.png)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_15.png)
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_18.png)
+
+Concernant le <span style="text-decoration:underline;">jeu de données des commerces</span> de Chavagne, nous décidons de classer les données par catégories de commerces (alimentation, coiffeurs…) à travers un histogramme et une affiche. A cela s’ajoute une cartographie qui permet de repérer ces commerces dans la ville, que l’on retrouve sur la plateforme Open Data de Rennes dans l’onglet “carte”.
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Chavagne_20.png)
+
+Enfin, concernant le <span style="text-decoration:underline;">jeu de données des défibrillateurs</span>, la seule communication qui nous semble intéressante est la proposition d’une carte repérant ces défibrillateurs dans une logique d’information des citoyens et des acteurs qui seraient intéressés de reprendre ces données ; à retrouver également dans l’onglet “carte” de la plateforme Open Data de Rennes.
+
+*Ci-dessous les liens des datavisualisations :*
+
+*cartographie des commerces :*
+
+[https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a)
+
+*cartographie des DAE :*
+
+[https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a)
 
 
-    Dernier jour, l’équipe est déterminée à rendre un travail complet et à proposer une communication qui pourra être utile à la Commune de Chavagne. Ainsi, après une petite mise au point avec notre mentor Guillaume, nous nous répartissons les étapes de la communication et réfléchissons aux formats intéressants de datavisualisations que nous pouvons proposer.
+*fiche ludique des commerces :*
+
+[https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
+
+*graphiques de la restauration collective :* 
+
+[https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
+
+*graphique des catégories des commerces de Chavagne :* 
+
+[https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
 
 
-     En ce sens, nous décidons de commencer par rédiger le communiqué de presse. On se lance ensuite sur les premières datavisualisations.
+MOOD DU JOUR : Cette dernière journée est la consécration de notre travail de la semaine ; nous sommes ravis de voir l’aboutissement de ce temps dédié à la Commune de Chavagne et à l’ouverture de ses données. Nous sommes fiers de la détermination avec laquelle nous avons mené à bien ce projet et espérons que nos interlocuteurs seront satisfaits. 
 
 
+## CONCLUSION
 
-* Concernant le <span style="text-decoration:underline;">jeu de données des menus de la restauration</span>, nous souhaitons mettre en avant la qualité des produits servis et la part de plats issus de l’agriculture biologique à travers des graphiques (en anneaux). Les graphiques supplémentaires mettent l’accent sur le nombre de plats global, les entrées, les produits laitiers… pour en faire ressortir les spécificités.
-* Concernant le <span style="text-decoration:underline;">jeu de données des commerces</span> de Chavagne, nous décidons de classer les données par catégories de commerces (alimentation, coiffeurs…) à travers un histogramme et une affiche. A cela s’ajoute une cartographie qui permet de repérer ces commerces dans la ville, que l’on retrouve sur la plateforme Open Data de Rennes dans l’onglet “carte”.
-* Enfin, concernant le <span style="text-decoration:underline;">jeu de données des défibrillateurs</span>, la seule communication qui nous semble intéressante est la proposition d’une carte repérant ces défibrillateurs dans une logique d’information des citoyens et des acteurs qui seraient intéressés de reprendre ces données ; à retrouver également dans l’onglet “carte” de la plateforme Open Data de Rennes.
+Si nous devions trouver un mot pour qualifier cette semaine, nous choisirions « riche ». Riche en tous points : d’abord, car nous avons entamé le challenge en n’ayant presque aucune connaissance des données et de leurs enjeux, et nous avons désormais l’impression d’avoir découvert un nouvel univers. Ce fut un travail parfois de longue haleine, mais un travail passionnant qui nous a initié à un regard nouveau sur le fonctionnement des collectivités territoriales. Nous qui avons été habitués à Sciences Po à penser les collectivités de manière théorique à travers nos cours, nous nous sommes confrontés aux réalités quotidiennes des citoyens et de leurs élus et des problèmes qui les intéressent.
 
-    Ci-dessous les liens des datavisualisations : 
+Riche également, car nous avons consolidé nos relations pour que le travail en groupe se déroule de la manière la plus efficace et la plus agréable possible : nous nous sommes réellement soudés face aux différents casses-têtes que nous avons pu rencontrer tout au long de la semaine. Pour notre groupe, le problème le plus conséquent auquel nous avons fait face a été unanimement la collecte des données. La commune de Chavagne, bien que très au point dans le partage de l’information à ses habitants par leur site Internet, n’avait encore jamais réellement produit de données que nous aurions pu exploiter pour créer des jeux de données plus organisés et à jour. Nous sommes donc partis de quelques éléments un peu épars, que nous avons trouvés sur le site de Chavagne ou à l’aide de la métropole de Rennes. Mme E., notre interlocutrice principale et porteuse du projet pour la commune, nous a également fait part d’informations sur Chavagne pour nous aider dans cette collecte. A l’aide de tout ceci, nous sommes parvenus à nous mettre d’accord, entre nous et avec Mme E., pour s’atteler à la collecte des éléments les plus exploitables dans l’état et les plus pertinents pour la ville de Chavagne.
 
-* cartographie des commerces : [https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/commerces-chavagne-challenge-data/map/?location=12,48.07143,-1.7942&basemap=0a029a)
-* cartographie des DAE : [https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a](https://data.rennesmetropole.fr/explore/dataset/defibrillateurs-chavagne/map/?location=16,48.05475,-1.78863&basemap=0a029a)
-* fiche ludique des commerces : [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
-* graphiques de la restauration collective : [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
-* graphique des catégories des commerces de Chavagne : 
+Grâce à cet effort de communication avec nos différents interlocuteurs et entre nous, nous nous réjouissons d’avoir publié trois jeux de données sur l’interface Data Rennes Métropole à propos des commerces de Chavagne, des défibrillateurs installés dans la commune, ainsi que des menus des mois de novembre et décembre 2022 de la restauration collective de l’école maternelle et de l’école élémentaire. Cette publication n’a pas été sans quelques difficultés, notamment techniques, mais nous avons eu la chance d’être très épaulés par notre référent Datactivist, ainsi que notre interlocuteur de la métropole de Rennes qui nous a expliqué toutes les étapes à suivre pour publier nos jeux de données et qui s’est tenu à l’écoute lorsque nous avions des questions. 	Cette satisfaction d’avoir ouvert la commune de Chavagne à une nouvelle ère des Open Datas est sans aucun doute notre plus belle réussite, et nous espérons que la commune, après avoir saisi l’importance de rendre publiques ses données, perpétuera le travail commencé. 
 
-        [https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g](https://drive.google.com/drive/folders/1vQdHH1NtDnDmo1fH0hQ-geejOmGWeSKJ?fbclid=IwAR2HqJryoWRk-pYTZ1lTC1vWmuBdrkClBkF-M_ZLJR_cqcWZ8PGcuowoX8g)
+Le Challenge Data a été pour la plupart d’entre nous une première approche à un travail de collaboration avec des acteurs publics. En tant qu’étudiants à Sciences Po, avoir l’opportunité de mettre en pratique les connaissances accumulées tout au long de notre cursus universitaire, a été plus que formateur : nous nous sommes rendus compte à quel point notre formation pluridisciplinaire nous permettait aujourd’hui, alors que nous faisons bientôt notre entrée dans la vie active, de nous adapter à tout type de situation et à faire preuve de persuasion lorsque nous rencontrons une difficulté. Nous avons été en mesure de fournir un travail qui sera utile à la commune de Chavagne alors que nous n’avions aucune formation data au préalable. Nous pouvons dire que nous sommes fiers de notre travail et fiers de nous ! 
 
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Correction réussie de quelques données erronées dans les jeux de données publiés
-<ul>
-
-<li>Satisfaits de nos datavisualisations
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-<ul>
-
-<li>Dans la volonté de faire une carte sur l’Open data de Rennes pour les données des commerces, il nous faut ajouter un champ (latitude-longitude) mais nous n’y parvenons pas immédiatement.
-<ul>
-
-<li>Pas toujours simple de réaliser des graphiques pour des novices
-</li>
-</ul>
-</li>
-</ul>
-   </td>
-  </tr>
-</table>
-
-
-
-    MOOD DU JOUR : Cette dernière journée est la consécration de notre travail de la semaine ; nous sommes ravis de voir l’aboutissement de ce temps dédié à la Commune de Chavagne et à l’ouverture de ses données. Nous sommes fiers de la détermination avec laquelle nous avons mené à bien ce projet et espérons que nos interlocuteurs seront satisfaits. 
-
-
-    **CONCLUSION**
-
-
-        Si nous devions trouver un mot pour qualifier cette semaine, nous choisirions « riche ». Riche en tous points : d’abord, car nous avons entamé le challenge en n’ayant presque aucune connaissance des datas et de leurs enjeux, et nous avons désormais l’impression d’avoir découvert un nouvel univers. Ce fut un travail parfois de longue haleine, mais un travail passionnant qui nous a initié à un regard nouveau sur le fonctionnement des collectivités territoriales. Nous qui avons été habitués à Sciences Po à penser les collectivités de manière théorique à travers nos cours, nous nous sommes confrontés aux réalités quotidiennes des citoyens et de leurs élus et des problèmes qui les intéressent au sein de leurs communes.
-
-
-        Riche également, car nous avons consolidé nos relations pour que le travail en groupe se déroule de la manière la plus efficace et la plus agréable possible : nous nous sommes réellement soudés face aux différents casses-têtes que nous avons pu rencontrer tout au long de la semaine. Pour notre groupe, le problème le plus conséquent auquel nous avons fait face a été unanimement la collecte des données. La commune de Chavagne, bien que très au point dans le partage de l’information à ses habitants par leur site Internet, n’avait encore jamais réellement produit de données que nous aurions pu exploiter pour créer des jeux de données plus organisés et à jour. Nous sommes donc partis de quelques éléments un peu épars, que nous avons trouvés sur le site de Chavagne ou à l’aide de la métropole de Rennes. Mme E., notre interlocutrice principale et porteuse du projet pour la commune, nous a également fait part d’informations sur Chavagne pour nous aider dans cette collecte. A l’aide de tout ceci, nous sommes parvenus à nous mettre d’accord, entre nous et avec Mme E., pour s’atteler à la collecte des éléments les plus exploitables dans l’état et les plus pertinents pour la ville de Chavagne.
-
-
-        Grâce à cet effort de communication avec nos différents interlocuteurs et entre nous, nous nous réjouissons d’avoir publié trois jeux de données sur l’interface Data Rennes Métropole à propos des commerces de Chavagne, des défibrillateurs installés dans la commune, ainsi que des menus des mois de novembre et décembre 2022 de la restauration collective de l’école maternelle et de l’école élémentaire. Cette publication n’a pas été sans quelques difficultés, notamment techniques, mais nous avons eu la chance d’être très épaulés par notre référent Datactivist, ainsi que notre interlocuteur de la métropole de Rennes qui nous a expliqué toutes les étapes à suivre pour publier nos jeux de données et qui s’est tenu à l’écoute lorsque nous avions des questions. 	Cette satisfaction d’avoir ouvert la commune de Chavagne à une nouvelle ère des Open Datas est sans aucun doute notre plus belle réussite, et nous espérons que la commune, après avoir saisi l’importance de rendre publiques ses données, perpétuera le travail commencé. 
-
-
-        Le Challenge Data a été pour la plupart d’entre nous une première approche à un travail de collaboration avec des acteurs publics. En tant qu’étudiants à Sciences Po, avoir l’opportunité de mettre en pratique les connaissances accumulées tout au long de notre cursus universitaire, a été plus que formateur : nous nous sommes rendus compte à quel point notre formation pluridisciplinaire nous permettait aujourd’hui, alors que nous faisons bientôt notre entrée dans la vie active, de nous adapter à tout type de situation et à faire preuve de persuasion et d’acharnement lorsque nous rencontrons une difficulté. Nous avons été en mesure de fournir un travail qui sera utile à la commune de Chavagne alors que nous n’avions aucune formation data au préalable. Nous pouvons dire que nous sommes fiers de notre travail et fiers de nous ! 
-
-
-    Avant de mettre un point définitif à cette semaine, nous tenons à remercier toute l’équipe de Datactivist qui nous a permis de vivre cette expérience riche, et particulièrement notre référent qui, en plus d’avoir été à l’écoute, nous a motivé tous les matins à faire mieux que la veille. Nous remercions également Mme E. et tous nos interlocuteurs de la commune de Chavagne et de la métropole de Rennes de nous avoir accompagnés dans le projet. Nous espérons que notre travail répondra à leurs attentes et leur permettra de continuer notre petit bout de chemin sur le long terme. 
+Avant de mettre un point définitif à cette semaine, nous tenons à remercier toute l’équipe de Datactivist qui nous a permis de vivre cette expérience riche, et particulièrement notre référent qui, en plus d’avoir été à l’écoute, nous a motivé tous les matins à faire mieux que la veille. Nous remercions également Mme E. et tous nos interlocuteurs de la commune de Chavagne et de la métropole de Rennes de nous avoir accompagnés dans le projet. Nous espérons que notre travail répondra à leurs attentes et leur permettra de continuer notre petit bout de chemin sur le long terme. 
