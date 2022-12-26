@@ -90,7 +90,7 @@ Enfin, après avoir eu l’accord de notre référent auprès de la commune, nou
 Dans l’après-midi, nous avons demandé de l’aide à Magalie pour lire les coordonnées des aménagements cyclables. Celles-ci ne donnaient jusqu'alors uniquement des points (et non pas des données shapefile, lignes alors que les aménagements cyclables sont des voies et pistes cyclables et doivent donc être continus), puisqu’elles ont été extraites avec Géodatamine, logiciel ne donnant que des positions précises. Nous avons donc tenté d’identifier les données propres à la zone de Lambersart disponibles sur openstreetmap, et non pas uniquement les données d’aménagements cyclables. Un grand nombre de données est donc apparu, il a ensuite fallu les filtrer pour ne faire apparaître que les données qui nous intéressent ici. Cependant, le fichier était très lourd ce qui a engendré des difficultés matérielles (problèmes de connexion internet, ordinateur pas assez puissant…) et nous n’avons pas pu obtenir ce que nous cherchions.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart6.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart6.PNG" width="400">
 </p>
 
 Nous avons assisté à une réunion avec le responsable des données de la MEL qui nous a expliqué comment publier des données sur le portail de la MEL. Il nous a expliqué que la MEL se mettrait en lien avec un responsable de l’open data de chaque commune pour qu’ensuite il soit en mesure d’assurer le suivi de ces données pour qu’elles restent à jour. Il nous a aussi dit qu’en rentrant les données sur le portail, celles qui doivent apparaître sous forme de lignes et non de points, le feront automatiquement. 
@@ -101,30 +101,35 @@ Nous avons fini la journée par l’envoi d’un mail récapitulatif au référe
 ## JOUR 4 – PUBLICATION
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart7.jpg" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart7.jpeg" width="300">
 </p>
 
 Et c’est parti pour cette quatrième journée dédiée à la publication des données ! Après la réunion collégiale devenue habituelle, notre groupe fait le point autour des friandises apportées par Sharmilie. La première mission de la matinée a été de créer chacun nos comptes sur le site d’ouverture de la donnée de la Métropole Européenne de Lille (MEL) afin d’avoir la capacité de publier nos travaux une fois ces derniers validés par notre référent.  Ensuite, nous avons pris connaissance des tâches présentées sur l’OpendataCanvas pour organiser notre journée et informer notre référent auprès de la commune sur les étapes à venir. 
 
 Après, une réunion d’une trentaine de minutes avec Guillaume, chacun s’est vu accordé une tâche pour parvenir à régler les derniers détails avant la publication des données. Au programme : la récolte des dernières données pour les commerces acceptant les contenants (appels téléphoniques), rédaction des fiches descriptives et standardisation des jeux de données. Nous avons également commencé le plan de communication en attendant d’établir un contact avec le responsable de la communication de la commune de Lambersart. Une fois celui-ci contacté, nous avons été informés des canaux de diffusion dans le cadre de la stratégie de communication de l’opération (réseaux sociaux, magazine MEL, Lambersartinfo). Ainsi, nous avons pu rédiger un court article à la demande du chargé de communication de la Mairie de Lambersart. En parallèle, nous avons publié nos jeux de données en parvenant à afficher la cartographie associée (biobox, parking à vélos, aménagements cyclables, commerces acceptant les contenants extérieurs). 
 
-<p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart8.png" width="300">
-</p>
-
 Nous avons appelé un responsable numérique de la MEL pour qu’il nous explique comment résoudre le problème sur l’aménagement des jeux de données, que nous remercions pour avoir pris le temps de nous aider. 
 
 Enfin, nous avons fini la journée par créer de la métadonnée en précisant la description de chaque colonne pour chacun des jeux de données. Nous avons repris les descriptions de schémadatagouv pour qu’elles soient standardisées. Nous pouvons alors demander la validation de nos travaux de notre contact au sein de la MEL pour la publication effective des jeux de données et des cartes.
 
 
-*Plan de communication : (https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword)
-*Fiches descriptives - Jeux de données : (https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation)
+*Plan de communication : https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword
+*Fiches descriptives - Jeux de données : https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation
 
-**JOUR 5 – VALORISATION**
 
-		Nous commençons notre dernière journée dans la bonne humeur (malgré la fatigue) avec le petit-déjeuner apporté par Mikhaël et Ludovic.
+## JOUR 5 – VALORISATION
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart9.jpg" width="300">
+</p>
+
+Nous commençons notre dernière journée dans la bonne humeur (malgré la fatigue) avec le petit-déjeuner apporté par Mikhaël et Ludovic.
 
 Comme tous les matins, nous avons pris connaissance de l'Open Data Canvas, et simultanément, nous avons pu admirer le fruit de notre travail sur le site Open Data de la Métropole Européenne de Lille ! Voici ci-dessous par exemple une capture d’écran de la carte des commerces acceptant les contenants extérieurs à Lambersart.
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart9.1.png" width="200">
+</p>
 
 Place aujourd’hui à la “datavisualisation”, qu’on a initialement du mal à aborder. En attendant la réunion matinale avec Guillaume, nous avons exploré les datavisualisations possibles avec les jeux de données dont nous disposons. Lors de notre discussion avec Guillaume, il nous a fait part de la sophistication des graphiques que nous avons repéré et nous a montré le site Flourish qui pouvait nous servir et être plus accessible pour qu’on puisse créer des datavisualisations en accord avec nos jeux de données.
 
@@ -134,73 +139,33 @@ Ces tâches ont nécessité une forte concentration et concertation de tous les 
 
 Nous avons fini par envoyer les rendus finaux à nos correspondants municipaux avant de faire le véritable rendu ce soir auprès de l’ensemble de la mairie de Lambersart. Nous sommes un peu déçus que deux des jeux de données (parking à vélos, aménagements cyclables) n’aient pas été publiés sur le site de la MEL. 
 
-** \
- \
-Résumé : **
+
+*Liens :* 
+
+*Datavisualisation - Liste des commerces acceptant les contenants extérieurs* : (https://opendata.lillemetropole.fr/explore/dataset/fichiers_commerces_contenants_exte-rieurs_lambersart/map/?disjunctive.type_de_contenants&location=13,50.64915,3.02781&basemap=jawg.streets)
+
+*Datavisualisation - Localisation des biobox* :
+(https://opendata.lillemetropole.fr/explore/dataset/fichiers_biobox_lambersart/map/?location=14,50.64924,3.02545&basemap=jawg.streets)
+
+*Datavisualisation - Part des véhicules à faibles émissions dans le renouvellement du parc de la ville* :(https://www.canva.com/design/DAFS8d_5RuY/qC43MgFt6wgp0v70nrWGxg/view?utm_content=DAFS8d_5RuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+*Présentation Canva finale* : 
+(https://www.canva.com/design/DAFS9EvSfD4/Urc_AO0JKyA_tYeBsVP7Sw/view?utm_content=DAFS9EvSfD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Voir le fruit de notre travail sur certains jeux de données sur le site de la Métropole Européenne de Lille.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Répartition des nombreuses tâches de la to-do list de façon efficace, tout le monde s’est mis rapidement au travail
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les missions à effectuer aujourd’hui sont beaucoup plus diverses et nombreuses : on a à la fois le travail sur la conception des datavisualisations, la rédaction de leur contexte qui nécessitait de retravailler certains jeux de données sur la plateforme de la MEL, la préparation de la restitution auprès des différents responsables, parmis d’autres.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous nous sommes rendu compte qu’il y avait un souci dans l’affichage des données sur la plateforme de la MEL, ce qui nous a pris du temps en plus des missions déjà établies dans notre cahier des charges.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
+## CONCLUSION
 
-
-Liens à inclure : 
-
-
-
-* [Datavisualisation - Liste des commerces acceptant les contenants extérieurs](https://opendata.lillemetropole.fr/explore/dataset/fichiers_commerces_contenants_exte-rieurs_lambersart/map/?disjunctive.type_de_contenants&location=13,50.64915,3.02781&basemap=jawg.streets)
-* [Datavisualisation - Localisation des biobox](https://opendata.lillemetropole.fr/explore/dataset/fichiers_biobox_lambersart/map/?location=14,50.64924,3.02545&basemap=jawg.streets)
-* [Datavisualisation - Part des véhicules à faibles émissions dans le renouvellement du parc de la ville](https://www.canva.com/design/DAFS8d_5RuY/qC43MgFt6wgp0v70nrWGxg/view?utm_content=DAFS8d_5RuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-* [Présentation Canva finale ](https://www.canva.com/design/DAFS9EvSfD4/Urc_AO0JKyA_tYeBsVP7Sw/view?utm_content=DAFS9EvSfD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
-
-    
-
-
-    **CONCLUSION**
-
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart10.jpg" width="500">
+</p>
 
 Globalement, tout le groupe 16 redoutait cette semaine de Challenge Data, n’ayant aucune familiarité avec les données et craignant les missions fastidieuses qui allaient nous être confiées dans le cadre de cette fameuse semaine. 
 
 Grâce à un esprit d’équipe solide et une bonne entente entre tous les membres, mais également nos compétences personnelles relevant du sens du relationnel, nous avons réussi à accomplir nos missions de façon organisée et également répartie. Finalement nous sommes satisfait du résultat des efforts collectifs fournis par le groupe 16 dans la production et la publication de nos jeux de données en ligne. 
 
-Avec un départ ambitieux vis-à-vis de nos jeux de données, nous étions contraints de retirer l’un d’entre eux du fait de la non-accessibilité de celles-ci (pour les chemins de randonnée). Finalement, notre travail d’équipe a permis l’ouverture de 5 jeux de données, dont 3 actuellement publiés sur la plateforme Open Data  de la MEL. Concernant la réaction de la commune, notre interlocuteur à Lambersart a énormément apprécié notre travail, ce qui a été confirmé par nos échanges par mail et au téléphone.
+Avec un départ ambitieux vis-à-vis de nos jeux de données, nous étions contraints de retirer l’un d’entre eux du fait de la non-accessibilité de celles-ci (pour les chemins de randonnée). Finalement, notre travail d’équipe a permis d'améliorer la qualité de 5 jeux de données, dont 3 actuellement publiés sur la plateforme Open Data  de la MEL. Concernant la réaction de la commune, notre interlocuteur à Lambersart a énormément apprécié notre travail, ce qui a été confirmé par nos échanges par mail et au téléphone.
 
-Nos principales réussites sont sans aucun doute la bonne et égale répartition des tâches, la détermination de tous à bien exécuter celles-ci et notre compréhension progressive d’enjeux divers relatifs à la donnée Ces enjeux incluent : la diversité des outils à notre disposition pour analyser, visualiser et télécharger des données (UMap, Openstreetmap, la différence entre geojson, csv et xlsx, les sites permettant la visualisation de fichiers Geojson, parmis d’autres, par exemple) ou encore le nombre d’informations pouvant être rattachées à un seul jeu de données, comme en l’occurrence pour notre jeu de données relatif à la part de véhicules municipaux à faibles émissions qui inclut une soixantaine de colonnes.
+Nos principales réussites sont sans aucun doute la bonne et égale répartition des tâches, la détermination de tous à bien exécuter celles-ci et notre compréhension progressive d’enjeux divers relatifs à la donnée. Ces enjeux incluent : la diversité des outils à notre disposition pour analyser, visualiser et télécharger des données (UMap, Openstreetmap, la différence entre geojson, csv et xlsx, les sites permettant la visualisation de fichiers Geojson, parmis d’autres, par exemple) ou encore le nombre d’informations pouvant être rattachées à un seul jeu de données, comme en l’occurrence pour notre jeu de données relatif à la part de véhicules municipaux à faibles émissions qui inclut une soixantaine de colonnes.
 
 Quant à nos “casse-têtes”, certaines tâches nécessitaient un travail fastidieux, comme lors de la modification du jeu de données sur la plateforme de la MEL pour qu’il soit lisible à l’oeil humain, alors que nous avions passé le début de la semaine à rendre nos données lisibles pour les machines, ou encore l’appel des différents commerces pour savoir s’ils acceptent les contenants extérieurs. Par ailleurs, nous étions déçus que nos jeux de données sur les aménagements cyclables et les parkings à vélos ne soient pas publiés considérant le travail que cela nous a demandé. Cependant, et malgré la divergence au sein des emplois du temps, nous avons réussi à produire et publier des jeux de données et ce fut un plaisir de voir le résultat concret de notre travail sur la plateforme, notamment avec la disponibilité de cartes rendant visible la localisation des commerces acceptant des contenants extérieurs, des parkings à vélo, des biobox ou encore des aménagements cyclables. 
 
