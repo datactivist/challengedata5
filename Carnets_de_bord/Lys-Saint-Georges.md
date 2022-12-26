@@ -181,114 +181,53 @@ En fin de journée, la secrétaire de mairie nous a envoyé les données relativ
 ### Quelques photos de la journée
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG5.jpg" width="200">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG5.jpg" width="300">
 </p>
 
 <p float="left"> <p align="center">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG6.jpg" width="350">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG7.jpg" width="350">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG6.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG7.jpg" width="300">
 </p>
 
 
 ## JOUR 3 – MISE EN QUALITÉ
 
+En arrivant ce matin, nous étions plutôt confiants : nous avons reçu hier en fin d’après-midi et début de soirée, beaucoup de documents sur les données qui nous intéressent, de la part de la secrétaire de mairie (qui a été très réactive à nos demandes, malgré le manque de données). Il nous manquait encore des données relatives au marché public de la commune, mais après un échange téléphonique entre Alice D. et l’architecte chargé des travaux, nous avons pu les obtenir. Il s’agit du premier jeu de données abouti de cette semaine : il ne contient qu’une ligne mais nous partions de rien, donc c’est une petite fierté pour l’équipe. 
 
-    
+En parallèle, Pauline et Pierre ont repris leur travail sur les données associatives : ils ont terminé les templates commencées hier et ont aussi pris en charge la création d’une template relative aux subventions de ces associations (les informations étaient dans les documents envoyés par la secrétaire de mairie - toutes les informations nécessaires étaient facilement accessibles et claires). En plus de ce premier travail, ils ont réalisé la template des monuments historiques de la ville (au nombre de deux : l'église du village et le château). De son côté, Margaux a continué à établir la template des délibérations : elle a repris les comptes rendus des années 2020, 2019 et 2018 pendant toute la matinée. 
 
-**Résumé : **
+Après la pause déjeuner, nous avons réparti les tâches d’une nouvelle manière : Pierre, Coline et Pauline sont désormais chargés de la création du jeux de données des budgets primitifs de la commune (pour prendre le relai de Diane et Alice C. qui avaient déjà beaucoup travaillé dessus - et apporter un regard nouveau sur les données, pour potentiellement trouver des solutions). Ils ont pu remplir les différentes cases avec les informations transmises dans les documents envoyés par la secrétaire de mairie hier soir. Le dossier semble plutôt bien parti, ce qui redonne un peu de motivation au groupe (qui était dépité à l’idée de devoir à nouveau abandonner un jeu de données, après avoir abandonné celui sur l’état civil - pour absence de données numérisées depuis 1912 - et celui sur les chemins de randonnées hier après-midi - puisqu’il était déjà publié sur internet). 
 
+Diane et nos deux Alices préférées ont repris les données créées par Pierre et Pauline hier et se chargent ce matin des vérifications pour la mise en conformité : leur nouveau regard permet de déceler les potentielles erreurs (s’en suit d’ailleurs un nouvel échange téléphonique avec l’architecte ayant eu en charge les travaux de la place du village pour éclairer un point et obtenir une donnée erronée jusqu’ici). En plus des vérifications “humaines”, elles procèdent à la vérification automatique des jeux de données.  
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Après l’envoi de la grande majorité des documents par la secrétaire de mairie, il a été difficile de retrouver les informations dont nous avons besoin dans la multitude de documents. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Un grand merci à la grand-mère d’Alice pour son aide et son expertise d’expert-comptable dans le déchiffrage du budget primitif de Lys-Saint-Georges, même si on a encore eu du mal à comprendre toutes les données qui nous étaient demandées. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>11:20 : Margaux a presque terminé la database sur les délibérations, on est à environ 200 lignes de données excel 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>11:20 : le jeu de données sur les budgets primitifs de Lys Saint Georges est un véritable casse-tête (difficulté de compréhension, difficulté pour trouver les informations qui nous intéressent) 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La template du marché public est terminée avant 12:00 (au final, on a vu en fin de journée que certaines données étaient finalement erronées et nous sommes encore en contact avec l’architecte et notre interlocuteur pour obtenir les données manquantes). 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Après plusieurs heures de recherches de la part d’Alice C. et Diane concernant la mise en forme des données relatives aux budgets primitifs, un début de solution nous permettant d’exploiter les données plus facilement est trouvé en début d’après-midi, avec l’aide de Pauline et Pierre. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Validation de certains jeux de données compliquée car nous n’avions pas de normes à laquelle nous raccrocher pour pouvoir s’assurer de la pertinence de nos informations et de nos choix. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>A la toute fin de la journée, nous avons pu envoyer tous les jeux de données à notre interlocuteur, au bon format : il nous a fait son retour en fin de soirée, en nous remerciant du travail que nous avions fourni. 
-   </td>
-  </tr>
-</table>
+Du côté des délibérations, après la création d’environ 200 lignes de données, il manque encore des ID de délibérations, qui devraient être dans les différents procès verbaux. Nous partons donc à la pêche aux informations pour obtenir les informations manquantes, pour finaliser le jeu de données et ensuite pouvoir passer à la partie vérification et standardisation. 
 
+En fin d’après-midi, nous avons déjà vérifié et validé plusieurs jeux de données : tri sélectif (dont nous avons pu obtenir les données au cours de l’après-midi, en appelant la personne s’occupant de cela dans les services de la communauté de commune - ce qui nous permet d’ouvrir un nouveau jeu de données), les subventions, les associations et les monuments historiques. Nous avons procédé à des vérifications à la fois automatiques mais aussi manuelles (pour les associations notamment, puisque nous avons créé le jeu de données de toute pièce). Pour ce qui concerne le jeu de données du budget, après échange avec notre interlocuteur, nous avons convenu que nous mettrions en forme uniquement les données de 2022.  
 
+À 17 heures, il nous reste encore à vérifier le jeu de données des délibérations : il a été complexe à mettre en œuvre et nous avons dû chercher certaines informations de manière approfondie. A 17h20, toutes nos données sont validées : budget primitif, tri sélectif, subventions, associations... En plus des jeux de données qui ne peuvent pas validées automatiquement (notamment ceux sur les monuments historiques). Il manque encore le document relatif aux délibérations parce qu’il contient encore des erreurs à 17h30. Il manquait quelques caractères normatifs : nous avons réussi à réduire les erreurs de plus de 1000 à 236 (qui s’explique par les 236 lignes de documents, qui contiennent toutes la même erreur, que nous ne pouvons pas modifier). 
 
-    En arrivant ce matin, nous étions plutôt confiants : nous avons reçu hier en fin d’après-midi et début de soirée, beaucoup de documents sur les données qui nous intéressent, de la part de la secrétaire de mairie (qui a été très réactive à nos demandes, malgré le manque de données criant de son administration). Il nous manquait encore des données relatives au marché public de la commune, mais après un échange téléphonique entre Alice D. et l’architecte chargé des travaux, nous avons pu les obtenir. Il s’agit du premier jeu de données aboutis de cette semaine : il ne contient qu’une ligne mais nous partions de rien, donc c’est une petite fierté pour l’équipe. 
+De manière générale, l’équipe était un peu plus démotivée aujourd’hui que les deux jours précédents : le manque de données à notre disposition, la qualité parfois médiocre de beaucoup des données que nous avons récupéré et l’absence totale de jeu de données préexistants (même à nettoyer, standardiser, à chouchouter) a un peu miné le moral de l’équipe, qui avait l’impression de devoir partir de zéro. Mais la bonne humeur continue de régner et nous permet d’avancer malgré les difficultés. A nouveau, la réactivité et la bienveillance de notre interlocuteur et de de la secrétaire de mairie nous permettent d’avancer autant que possible. La journée se termine sur une bonne note puisque nous avons pu terminer tous les jeux de données comme prévu : l’ensemble de l’équipe étant fatiguée, nous avons décidé de remettre à demain la rédaction des bilans de mise en qualité que nous enverrons à notre interlocuteur demain matin. Nous lui avons envoyé en partant les jeux de données mises en forme et nous avons reçu de sa part des commentaires positifs : il nous a proposé quelques modifications et nous a remercié pour notre travail. 
 
+Enfin, nous voulions remercier la grand-mère d’Alice pour son aide et son expertise d’expert-comptable dans le déchiffrage du budget primitif de Lys-Saint-Georges, même si nous avons encore eu du mal à comprendre toutes les données qui nous étaient demandées. 
 
-    En parallèle, Pauline et Pierre ont repris leur travail sur les données associatives : ils ont terminé les templates commencées hier et ont aussi pris en charge la création d’une template relative aux subventions de ces associations (les informations étaient dans les documents envoyés par la secrétaire de mairie - toutes les informations nécessaires étaient facilement accessibles et claires). En plus de ce premier travail, ils ont réalisé la template des monuments historiques de la ville (au nombre de deux : l'église du village et le château). De son côté, Margaux a continué à établir la template des délibérations : elle a repris les comptes rendus des années 2020, 2019 et 2018 pendant toute la matinée. 
+La suite au prochain épisode…
 
+### Quelques petites illustrations de cette journée
 
-    Après la pause déjeuner, nous avons réparti les tâches d’une nouvelle manière : Pierre, Coline et Pauline sont désormais chargés de la création de la template des budgets primitifs de la commune (pour prendre le relai de Diane et Alice C. qui avaient déjà beaucoup travaillé dessus - et apporter un regard nouveau sur les données, pour potentiellement trouver des solutions). Ils ont pu remplir les différentes cases avec les informations transmises dans les documents envoyés par la secrétaire de mairie hier soir. Le dossier semble plutôt bien parti, ce qui redonne un peu de motivation au groupe (qui était dépité à l’idée de devoir à nouveau abandonner un jeu de données, après avoir abandonné celui sur l’état civil - pour absence de données numérisées depuis 1912 - et celui sur les chemins de randonnées hier après-midi - puisqu’il était déjà publié sur internet). 
+La validation du jeu de données des budgets primitifs de Lys-Saint-Georges (_une petite réussite pour Lys-Saint-Georges, un grand pas pour l’équipe 13_).
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG8.jpg">
+</p>
 
-    Diane et nos deux Alices préférées ont repris les templates créées par Pierre et Pauline hier et ce matin et se chargent des vérifications pour la mise en conformité : leur regard nouveau permet de déceler les potentielles erreurs (s’en suit d’ailleurs un nouvel échange téléphonique avec l’architecte ayant eu en charge les travaux de la place du village pour éclairer un point et obtenir une donnée erronée jusqu’ici). En plus des vérifications “humaines”, elles procèdent à la vérification automatique des jeux de données.  
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG9.jpg" width="300">
+</p>
 
-
-    Du côté des délibérations, après la création d’environ 200 lignes de données, il manque encore des ID de délibérations, qui devraient être dans les différents procès verbaux. Nous partons donc à la pêche aux informations pour obtenir les informations manquantes, pour finaliser le jeu de données et ensuite pouvoir passer à la partie vérification et standardisation. 
-
-
-    En fin d’après-midi, nous avons déjà vérifié et validé plusieurs jeux de données : tri sélectif (dont nous avons pu obtenir les données au cours de l’après-midi, en appelant la personne s’occupant de cela dans les services de la communauté de commune - ce qui nous permet d’ouvrir un nouveau de données), les subventions, les associations et les monuments historiques. Nous avons procédé à des vérifications à la fois automatiques mais aussi manuelles (pour les associations notamment, puisque nous avons créé la template de toute pièce). Pour ce qui concerne le jeu de données du budget, après échange avec notre interlocuteur, nous avons convenu que nous mettrions en forme uniquement les données de 2022.  
-
-
-    À 17 heures, il nous reste encore à vérifier le jeu de données des délibérations : il a été complexe à mettre en œuvre et nous avons dû chercher certaines informations de manière approfondie. A 17h20, toutes nos templates sont validées : budget primitif, tri sélectif, subventions, associations... En plus des templates qui ne peuvent pas validées automatiquement (notamment celle sur les monuments historiques). Il manque encore le document relatif aux délibérations parce qu’il contient encore des erreurs à 17h30. Il manquait quelques caractères normatifs : nous avons réussi à réduire les erreurs de plus de 1000 à 236 (qui s’explique par les 236 lignes de documents, qui contiennent toutes la même erreur, que nous ne pouvons pas modifier). 
-
-
-    De manière générale, l’équipe était un peu plus démotivée aujourd’hui que les deux jours précédents : le manque de données à notre disposition, la qualité parfois médiocre de beaucoup des donnée que nous avons récupéré et l’absence totale de jeu de données préexistants (même à nettoyer, standardiser, à chouchouter) a un peu miné le moral de l’équipe, qui avait l’impression de devoir partir de zéro (voire peut-être plus bas). Mais la bonne humeur continue de régner et nous permet d’avancer malgré les difficultés. A nouveau, la réactivité et la bienveillance de notre interlocuteur et de de la secrétaire de mairie nous permettent d’avancer autant que possible. La journée se termine sur une bonne note puisque nous avons pu terminer tous les jeux de données comme prévu : l’ensemble de l’équipe étant fatiguée, nous avons décidé de remettre à demain la rédaction des bilans de mise en qualité que nous enverrons à notre interlocuteur demain matin. Nous lui avons envoyé en partant les jeux de données mises en forme et nous avons reçu de sa part des commentaires positifs : il nous a proposé quelques modifications et nous a remercié pour notre travail. 
-
-
-    La suite au prochain épisode…
-
-
-    **Quelques petites illustrations de cette journée : **
-
-
-    La validation du jeu de données des budgets primitifs de Lys-Saint-Georges (_une petite réussite pour Lys-Saint-Georges, un grand pas pour l’équipe 13_).
-
+<p float="left"> <p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG10.jpg" width="300">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG11.jpg" width="300">
+</p>
 
     **JOUR 4 – PUBLICATION**
 
