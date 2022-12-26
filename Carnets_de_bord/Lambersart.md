@@ -6,15 +6,15 @@ par Mikhael CHERIFI, Paul ESTEVES, Sharmilie GNANACHELVAM, Axel BELKEBIR LE GUEN
 
 ## Introduction
 
+Le dossier ci-dessous retrace le travail des étudiants de quatrième année de l’IEP de Saint-Germain en Laye, membres du groupe 16 dans le cadre du Challenge Data. Celui-ci s’inscrit dans un programme de travail centré sur la donnée et s’étalant de la première à la cinquième année de formation de l’IEP de Saint-Germain-en-Laye. Supervisé par les intervenants de la coopérative DATACTIVIST, cette année, le Challenge Data a eu lieu du lundi 21 au vendredi 25 novembre 2022. L’objectif de cette semaine de travail est d’une part d’initier les étudiants au domaine complexe de la donnée, et d’autre part de d'ouvrur des jeux de données en collaboration avec des collectivités territoriales, afin d’aider ces dernières à respecter leurs obligations légales en matière d’open data. Pour notre part, nous avons effectué ce travail en lien avec la municipalité de Lambersart. 
+
+La commune de Lambersart est une ville moyenne de 27 500 habitants avoisinante de Lille. Moins connue que sa grande voisine, Lambersart est une ville paisible et comporte en son sein des chefs-d’œuvres architecturaux comme l’église Saint-Calixte érigée en 1894, l’hôtel de ville ou encore l'avenue de l’Hippodrome. Tout au long de notre travail, nous avons eu la chance d’être épaulés par un ensemble de personnes travaillant à la municipalité de Lambersart. La collaboration avec ces acteurs nous a permis de parfaire notre travail de collecte et de classification de données. Plus précisément, nous avons centré notre travail sur la mise en place de jeux de données traitant de sujets aussi divers que les aménagements cyclables, les biobox ou encore l’ensemble des commerces acceptant les contenants extérieurs. 
+
+Malgré des moments de fatigue et de doute, notre groupe ressort agréablement surpris par cette expérience. La « semaine data » nous a permis d’acquérir des connaissances dans des domaines aussi variés que la collecte de données ou la mise en forme de graphiques ou de cartes publiées sur des sites officiels. Voici donc un aperçu très complet des tâches que nous avons réalisées chaque jour, avec nos réussites, nos difficultés et nos avancées, permettant ainsi de retracer cette semaine qui nous a beaucoup apporté. 
+
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart_1.png)
 
-Le dossier ci-dessous retrace le travail des étudiants de quatrième année de l’IEP de Saint-Germain en Laye, membres du groupe 16 dans le cadre du « Projet Data ». Celui-ci s’inscrit dans un programme de travail centré sur la « Data » s’étalant de la première à la cinquième année de formation de l’IEP de Saint-Germain-en-Laye. Supervisé par les intervenants de l’organisation participative DATACTIVIST, cette année, le « projet Data » a eu lieu du lundi 21 au vendredi 25 novembre 2022. L’objectif de cette semaine de travail est d’une part d’initier les étudiants au domaine complexe de la « Data », et d’autre part de produire des jeux de données en collaboration avec des collectivités territoriales, afin d’aider ces dernières à respecter leurs obligations légales en matière d’open data. Par jeux de données, on entend une collection de données présentée d’abord via un tableau puis par des graphiques ou cartes. Pour notre part, nous avons effectué ce travail en lien avec la municipalité de Lambersart. 
-
-La commune de Lambersart est une ville moyenne de 27 500 habitants avoisinante de Lille. Moins connue que sa grande voisine, Lambersart est une ville paisible et comporte en son sein des chefs d’œuvres architecturaux comme l’église Saint-Calixte érigée en 1894, l’hôtel de ville ou encore l'avenue de l’Hippodrome. Tout au long de notre travail, nous avons eu la chance d’être épaulés par un ensemble de personnes travaillant à la municipalité de Lambersart. La collaboration avec ces acteurs nous a permis de parfaire notre travail de collecte et de classification de données. Plus précisément, nous avons centré notre travail sur la mise en place de jeux de données traitant de sujets aussi divers que les aménagements cyclables, les biobox ou encore l’ensemble des commerces acceptant les contenants extérieurs. 
-
-En conclusion, malgré des moments de fatigue et de doute, notre groupe ressort agréablement surpris par cette expérience. La « semaine data » nous a permis d’acquérir des connaissances dans des domaines aussi variés que la collecte de données ou la mise en forme de graphiques ou de cartes publiées sur des sites officiels. Voici donc un aperçu très complet des tâches que nous avons réalisées chaque jour, avec nos réussites, nos difficultés et nos avancées, permettant ainsi de retracer cette semaine qui, malgré sa difficulté, nous a beaucoup apporté. 
-
-**JOUR 1 – DIAGNOSTIC**
+## JOUR 1 – DIAGNOSTIC
 
 Dans le cadre de l’établissement du diagnostic concernant l’état d’avancée de l’ouverture des données de la ville de Lambersart, nous avons commencé par prendre connaissance du dossier drive à partir de 10h20 (signature des autorisations, lecture de la wishlist et du questionnaire). Ainsi, nous avons pu contacter notre référent de la mairie de Lambersart. Il est le chef de projet développement numérique et open data de la commune de Lambersart (métropole Européenne de Lille). Après lui avoir envoyé un mail et un message pour convenir d’un rendez-vous, il nous a répondu que nous pourrions échanger sur le questionnaire et la wishlist à 13h. Au cours d’un appel d’environ 1h20, nous avons établi, grâce au questionnaire, le niveau de maturité de Lambersart en matière d’open data. 
 
@@ -23,105 +23,14 @@ D’ailleurs, nous avons constaté que le niveau de la ville était passé de 1 
 Par conséquent, nous avons pu identifier les besoins de la collectivité, centrés sur les enjeux écologiques et environnementaux de Lambersart. Par ailleurs, lors de cet échange, le chef de projet Open Data nous a fait part des difficultés de sa tâche, notamment lorsque des données sont traitées par des délégataires (ce qui est le cas pour les menus des cantines de la ville) ou lors d’enjeux de politiques publiques (en ce moment sur la collecte des déchets et le tri sélectif). Ainsi, nous avons  élaboré une wishlist de 6 jeux de données hiérarchisés à traiter (localisation des biobox, parking à vélos et vélos en libre-service, aménagement cyclable, part des véhicules à faible émission dans le renouvellement du parc de la commune, les commerces acceptant les contenants extérieurs, chemins de randonnées). Nous avons soumis cette liste à notre référent qui l’a validé à 14h30.
 
 
+### La Wishlist de Lambersart
 
-**La Wishlist de Lambersart**
-
-
-<table>
-  <tr>
-   <td>Jeux de données
-   </td>
-   <td>Thématiques des données
-   </td>
-  </tr>
-  <tr>
-   <td>Aménagement cyclables
-   </td>
-   <td>Transports, Tourisme
-   </td>
-  </tr>
-  <tr>
-   <td>Parking à vélos
-   </td>
-   <td>Transports, Tourisme
-   </td>
-  </tr>
-  <tr>
-   <td>Chemins de randonnée
-   </td>
-   <td>Transports, Tourisme
-   </td>
-  </tr>
-  <tr>
-   <td>Part des véhicules à faibles émissions dans le renouvellement d'un parc
-   </td>
-   <td>Environnement, Energie, Logement
-   </td>
-  </tr>
-  <tr>
-   <td>Localisation des biobox (live, monitoring live : données mises à jour quotidiennement sur l'état de remplissage )
-   </td>
-   <td>Environnement, Energie, Logement
-   </td>
-  </tr>
-  <tr>
-   <td>Commerces qui acceptent les contenants extérieurs
-   </td>
-   <td>Autre
-   </td>
-  </tr>
-</table>
-
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La prise de contact a été facile et rapide avec notre référent, ce qui nous a permis de mener un entretien constructif pour évaluer le niveau de maturité de l’open data de la collectivité. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les prises qui ne marchent pas dans la salle : nos ordinateurs se sont déchargés rapidement ce qui représente un frein dans la réalisation de notre travail. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Notre référent maîtrise particulièrement bien l’enjeu et le concept de l’open data ce qui nous a permis de nous faciliter le travail. Les questions lui paraissaient pertinentes, il savait ce dont il parlait donc le contact a été facilité.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous avons été confrontés à des enjeux politiques qui ne tiennent ni à notre référent ni à nous : certains prestataires ne souhaitent pas autoriser l’accès à leurs données, alors même que ce sont des jeux de données qui auraient pu nous intéresser. Les élus sont également réfractaires à la publication de certaines données à enjeu ce qui nous a conduit à repenser notre choix de jeu de données (menus des cantines, collecte des déchets)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous avons réussi à mettre en place une bonne cohésion d’équipe, ce qui rend le travail plus agréable et plus fluide. 
-   </td>
-  </tr>
-</table>
-
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart_1.1.png)
 
 Liens : 
 
-
-
-*  (Wishlist - Lambersart)
-* [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi) (résultats questionnaire)  
+*Wishlist - Lambersart* : [https://docs.google.com/spreadsheets/d/1Tfo__CeBi2HLhhQr8buC13Wb5vHR-AxT/edit#gid=1032248125]
+*Résultats questionnaire de maturité open data* : [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi) 
 
 
 
