@@ -314,23 +314,23 @@ Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en pr�
 **Délibérations du conseil municipal :** [https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG16.jpg" width="350">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG16.jpg" width="450">
 </p>
 
 **Répartition des subventions aux associations de la commune :** [https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/](https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG17.jpg" width="350">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG17.jpg" width="450">
 </p>
 
  **Budget primitif (trois data-visualisations différentes):** [https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022](https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022/)
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG18.jpg" width="350">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG18.jpg" width="450">
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG19.jpg" width="350">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG19.jpg" width="450">
 </p>
 
 
@@ -351,18 +351,13 @@ Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en pr�
 </p>
 
 
-    **CONCLUSION**
+## CONCLUSION
 
+Clap de fin d’une semaine intense, riche en rire, en casses-têtes mais surtout en data !
 
-    Clap de fin d’une semaine intense, riche en rire, en casses-têtes mais surtout en data !
+Tout d’abord nous tenions à remercier chaleureusement toute l’équipe du Challenge Data en particulier Guillaume, ainsi que notre référent de Lys-Saint-Georges et bien évidemment toutes les personnes qui ont gentiment collaboré afin de nous aider à réaliser ce challenge !
 
-
-    Tout d’abord nous tenions à remercier chaleureusement toute l’équipe du Challenge Data en particulier Guillaume, ainsi que notre référent de Lys-Saint-Georges et bien évidemment toutes les personnes qui ont gentiment collaboré afin de nous aider à réaliser ce challenge !
-
-
-    Si la taille de la commune de Lys-Saint-Georges et ses 250 habitants nous a tout d'abord quelque peu effrayé quant aux données que nous allions pouvoir récupérer et utiliser, nous avons toutefois réussi à ouvrir 7 jeux de données à savoir :
-
-
+Si la taille de la commune de Lys-Saint-Georges et ses 250 habitants nous a tout d'abord quelque peu effrayé quant aux données que nous allions pouvoir récupérer et utiliser, nous avons toutefois réussi à ouvrir 7 jeux de données à savoir :
 
 * Associations de Lys-Saint-Georges ;
 * Subventions des associations ;
@@ -372,22 +367,16 @@ Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en pr�
 * Délibérations ;
 * Budget primitif.  
 
-        Toutefois, l'ouverture de ces jeux de données s’est avérée ne pas être une mince affaire !             En effet, nous sommes partis de presque rien. La commune de Lys-Saint-Georges ne disposant pas de jeux de données exploitables et n’ayant que peu de données numérisées, nous avons dû récupérer par nous même les données nécessaires à la réalisation de la liste de jeux données demandée par la commune de Lys-Saint-Georges qui souhaite en effet commencer à constituer de véritables bases de données. Récupérer les données à ainsi été la principale difficulté rencontrée, les interlocuteurs n’étant pas tous les mêmes selon les jeux de données.
+Toutefois, l'ouverture de ces jeux de données s’est avérée ne pas être une mince affaire ! En effet, nous sommes partis de presque rien. La commune de Lys-Saint-Georges ne disposant pas de jeux de données exploitables et n’ayant que peu de données numérisées, nous avons dû récupérer par nous même les données nécessaires à la réalisation de la liste de jeux données demandée par la commune de Lys-Saint-Georges qui souhaite en effet commencer à constituer de véritables bases de données. Récupérer les données à ainsi été la principale difficulté rencontrée, les interlocuteurs n’étant pas tous les mêmes selon les jeux de données.
 
+De plus, une autre de nos difficultés a été de créer certains modèles et standards inexistants à savoir celui pour les associations et les monuments historiques. Également, nous avons dû abandonner un jeu de données, celui-ci s’avérant être déjà publié sur Internet. Un abandon vite surmonté par la réalisation d’un nouveau jeu de données. Enfin, le début à été un peu compliqué pour nous n’ayant pas de connaissances sur toutes les thématiques appréhendées (comptabilité, géolocalisation...).
 
-        De plus, une autre de nos difficultés a été de créer certains templates inexistants à savoir celui pour les associations et les monuments historiques. Également, nous avons dû abandonner un jeu de données, celui-ci s’avérant être déjà publié sur Internet. Un abandon vite surmonté par la réalisation d’un nouveau jeu de données. Enfin, le début à été un peu compliqué pour nous n’ayant pas de connaissances sur toutes les thématiques appréhendées (comptabilité, géolocalisation...).
+Mais ces difficultés ont été rapidement surmontées grâce à la coopération de nos interlocuteurs de Lys-Saint-Georges et de la communauté de communes du Val de Bouzanne. 
 
+En tant qu’étudiants de science politique, cette semaine nous a permis de découvrir un domaine que nous ne connaissions pas ainsi que le fonctionnement d’une toute petite commune.
 
-        Mais ces difficultés ont été rapidement surmontées grâce à la coopération de nos interlocuteurs de Lys-Saint-Georges et de la communauté de communes du Val de Bouzanne. 
+Nous avons pu appréhender des jeux de données différents, des outils nouveaux (Umap, Flourish etc). Le temps d’une semaine, nous sommes devenus Data Activist, géographes, comptables et démarcheurs téléphoniques. De plus, cette semaine nous a permis de comprendre l’enjeu que représente les données et leur impact dans le fonctionnement des communes. 
 
+Si nous avons été un peu surpris par la charge de travail, cette semaine nous a tout de même permis de renforcer notre cohésion de groupe. Nous avons ri, nous nous sommes énervés, nous étions fatigués mais TOUJOURS motivés.
 
-        En tant qu’étudiants de sciences-politiques, cette semaine nous a permis de découvrir un domaine que nous ne connaissions pas ainsi que le fonctionnement d’une toute petite commune.
-
-
-        Nous avons pu appréhender des jeux de données différents, des outils nouveaux (Umap, Flourish etc). Le temps d’une semaine, nous sommes devenus Date Activist, géographes, comptables et démarcheurs téléphoniques. De plus, cette semaine nous a permis de comprendre l’enjeu que représente les données et leur impact dans le fonctionnement des communes. 
-
-
-        Si nous avons été un peu surpris par la charge de travail, cette semaine nous a tout de même  permis de renforcer notre cohésion de groupe. Nous avons ri, nous nous sommes énervés, nous étions fatigués mais TOUJOURS motivés.
-
-
-        Nous n’avions aucunes attentes, cependant cette expérience humaine et professionnalisante restera, c’est certain, dans nos mémoires étudiantes. Encore merci à Guillaume, à toute l’équipe et surtout au groupe 13 très fier d’avoir ouvert ces 7 jeux de données ! 
+Nous n’avions aucune attente, cependant cette expérience humaine et professionnalisante restera, c’est certain, dans nos mémoires étudiantes. Encore merci à Guillaume, à toute l’équipe et surtout au groupe 13 très fier d’avoir ouvert ces 7 jeux de données ! 
