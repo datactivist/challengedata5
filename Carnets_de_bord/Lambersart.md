@@ -12,7 +12,9 @@ La commune de Lambersart est une ville moyenne de 27 500 habitants avoisinante d
 
 Malgré des moments de fatigue et de doute, notre groupe ressort agréablement surpris par cette expérience. La « semaine data » nous a permis d’acquérir des connaissances dans des domaines aussi variés que la collecte de données ou la mise en forme de graphiques ou de cartes publiées sur des sites officiels. Voici donc un aperçu très complet des tâches que nous avons réalisées chaque jour, avec nos réussites, nos difficultés et nos avancées, permettant ainsi de retracer cette semaine qui nous a beaucoup apporté. 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart_1.png)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart1.png" width="300">
+</p>
 
 ## JOUR 1 – DIAGNOSTIC
 
@@ -25,310 +27,98 @@ Par conséquent, nous avons pu identifier les besoins de la collectivité, centr
 
 ### La Wishlist de Lambersart
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart_1.1.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart1.1.png)
 
 Liens : 
 
-*Wishlist - Lambersart* : [https://docs.google.com/spreadsheets/d/1Tfo__CeBi2HLhhQr8buC13Wb5vHR-AxT/edit#gid=1032248125]
-*Résultats questionnaire de maturité open data* : [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi) 
+*Wishlist - Lambersart* : https://docs.google.com/spreadsheets/d/1Tfo__CeBi2HLhhQr8buC13Wb5vHR-AxT/edit#gid=1032248125
+
+*Résultats questionnaire de maturité open data* : [https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi](https://airtable.com/shr4hkTi6y6mwMqQ9/tblCK1HM7nfkjbFpi)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart2.jpg" width="300">
+</p>
 
 
+## JOUR 2 – IDENTIFICATION
 
-**JOUR 2 – IDENTIFICATION**
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart3.jpg" width="300">
+</p>
 
-	En ce début de deuxième jour, nous avons commencé la journée dans la bonne humeur grâce au petit-déjeuner amené par notre camarade Salomé. Nous avons d’abord envoyé un mail à un responsable de la Métropole Européenne de Lille, ancien chargé de missions open data afin de lui demander s’il disposait de jeux de données dont nous avions besoin. En parallèle, nous avons consulté le guide express pour la recherche de données afin d’explorer d’autres sites et de trouver des données qui pourraient nous intéresser. Ce ne fut cependant pas concluant. 
+En ce début de deuxième jour, nous avons commencé la journée dans la bonne humeur grâce au petit-déjeuner amené par notre camarade Salomé. Nous avons d’abord envoyé un mail à un responsable de la Métropole Européenne de Lille, ancien chargé de missions open data afin de lui demander s’il disposait de jeux de données dont nous avions besoin. En parallèle, nous avons consulté le guide express pour la recherche de données pour explorer d’autres sites et trouver des données qui pourraient nous intéresser. Ce ne fut cependant pas concluant. 
 
-Par ailleurs, certains de l’équipe se sont occupés d’envoyer un mail à notre référent pour récupérer les données correspondant à la wish list et obtenir les noms des services à contacter afin d’obtenir les informations manquantes. Nous avons également débuté la réalisation de l’organigramme de la collectivité, rempli au fur et à mesure de la journée. Après réception des données envoyées par notre référent, nous avons dû redemander des précisions à la fois sur les datas et sur les services concernés et nous lui avons transféré les templates afin que nous puissions récupérer les données sous le bon format. Notre référent nous ayant indiqué les services à contacter pour chaque jeu de données, nous avons d’abord convenu par mail d’un appel avec le responsable du patrimoine communal qui a accepté de nous envoyer un document répertoriant toutes les informations sur la part des véhicules à faibles émissions dans le renouvellement du parc. Pour ce jeu de données, nous avons recherché les informations manquantes pour réaliser un fichier CSV conforme. 
+Par ailleurs, certains de l’équipe se sont occupés d’envoyer un mail à notre référent pour récupérer les données correspondant à la wish list et obtenir les noms des services à contacter afin d’obtenir les informations manquantes. Nous avons également débuté la réalisation de l’organigramme de la collectivité, rempli au fur et à mesure de la journée. Après réception des données envoyées par notre référent, nous avons dû redemander des précisions à la fois sur les données, sur les services concernés et nous lui avons transféré les templates afin que nous puissions récupérer les données sous le bon format. Notre référent nous ayant indiqué les services à contacter pour chaque jeu de données, nous avons d’abord convenu par mail d’un appel avec le responsable du patrimoine communal qui a accepté de nous envoyer un document répertoriant toutes les informations sur la part des véhicules à faibles émissions dans le renouvellement du parc. Pour ce jeu de données, nous avons recherché les informations manquantes pour réaliser un fichier CSV conforme. 
 
-De plus, après prise de contact avec la Fédération Française de Randonnée, nous avons été redirigés vers le Comité Régional des Hauts-de-France, auquel nous avons demandé des renseignements sur les datas relatives aux chemins de randonnée. Nous avons alors choisi d’abandonner ce jeu de données car aucun des services ne dispose des données dont nous avons besoin. En ce qui concerne les aménagements cyclables et les parkings à vélos, nous avons pu récupérer auprès de GeoDataMine les données nécessaires à la mise en page des fichiers CSV. Nous avons également relancé notre référent pour récupérer les données correspondant aux biobox. Pour les datas que nous avons décidées d’ouvrir, nous avons commencé à standardiser les informations que nous avons reçues pour remplir nos templates. 
+De plus, après prise de contact avec la Fédération Française de Randonnée, nous avons été redirigés vers le Comité Régional des Hauts-de-France, auquel nous avons demandé des renseignements sur les données relatives aux chemins de randonnée. Nous avons alors choisi d’abandonner ce jeu de données car aucun des services ne dispose des données dont nous avons besoin. En ce qui concerne les aménagements cyclables et les parkings à vélos, nous avons pu récupérer sur Open Street Map les données nécessaires à la mise en page des fichiers CSV. Nous avons également relancé notre référent pour récupérer les données correspondant aux biobox. Pour les données que nous avons décidées d’ouvrir, nous avons commencé à standardiser les informations que nous avons reçues pour remplir nos templates. 
 
-Nous avons également utilisé les standards de schema.data.gouv pour fabriquer notre template sur le renouvellement du parc automobile. Pour la localisation des biobox, certaines données nous ont manquées après la consultation du site Lambersart.fr. Ainsi, nous prévoyons d’appeler l’association ARAS/Espas demain pour les récolter. De plus, au cours de la journée, notre wish list s’est transformée en wanted data list, avec les jeux de données que nous avons décidé d’abandonner ou de continuer à étudier. Nous l’avons ensuite envoyée à notre référent ainsi que l’organigramme. 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart4.png" width="300">
+</p>
 
+Nous avons également utilisé les standards de schema.data.gouv pour fabriquer notre template sur le renouvellement du parc automobile. Pour la localisation des biobox, certaines données nous ont manquées après la consultation du site Lambersart.fr. Ainsi, nous prévoyons d’appeler l’association ARAS/Espas demain pour les récolter. Ainsi, au cours de la journée, notre wish list s’est transformée en wanted data list, avec les jeux de données que nous avons décidé d’abandonner ou de continuer à étudier. Nous l’avons ensuite envoyée à notre référent ainsi que l’organigramme. 
 
+### Wanted Data List
 
-* [Organigramme de la collectivité](https://app.mindmup.com/map/_free/2022/11/709a29b06a7611ed9441612a4d0d2a48) (carte mentale)
-* [Wanted Data List](https://docs.google.com/spreadsheets/d/1Tfo__CeBi2HLhhQr8buC13Wb5vHR-AxT/edit#gid=1032248125)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart3.1.png)
 
-<table>
-  <tr>
-   <td>
-Jeux de données
-   </td>
-   <td>Evaluation des données
-   </td>
-   <td>Décision d’ouverture
-   </td>
-  </tr>
-  <tr>
-   <td>Aménagement cyclables
-   </td>
-   <td>A nettoyer
-   </td>
-   <td>OUI
-   </td>
-  </tr>
-  <tr>
-   <td>Parking à vélos
-   </td>
-   <td>A nettoyer
-   </td>
-   <td>OUI
-   </td>
-  </tr>
-  <tr>
-   <td>Chemins de randonnée
-   </td>
-   <td>Introuvable
-   </td>
-   <td>NON
-   </td>
-  </tr>
-  <tr>
-   <td>Part des véhicules à faibles émissions dans le renouvellement d'un parc
-   </td>
-   <td>A standardiser
-   </td>
-   <td>OUI
-   </td>
-  </tr>
-  <tr>
-   <td>Localisation des biobox (live, monitoring live : données mises à jour quotidiennement sur l'état de remplissage)
-   </td>
-   <td>A compiler, à compléter et à standardiser
-   </td>
-   <td>OUI
-   </td>
-  </tr>
-  <tr>
-   <td>Commerces qui acceptent les contenants extérieurs
-   </td>
-   <td>Introuvable
-   </td>
-   <td>NON
-   </td>
-  </tr>
-</table>
+*Organigramme de la collectivité*(https://app.mindmup.com/map/_free/2022/11/709a29b06a7611ed9441612a4d0d2a48)
+
+*Wanted Data List*(https://docs.google.com/spreadsheets/d/1Tfo__CeBi2HLhhQr8buC13Wb5vHR-AxT/edit#gid=1032248125)
+
+ Mood du jour : l’humeur n’est plus au beau fixe, la fatigue émerge mais l’efficacité reste le maître-mot. 
 
 
-**Résumé : **
+## JOUR 3 – MISE EN QUALITÉ
 
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les premières données envoyées par notre référent étaient extrêmement parcellaires, le document était pratiquement vide et il nous manquait de nombreuses informations pour le remplissage des templates. Nous avons donc dû redemander à notre référent d’autres documents ainsi que les contacts des services compétents. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les services que nous avons contactés ont été très compréhensifs et ont accepté de nous donner les informations très rapidement et facilement ce qui nous a permis d’avancer dans les templates. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Dans le guide express de la recherche de données, plusieurs sites ne marchent pas : la recherche a donc été bloquée (exemples : <a href="http://www.nosdonnees.fr/">http://www.nosdonnees.fr/</a> <a href="http://www.opendata-map.org">http://www.opendata-map.org</a> <a href="http://open-data.europa.eu/">http://open-data.europa.eu/</a> 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les données sur les parkings à vélo et les aménagements cyclables ont été très rapides à trouver et télécharger.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Concernant le jeu de données sur les commerces qui acceptent les contenants extérieurs, nous avons dû abandonner car il s’agissait d’un projet du conseil municipal qui n’a pas été réélu. Le projet a donc été avorté. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Le wifi est extrêmement lent dans la salle ce qui ne facilite pas le travail. 
-   </td>
-  </tr>
-</table>
-
-
-
-    **Mood du jour : **l’humeur n’est plus au beau fixe, la fatigue émerge mais l’efficacité reste le maître-mot. 
-
-** \
-JOUR 3 – MISE EN QUALITÉ**
-
-
-    _             _
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart5.jpg" width="300">
+</p>
 
 Nous avons commencé notre journée par un petit déjeuner ramené par Ludovic. Nous avons débuté par la lecture de la documentation sur opendatacanvas pour savoir les démarches à faire dans la journée. 
 
-Pour fonder le jeu de données des biobox : nous avons appelé une des associations qui est chargée de ces installations. Elle n’avait aucune donnée mais nous a donné le numéro d’une seconde association. Nous avons cherché les coordonnées géographiques précises des biobox afin de remplir le template. 
+Pour améliorer le jeu de données des biobox, nous avons appelé une des associations qui est chargée de ces installations. Elle n’avait aucune donnée mais nous a donné le numéro d’une seconde association. Nous avons cherché les coordonnées géographiques précises des biobox afin de remplir le template. 
 
 Après avoir fait un point avec notre référent sur les tâches précises à faire, nous avons commencé par importer nos jeux de données dans un deuxième volet des templates existants. Nous avons renommé les documents contenant les jeux de données conformément aux standards des templates. Nous avons également vérifié les noms de colonnes en comparaison aux modèles des templates. Nous avons corrigé ceux qui éventuellement n’étaient pas corrects. Nous avons également changé toutes les cellules vides dans lesquelles nous avions initialement inscrit « NR ». 
 
-Nous avons regardé des vidéos pour comprendre le fonctionnement de GeoJSon en prévision de la mise en page des données sous forme de carte, comme il nous l’a été demandé par la collectivité pour les parkings à vélos et les biobox notamment.
+Nous avons regardé des vidéos pour comprendre le fonctionnement du format GeoJSon en prévision de la mise en page des données sous forme de carte, comme il nous l’a été demandé par la collectivité pour les parkings à vélos et les biobox notamment.
 
-Nous avons également cherché, dans une logique de qualité, à vérifier les sources de nos données, notamment issues de Geodatamine. Pour cela, nous avons soit regardé les sources inscrites dans les fichiers templates (c’est notamment le cas des aménagements cyclables), soit sur d’autres bases de données. Nous avons donc regardé s’il existe des mises à jour des sites d’où sont extraites les données notamment lorsque leur dernière date de publication est ancienne (2012 par exemple). Nous avons passé les jeux de données dans le validateur lorsque ceci était possible. Sinon nous avons fait les vérifications aléatoires. 
+Nous avons également cherché, dans une logique de qualité, à vérifier les sources de nos données, notamment issues d'Open Street Map. Pour cela, nous avons soit regardé les sources inscrites dans les fichiers templates (c’est notamment le cas des aménagements cyclables), soit sur d’autres bases de données. Nous avons donc regardé s’il existe des mises à jour des sites d’où sont extraites les données notamment lorsque leur dernière date de publication est ancienne (2012 par exemple). Nous avons passé les jeux de données dans le validateur lorsque ceci était possible. Sinon nous avons fait les vérifications aléatoires. 
 
 Enfin, après avoir eu l’accord de notre référent auprès de la commune, nous avons commencé à appeler les commerces alimentaires de la commune de Lambersart en leur demandant s’ils acceptaient les contenants extérieurs. Nous avons ensuite renseigné ces données dans le fichier répertoriant les commerces qui a été réalisé l’année dernière, et qui n’a pas été mis à jour depuis.
 
-Dans l’après-midi, nous avons demandé de l’aide à Magalie pour lire les coordonnées des aménagements cyclables. Celles-ci ne donnaient jusqu'alors uniquement des points (et non pas des données shapefile, lignes alors que les aménagements cyclables sont des voies et pistes cyclables et doivent donc être continus), puisqu’elles ont été extraites de Géodatamine, logiciel ne donnant que des positions précises. Nous avons donc tenté d’identifier les données propres à la zone de Lambersart disponibles sur openstreetmap, et non pas uniquement les datas d’aménagements cyclables. Un grand nombre de données est donc apparu, il a ensuite fallu les filtrer pour ne faire apparaître que les datas qui nous intéressent ici. Cependant, le fichier était très lourd ce qui a engendré des difficultés matérielles (problèmes de connexion internet, ordinateur pas assez puissant…) et nous n’avons pas pu obtenir ce que nous cherchions.
+Dans l’après-midi, nous avons demandé de l’aide à Magalie pour lire les coordonnées des aménagements cyclables. Celles-ci ne donnaient jusqu'alors uniquement des points (et non pas des données shapefile, lignes alors que les aménagements cyclables sont des voies et pistes cyclables et doivent donc être continus), puisqu’elles ont été extraites avec Géodatamine, logiciel ne donnant que des positions précises. Nous avons donc tenté d’identifier les données propres à la zone de Lambersart disponibles sur openstreetmap, et non pas uniquement les données d’aménagements cyclables. Un grand nombre de données est donc apparu, il a ensuite fallu les filtrer pour ne faire apparaître que les données qui nous intéressent ici. Cependant, le fichier était très lourd ce qui a engendré des difficultés matérielles (problèmes de connexion internet, ordinateur pas assez puissant…) et nous n’avons pas pu obtenir ce que nous cherchions.
 
-Nous avons assisté à une réunion avec le responsable des datas de la MEL qui nous a expliqué comment publier des données sur le portail de la MEL. Il nous a expliqué que la MEL se mettrait en lien avec un responsable de l’open data de chaque commune pour qu’ensuite il soit en mesure d’assurer le suivi de ces données pour qu’elles restent à jour. Il nous a aussi dit qu’en rentrant les données sur le portail, celles qui doivent apparaître sous forme de lignes et non de points, le feront automatiquement. 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart6.png" width="400">
+</p>
+
+Nous avons assisté à une réunion avec le responsable des données de la MEL qui nous a expliqué comment publier des données sur le portail de la MEL. Il nous a expliqué que la MEL se mettrait en lien avec un responsable de l’open data de chaque commune pour qu’ensuite il soit en mesure d’assurer le suivi de ces données pour qu’elles restent à jour. Il nous a aussi dit qu’en rentrant les données sur le portail, celles qui doivent apparaître sous forme de lignes et non de points, le feront automatiquement. 
 
 Nous avons fini la journée par l’envoi d’un mail récapitulatif au référent de la commune. 
 
-[Bilan de mise en qualité](https://l.messenger.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Ffile%2Fd%2F1WUVYEXxyID0gWVMx5OAdDBR_ddSLL_mN%2Fedit%3Fusp%3Ddocslist_api%26filetype%3Dmsword&h=AT3_k8gVAPajgKqTJi1MxOUxtDsDQpUmgf45-9yStqPiFqB2xYfEH06OfUR0OqigpsqdSRAtWMKGmoj273QPwOnhP0kPlU4DNtwHbavLEtZysn4RH52nAPc9JAIM7fdNcIo).
 
-**Résumé : **
+## JOUR 4 – PUBLICATION
 
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Appel de tous les commerces alimentaires de Lambersart : certains ne souhaitent pas répondre
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les commerces alimentaires qui répondent sont motivés et ouverts pour donner des informations 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Le fichier pour faire apparaître les données d’aménagements cyclables en lignes et non en points est trop lourd et intraitable par nos ordinateurs 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les tableaux produits hier sont conformes aux standards.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Quand on fait le contrôle de qualité avec schemadatagouv.fr pour vérifier le template, même quand on le corrige, ça ne modifie pas le nombre d’erreurs. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Durant l’appel avec le responsable de la MEL, il nous a dit que les jeux de données que nous avons traité sont pertinents. Il nous a aussi dit que les données des aménagements cyclables apparaîtront en ligne et non pas en point.
-   </td>
-  </tr>
-</table>
-
-
-
-    
-
-**JOUR 4 – PUBLICATION**
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart7.jpg" width="300">
+</p>
 
 Et c’est parti pour cette quatrième journée dédiée à la publication des données ! Après la réunion collégiale devenue habituelle, notre groupe fait le point autour des friandises apportées par Sharmilie. La première mission de la matinée a été de créer chacun nos comptes sur le site d’ouverture de la donnée de la Métropole Européenne de Lille (MEL) afin d’avoir la capacité de publier nos travaux une fois ces derniers validés par notre référent.  Ensuite, nous avons pris connaissance des tâches présentées sur l’OpendataCanvas pour organiser notre journée et informer notre référent auprès de la commune sur les étapes à venir. 
 
 Après, une réunion d’une trentaine de minutes avec Guillaume, chacun s’est vu accordé une tâche pour parvenir à régler les derniers détails avant la publication des données. Au programme : la récolte des dernières données pour les commerces acceptant les contenants (appels téléphoniques), rédaction des fiches descriptives et standardisation des jeux de données. Nous avons également commencé le plan de communication en attendant d’établir un contact avec le responsable de la communication de la commune de Lambersart. Une fois celui-ci contacté, nous avons été informés des canaux de diffusion dans le cadre de la stratégie de communication de l’opération (réseaux sociaux, magazine MEL, Lambersartinfo). Ainsi, nous avons pu rédiger un court article à la demande du chargé de communication de la Mairie de Lambersart. En parallèle, nous avons publié nos jeux de données en parvenant à afficher la cartographie associée (biobox, parking à vélos, aménagements cyclables, commerces acceptant les contenants extérieurs). 
 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Lambersart8.png" width="300">
+</p>
+
 Nous avons appelé un responsable numérique de la MEL pour qu’il nous explique comment résoudre le problème sur l’aménagement des jeux de données, que nous remercions pour avoir pris le temps de nous aider. 
 
 Enfin, nous avons fini la journée par créer de la métadonnée en précisant la description de chaque colonne pour chacun des jeux de données. Nous avons repris les descriptions de schémadatagouv pour qu’elles soient standardisées. Nous pouvons alors demander la validation de nos travaux de notre contact au sein de la MEL pour la publication effective des jeux de données et des cartes.
 
-**Résumé : **
 
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les géolocalisations ne fonctionnaient pas sur Umap.fr pour fournir des cartes 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Nous devons faire attention aux types de licences 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Notre interlocuteur avec la commune nous a félicité pour notre travail ! 
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image1.png" width="" alt="alt_text" title="image_tooltip">
-
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-<img src="images/image2.png" width="" alt="alt_text" title="image_tooltip">
-
-<p>
-Nous avons réussi à convertir notre fichier Json (fourni par l’équipe datactivist) pour cartographier les aménagements cyclables de Lambersart. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>U-Map aurait été l’outil idéal pour cartographier nos données, cependant Guillaume nous a informé que U-Map plante. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Bonne prise en main du système d’ouverture de la donnée de la MEL (cartographie réussie). Validation par la plateforme des jeux de données. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Difficultés dans la traduction cartographique du jeu de données concernant les aménagements cyclables (conversion en ligne des coordonnées géographiques)
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Retranscription des métadonnées dans le traitement de nos jeux données sur le site de la MEL 
-   </td>
-  </tr>
-</table>
-
-
-
-
-* [Plan de communication](https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword)
-* [Fiches descriptives - Jeux de données](https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation)
+*Plan de communication : (https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword)
+*Fiches descriptives - Jeux de données : (https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation)
 
 **JOUR 5 – VALORISATION**
 
