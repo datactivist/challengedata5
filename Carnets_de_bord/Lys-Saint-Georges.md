@@ -380,3 +380,7 @@ Nous avons pu appréhender des jeux de données différents, des outils nouveaux
 Si nous avons été un peu surpris par la charge de travail, cette semaine nous a tout de même permis de renforcer notre cohésion de groupe. Nous avons ri, nous nous sommes énervés, nous étions fatigués mais TOUJOURS motivés.
 
 Nous n’avions aucune attente, cependant cette expérience humaine et professionnalisante restera, c’est certain, dans nos mémoires étudiantes. Encore merci à Guillaume, à toute l’équipe et surtout au groupe 13 très fier d’avoir ouvert ces 7 jeux de données ! 
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG25.jpg" width="400">
+</p>
