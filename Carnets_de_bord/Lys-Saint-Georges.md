@@ -1,201 +1,43 @@
-<!-- Output copied to clipboard! -->
+# Carnet de bord de l'ouverture des données de Lys-Saint-Georges
 
-<!-----
+par Alice CHEROYAN, Alice DUBET, Margaux GUIFFARD, Pauline HOVELACQUE, Diane SCRIBE, Pierre RIVORY et Coline THOMAS
 
-You have some errors, warnings, or alerts. If you are using reckless mode, turn it off to see inline alerts.
-* ERRORs: 0
-* WARNINGs: 0
-* ALERTS: 2
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
 
-Conversion time: 2.04 seconds.
+## Introduction
 
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG1.jpg)
 
-Using this Markdown file:
+Sciences Po Saint-Germain-en-Laye propose chaque année à ses étudiants de quatrième année le Challenge Data. Organisé par Datactivist, les étudiants se retrouvent confrontés au monde de la donnée, de la collecte à sa publication sur le site officiel du gouvernement.
 
-1. Paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
+Ce challenge est une expérience unique dans nos études, nous plongeant directement dans le monde complexe des données, et nous poussant à travailler ensemble, afin de fournir le travail le plus sérieux et utile à une collectivité. 
 
-Conversion notes:
+En amont du Challenge, nous nous sommes organisés en groupe, et une commune nous a été attribuée. S’étant inscrit sur le groupe 13, était-ce un coup du sort, nous nous sommes vus confiés Lys-Saint-Georges, une petite commune de 219 habitants, dans l’Indre. Étonné par cette collectivité, le groupe 13 était loin d’imaginer à quel point Lys-Saint-Georges allait marquer leur scolarité.
 
-* Docs to Markdown version 1.0β34
-* Mon Dec 26 2022 06:38:38 GMT-0800 (PST)
-* Source doc: Carnet de bord
-* Tables are currently converted to HTML tables.
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server. NOTE: Images in exported zip file from Google Docs may not appear in  the same order as they do in your doc. Please check the images!
+D’ailleurs, faisons un rapide tour des personnes composants le groupe 13 : 
 
------>
+**Alice Cheroyan**, étudiante dans le bloc Culture et Communication, qui sait prendre avec passion le rôle de Secrétaire en Cheffe, est un atout iconique pour le groupe 13.
 
+**Alice Dubet**, étudiante dans le bloc Économie et Finance, qui ambitionne peut-être déjà de dominer Wall Street, offre au groupe 13 une compétence unique : comprendre l’économie de Lys-Saint-Georges. 
 
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 0; ALERTS: 2.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
+**Coline Thomas**, étudiante dans le bloc Relations Internationales, est la correspondante privilégiée de nos interlocuteurs Olliciens. 
 
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
+**Diane Scribe**, étudiante dans le bloc Culture et Communication, possède une force majeure pour le Groupe 13 : des dosettes de cafés, le véritable nerf de la guerre de ce Challenge. 
 
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
+**Margaux Guiffard**, étudiante dans le bloc Culture et Communication, est la carte « heures sup. » du Groupe 13. Son sérieux et sa volonté sont un pilier essentiel pour ce Challenge. 
+
+**Pauline Hovelacque**, étudiante en Droit et Action Publique, eut immédiatement un coup de foudre pour la commune de Lys-Saint-Georges et ses habitants. Peut-être projette-t-elle déjà d’y passer ses futures vacances…
+
+**Pierre Rivory**, étudiant en Relations Internationales, est l’atout mixité de ce groupe. Aussi à l’aise en personne qu’au téléphone, il n’hésitera pas à contacter TOUS les habitants de Lys-Saint-Georges si nécessaire. 
+
+Cette équipe de choc, aussi qualitative qu’impliquée dans l’empire de la data, saura donner toute son énergie pour Lys-Saint-Georges et ses habitants, même si cela implique de passer de longues heures à comprendre et collecter ses données. 
+
+Épaulés par Guillaume, notre référent Datactivist, la semaine du 21 au 25 novembre promettait d’être aussi intense qu’enrichissante. 
 
 
+## JOUR 1 – DIAGNOSTIC
 
-    
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
-
-
-
-<table>
-  <tr>
-   <td><strong>PARTIE</strong>
-   </td>
-   <td><strong>Rédacteur/rédactrice</strong>
-   </td>
-   <td><strong>Note</strong>
-   </td>
-  </tr>
-  <tr>
-   <td>1. Introduction
-   </td>
-   <td>Pierre RIVORY
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>2. Diagnostic
-   </td>
-   <td>Alice DUBET
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>3. Identification
-   </td>
-   <td>Coline THOMAS
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>4. Mise en qualité
-   </td>
-   <td>Margaux GUIFFARD
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>5. Publication
-   </td>
-   <td>Alice CHEROYAN
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>6. Valorisation
-   </td>
-   <td>Diane SCRIBE
-   </td>
-   <td>
-   </td>
-  </tr>
-  <tr>
-   <td>7. Conclusion
-   </td>
-   <td>Pauline HOVELACQUE
-   </td>
-   <td>
-   </td>
-  </tr>
-</table>
-
-
-
-        **<span style="text-decoration:underline;">Consignes pour la rédaction des CDB</span>**
-
-
-
-* **Vous avez toutes et tous choisi d’être identifiés par vos noms et prénoms ou de ne pas être identifié avec le document “_Autorisations CCBYSA_”, n’oubliez pas de respecter les choix d’anonymisation des membres de votre équipe au moment de la rédaction du carnet de bord ;**
-* **N’oubliez pas d’inclure les pièces-jointes et documents demandés chaque jour ; **
-        * **Wishlist **
-        * **Organigramme **
-        * **Communication éventuelle **
-        * **Dataviz **
-        * **etc.**
-* **N’oubliez pas aussi d’anonymiser les noms et prénoms des interlocuteurs et des agents de collectivité ;**
-* **Enfin, si vous insérez des images dans votre carnet de bord, merci de les déposer également dans le dossier “_Images carnet de bord_” sur le drive de votre groupe.**
-
-**INTRODUCTION**
-
-
-        Sciences Po Saint-Germain-en-Laye propose chaque année à ses étudiants de quatrième année le Challenge Data. Organisé par Datactivist, les étudiants se retrouvent confrontés au monde de la donnée, de la collecte à sa publication sur le site officiel du gouvernement.
-
-
-        Ce challenge est une expérience unique dans nos études, nous plongeant directement dans le monde complexe des données, et nous poussant à travailler ensemble, afin de fournir le travail le plus sérieux et utile à une collectivité. 
-
-
-        En amont du Challenge, nous nous sommes organisés en groupe, et une commune nous a été attribuée. S’étant inscrit sur le groupe 13, était-ce un coup du sort, nous nous sommes vus confiés Lys-Saint-Georges, une petite commune de 219 habitants, dans l’Indre. Étonné par cette collectivité, le groupe 13 était loin d’imaginer à quel point Lys-Saint-Georges allait marquer leur scolarité.
-
-
-        D’ailleurs, faisons un rapide tour des personnes composants le groupe 13 : 
-
-
-
-* **Alice Cheroyan**, étudiante dans le bloc Culture et Communication, qui sait prendre avec passion le rôle de Secrétaire en Cheffe, est un atout iconique pour le groupe 13. 
-* **Alice Dubet**, étudiante dans le bloc Économie et Finance, qui ambitionne peut-être déjà de dominer Wall Street, offre au groupe 13 une compétence unique : comprendre l’économie de Lys-Saint-Georges. 
-* **Coline Thomas**, étudiante dans le bloc Relations Internationales, est la correspondante privilégiée de nos interlocuteurs Olliciens. 
-* **Diane Scribe**, étudiante dans le bloc Culture et Communication, possède une force majeure pour le Groupe 13 : des dosettes de cafés, le véritable nerf de la guerre de ce Challenge. 
-* **Margaux Guiffard**, étudiante dans le bloc Culture et Communication, est la carte « heures sup. » du Groupe 13. Son sérieux et sa volonté sont un pilier essentiel pour ce Challenge. 
-* **Pauline Hovelacque**, étudiante en Droit et Action Publique, eut immédiatement un coup de foudre pour la commune de Lys-Saint-Georges et ses habitants. Peut-être projette-t-elle déjà d’y passer ses futures vacances…
-* **Pierre Rivory**, étudiant en Relations Internationales, est l’atout mixité de ce groupe. Aussi à l’aise en personne qu’au téléphone, il n’hésitera pas à contacter TOUS les habitants de Lys-Saint-Georges si nécessaire. 
-
-        Cette équipe de choc, aussi qualitative qu’impliquée dans l’empire de la data, saura donner toute son énergie pour Lys-Saint-Georges et ses habitants, même si cela implique de passer de longues heures à comprendre et collecter ses données. 
-
-
-        Épaulés par Guillaume, notre référent Datactivist, la semaine du 21 au 25 novembre promettait d’être aussi intense qu’enrichissante. 
-
-
-    **JOUR 1 – DIAGNOSTIC : ALICE DUBET**
-
-
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Appel réussi avec notre interlocuteur: très bon contact avec lui, conseiller municipal
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Absence de jeux de données formalisés : la commune ne dispose à ce jour pas de jeux de données formalisés
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Très bon travail coopératif et bonne entente dans l’équipe
-   </td>
-  </tr>
-</table>
-
-
-
-        	Aujourd’hui est le jour du lancement du Challenge Data. Notre équipe est au complet, et motivée pour en apprendre davantage sur la data, et la gestion de celle-ci au niveau des collectivités publiques. 
+Aujourd’hui est le jour du lancement du Challenge Data. Notre équipe est au complet, et motivée pour en apprendre davantage sur la data, et la gestion de celle-ci au niveau des collectivités publiques. 
 
 
         Suite à la réunion de 8h45 en auditorium, nous nous lançons dans la découverte de la plateforme Open Data canva, et nous rencontrons notre référent Guillaume pour un premier échange. 
