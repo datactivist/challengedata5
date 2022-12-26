@@ -6,7 +6,9 @@ par Alice CHEROYAN, Alice DUBET, Margaux GUIFFARD, Pauline HOVELACQUE, Diane SCR
 
 ## Introduction
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG1.jpg)
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG1.jpg">
+</p>
 
 Sciences Po Saint-Germain-en-Laye propose chaque année à ses étudiants de quatrième année le Challenge Data. Organisé par Datactivist, les étudiants se retrouvent confrontés au monde de la donnée, de la collecte à sa publication sur le site officiel du gouvernement.
 
@@ -37,162 +39,85 @@ Cette équipe de choc, aussi qualitative qu’impliquée dans l’empire de la d
 
 ## JOUR 1 – DIAGNOSTIC
 
-Aujourd’hui est le jour du lancement du Challenge Data. Notre équipe est au complet, et motivée pour en apprendre davantage sur la data, et la gestion de celle-ci au niveau des collectivités publiques. 
 
+Aujourd’hui est le jour du lancement du Challenge Data. Notre équipe est au complet, et motivée pour en apprendre davantage sur la donnée, et la gestion de celle-ci au niveau des collectivités publiques. 
 
-        Suite à la réunion de 8h45 en auditorium, nous nous lançons dans la découverte de la plateforme Open Data canva, et nous rencontrons notre référent Guillaume pour un premier échange. 
+Suite à la réunion de 8h45 en auditorium, nous nous lançons dans la découverte de la plateforme Open Data canva, et nous rencontrons notre référent Guillaume pour un premier échange. 
 
+Ensuite, nous décidons de nous renseigner sur la commune dont nous avons la charge, afin de connaître le milieu dans lequel nous allons évoluer cette semaine, et ainsi mieux comprendre les besoins de nos interlocuteurs. 
 
-        Ensuite, nous décidons de nous renseigner sur la commune dont nous avons la charge, afin de connaître le milieu dans lequel nous allons évoluer cette semaine, et ainsi mieux comprendre les besoins de nos interlocuteurs. 
+À 11h, nous prenons contact avec notre interlocuteur privilégié, conseiller municipal, dans le but de fixer une réunion en début d’après-midi.
 
+### Présentation de la collectivité
 
-        À 11h, nous prenons contact avec notre interlocuteur privilégié, conseiller municipal, dans le but de fixer une réunion en début d’après-midi.
+Lys-Saint-Georges est une commune française située dans le département de l'Indre, en région Centre-Val de Loire. Elle fait partie de la Communauté de Communes de Val de Bouzanne, comprenant 12 communes : Buxières-d'Aillac, Cluis, Fougerolles, Gournay, Lys-St-Georges, Maillet, Malicornay, Mers-Sur-Indre, Montipouret, Mouhers, Neuvy-St-Sépulcre, Tranzault. 
 
+Le Conseil Municipal est constitué de 11 élus. 
 
+Faisant partie des communes peu ou très peu denses, selon la classification de l’INSEE, Lys-Saint-Georges est une commune rurale. À ce jour, la commune compte 250 habitants. 
 
-* **<span style="text-decoration:underline;">Présentation de la collectivité : </span>**
+### Bilan du diagnostic
 
-        Lys-Saint-Georges est une commune française située dans le département de l'Indre, en région Centre-Val de Loire. Elle fait partie de la Communauté de Communes de Val de Bouzanne, comprenant 12 communes : Buxières-d'Aillac, Cluis, Fougerolles, Gournay, Lys-St-Georges, Maillet, Malicornay, Mers-Sur-Indre, Montipouret, Mouhers, Neuvy-St-Sépulcre, Tranzault. 
+Le premier échange avec notre interlocuteur, conseiller municipal, a eu lieu lors du rendez-vous de ce jour, Lundi 21 Novembre 2022 à 14h. 
 
+Le personnel responsable de la politique open data est le maire ainsi que deux agents : la secrétaire de Mairie et un cantonnier. Toutefois, le maire effectue 80% du travail sur ce sujet. Aussi, notre interlocuteur mentionne le fait que les jeux de données, quasi inexistants, ne sont pas affiliés à un collaborateur précis. Globalement, c’est un membre du Conseil municipal qui prend en main un enjeu, une politique de la commune. Lors des changements d’équipe communale, la secrétaire prend en main les sujets.  
 
-        Le Conseil Municipal est constitué de 11 élus. 
-
-
-        Faisant partie des communes peu ou très peu denses, selon la classification de l’INSEE, Lys-Saint-Georges est une commune rurale. À ce jour, la commune compte 250 habitants. 
-
-
-
-* **<span style="text-decoration:underline;">Bilan du diagnostic : </span>**
-
-        Le premier échange avec notre interlocuteur, conseiller municipal, a eu lieu lors du rendez-vous de ce jour, Lundi 21 Novembre 2022 à 14h. 
-
-
-        Le personnel responsable de la politique open data est le maire ainsi que deux agents : la secrétaire de Mairie et un cantonnier. Toutefois, le maire effectue 80% du travail sur ce sujet. 
-
-
-        Aussi, notre interlocuteur mentionne le fait que les jeux de données, quasi inexistants, ne sont pas affiliés à un collaborateur précis. Globalement, c’est un membre du Conseil municipal qui prend en main un enjeu, une politique de la commune. Lors des changements d’équipe communale, la secrétaire prend en main les sujets.  
-
-
-        Notre interlocuteur considère que l’atout de Lys-Saint-Georges dans la gestion de la donnée réside dans la petite taille de la commune. En effet, les élus de la commune ont la capacité d’être agiles sur leurs missions, les habitants sont facilement atteignables, et globalement, des liens existent entre la Mairie et l’ensemble des citoyens. 
-
+Notre interlocuteur considère que l’atout de Lys-Saint-Georges dans la gestion de la donnée réside dans la petite taille de la commune. En effet, les élus de la commune ont la capacité d’être agiles sur leurs missions, les habitants sont facilement atteignables, et globalement, des liens existent entre la Mairie et l’ensemble des citoyens. 
 
 Concernant la stratégie de la collectivité, aucune n’est particulièrement établie ni formalisée. Il n’y a pas de financement, ni de budget alloué à ce jour à cet effet. 
 
+Par conséquent, il n’y pas de jeu de données déjà organisé, la commune est donc  curieuse de découvrir l’utilité de la gestion de bases en open data. L’objectif pour eux est dès lors d’en matérialiser. 
 
-        Par conséquent, il n’y pas de jeu de données déjà organisé, la commune est donc  curieuse de découvrir l’utilité de la gestion de bases en open data. L’objectif pour eux est dès lors d’en matérialiser. 
+Cependant, régulièrement, beaucoup des problématiques sont regroupées avec la communauté de communes de Val de Bouzanne : Buxières-d'Aillac, Cluis, Fougerolles, Gournay, Lys-St-Georges, Maillet, Malicornay, Mers-Sur-Indre, Montipouret, Mouhers, Neuvy-St-Sépulcre, et Tranzault. Donc certaines données seraient plus intéressantes à étudier  à l’échelle de la communauté de commune. 
 
+Le palier de maturité de la collectivité est donc évalué au niveau 1.
 
-        Cependant, régulièrement, beaucoup des problématiques sont regroupées avec la communauté de communes de Val de Bouzanne : Buxières-d'Aillac, Cluis, Fougerolles, Gournay, Lys-St-Georges, Maillet, Malicornay, Mers-Sur-Indre, Montipouret, Mouhers, Neuvy-St-Sépulcre, et Tranzault. Donc certaines données seraient plus intéressantes à étudier  à l’échelle de la communauté de commune. 
+### Résumé des choix et des objectifs de la commune 
 
+Suite à notre échange avec notre interlocuteur, nous avons établi, d’après ses besoins, la Wishlist des jeux de données prioritaires : Budget primitif, Délibération, Marchés publics, Actes d'état civil, Monuments historiques, Parking à vélos, Chemins de randonnée, Tri sélectif, Transports scolaires et communs, Associations, Météo. 
 
-        Le palier de maturité de la collectivité est donc évalué au niveau 1.
+L’objectif pour eux, est dès lors de matérialiser ces jeux de données, car très peu existent à ce jour. 
 
+### Motivations à ouvrir ses données
 
+La première motivation à l’ouverture de la donnée est basée sur une problématique de transparence vis-à-vis des citoyens. Par la suite, notre interlocuteur mentionne également le besoin de standardiser et de codifier les données dont la commune dispose. Toutefois, il évoque rapidement un frein à cette démarche open data : la méconnaissance du sujet. Ainsi, jusqu’à ce jour, aucune démarche d’open data et aucun standard n’existent.  Demain, nous aurons un premier contact téléphonique avec la secrétaire de Mairie, seule fonctionnaire de la commune, chargée de nous transmettre les documents qui nous seront utiles à la réalisation de nos jeux de données.
 
-* **<span style="text-decoration:underline;">Résumé des choix et des objectifs de la commune :</span>**
+**Ci-dessous, la wish list de la commune**
 
-        Suite à notre échange avec notre interlocuteur, nous avons établi, d’après ses besoins, la Wishlist des jeux de données prioritaires : Budget** **primitif, Délibération, Marchés publics, Actes d'état civil, Monuments historiques, Parking à vélos, Chemins de randonnée, Tri sélectif, Transports scolaires et communs, Associations, Météo. 
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG1.1.jpg">
+</p>
 
+### Quelques photos de la journée
 
-        L’objectif pour eux, est dès lors de matérialiser ces jeux de données, car très peu existent à ce jour. 
-
-* **<span style="text-decoration:underline;">Motivations à ouvrir ses données : </span>**
-
-        La première motivation à l’ouverture de la donnée est basée sur une problématique de transparence vis-à-vis des citoyens. Par la suite, notre interlocuteur mentionne également le besoin de standardiser et de codifier les données dont la commune dispose. Toutefois, il évoque rapidement un frein à cette démarche open data : la méconnaissance du sujet. Ainsi, jusqu’à ce jour, aucune démarche d’open data et aucun standard n’existent.  Demain, nous aurons un premier contact téléphonique avec la secrétaire de Mairie, chargée de nous transmettre les documents qui nous seront utiles à la réalisation de nos jeux de données.
-
-
-        Ci-dessous, la wish list de la commune :  
-
-
-        **Wish List de la commune de Lys Saint Georges : **
-
-
-**Quelques photos de la journée : **
-
-
-    **JOUR 2 – IDENTIFICATION**
-
-**Résumé : **
+<p float="left">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG2.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG3.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG4.jpg" width="200">
+</p>
 
 
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Trouver les données pour constituer les bases de données
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Faire face à une commune peu habituée à parler de data et qui délègue pas mal donc n’a pas de données exploitables sur la plupart des problématiques
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Les données en ligne nous ont été utiles pour avancer sur le dossier des délibérations et des randonnées, malgré quelques données manquantes pour avoir un jeu de données standardisé. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Organigramme
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Appel avec la secrétaire et notre interlocuteur
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Plus compliqué pour récupérer les données de la communauté de communes  qui n’est pas familière avec les problématiques d’Open Data. On ressent une certaine méfiance pour récupérer des informations, notamment à l’échelle de la communauté de communes.
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Après avoir travaillé 3h sur le jeu de données des randonnées, nous avons dû abandonner car cela ne sera pas utile, les données étant déjà en ligne.
-   </td>
-  </tr>
-</table>
+## JOUR 2 – IDENTIFICATION
+
+La journée de Data Exploration commence par la lecture des étapes sur l’Open data canvas, un résumé de nos 4 étapes à suivre : 
+
+* Recherche de la donnée (dans notre cas : sur le site internet de la mairie, sur le site de la communauté de communes, mais aussi par le biais d’échanges avec la secrétaire de Mairie, au téléphone et par mails…)
+* Compléter l’organigramme
+* Evaluer le travail de mise en qualité
+* S’engager sur une wanted data list
 
 
+Nous commençons par ouvrir les ressources envoyées par notre interlocuteur hier soir (différents sites internet) pour commencer notre évaluation des données sur la wishlist.
 
-        La journée de Data Exploration commence par la lecture des étapes sur l’Open data canvas, un résumé de nos 4 étapes à suivre : 
+De premier abord, il nous semble que certains jeux de données seront introuvables dès ce matin (notamment les jeux concernant le garage à vélo, tri sélectif…) car la commune  délègue plusieurs services à l’échelle de la communauté de communes, et ne disposent donc pas de fichiers propres. Cependant, nous ne pouvons pas les contacter puisqu’ils ne sont pas impliqués dans le projet d’Open Data que nous effectuons cette semaine, et notre interlocuteur nous l’a notifié à plusieurs reprises.
 
+Pour Lys-Saint-Georges, le travail le plus challengeant sera de constituer les bases de données comme il n’y a pas ou très peu de jeux de données déjà créés. Le petit nombre d'interlocuteurs permet d’éliminer assez rapidement les jeux de données pour lesquels les données seront introuvables dans le temps imparti. Les jeux de données étant à créer par notre groupe, le débat principal est résumé par la question “faut-il ouvrir beaucoup de jeux de données, mais assez courts, ou être moins exhaustif ?”  
 
+Alice et Diane s’occupent de produire l’organigramme de la donnée à Lys-Saint-Georges. Malgré la petite taille de la commune, ce n’est pas aussi simple que prévu. 
 
-* recherche de la donnée (dans notre cas : sur le site internet de la mairie, sur le site de la communauté de communes, mais aussi par le biais d’échanges avec la secrétaire de Mairie, au téléphone et par mails…)
-* compléter l’organigramme
-* évaluer le travail de mise en qualité
-* s’engager sur une wanted data list
+Pendant ce temps, les autres membres du groupe préparent les appels de cet après-midi avec la secrétaire de mairie et notre interlocuteur référent afin de réunir les informations nécessaires pour réaliser les bases de données. 
 
-        	Nous commençons par ouvrir les ressources envoyées par notre interlocuteur hier soir (différents sites internet) pour commencer notre évaluation des data sur la wishlist.
-
-
-        De premier abord, il nous semble que certains jeux de données seront introuvables dès ce matin (notamment les jeux concernant le garage à vélo, tri sélectif…) car la commune  délègue plusieurs services à l’échelle de la communauté de communes, et ne disposent donc pas de fichiers propres. Cependant, nous ne pouvons pas les contacter puisqu’ils ne sont pas impliqués dans le projet d’Open Data que nous effectuons cette semaine, et notre interlocuteur nous l’a notifié à plusieurs reprises.
-
-
-        Pour Lys-Saint-Georges, le travail le plus challengeant sera de constituer les bases de données comme il n’y a pas ou très peu de jeux de données déjà créés. Le petit nombre d'interlocuteurs permet d’éliminer assez rapidement les jeux de données pour lesquels les données seront introuvables dans le temps imparti. Les jeux de données étant à créer par notre groupe, le débat principal est résumé par la question “faut-il ouvrir beaucoup de jeux de données, mais assez courts, ou être moins exhaustif ?”  
-
-
-        Alice et Diane s’occupent de produire l’organigramme de la donnée à Lys-Saint-Georges. Malgré la petite taille de la commune, ce n’est pas aussi simple que prévu. 
-
-
-        Pendant ce temps, les autres membres du groupe préparent les appels de cet après-midi avec la secrétaire de mairie et notre interlocuteur référent afin de réunir les informations nécessaires pour réaliser les bases de données. 
-
-
-        Nous avons retenu sept bases de données à constituer : 
+Nous avons retenu sept bases de données à constituer : 
 
 * Budget primitif
 * Délibérations
@@ -202,19 +127,11 @@ Concernant la stratégie de la collectivité, aucune n’est particulièrement �
 * Chemins de randonnée
 * Associations
 
-        La wanted liste définitive sera déterminée cet après-midi une fois que nous aurons complètement récupéré les données  et évaluer l’ampleur des tâches.
+La wanted liste définitive sera déterminée cet après-midi une fois que nous aurons complètement récupéré les données et évaluer l’ampleur des tâches. 
 
+Après le repas, nous avons terminé l’organigramme, qui a été validé par Guillaume. Nous avons ensuite été formé à la conformité des bases de données sur schémas.data.gouv afin de mettre en créer des bases standardisées pour Lys-Saint-Georges. 
 
-        Après le repas, nous avons terminé l’organigramme, qui a été validé par Guillaume. 
-
-
-        Nous avons ensuite été formé à la conformité des bases de données sur schémas.data.gouv afin de mettre en créer des bases standardisées pour Lys-Saint-Georges. 
-
-
-        14h : appel avec la secrétaire de mairie de Lys-Saint-Georges.
-
-
-        Compte rendu de la réunion : 
+### Compte-rendu de l'appel avec la secrétaire de mairie de Lys-Saint-Georges
 
 * Associations: il y a quelques associations et des subventions qui ne sont plus communales, mais intercommunales depuis quelques années
 * Etat civil : non numérisé, il y a des données numérisées, mais par les archives départementales (avant 1912)
@@ -224,58 +141,50 @@ Concernant la stratégie de la collectivité, aucune n’est particulièrement �
 * Tri sélectif : potentielles données par le biais du vice président de la communauté de communes en charge des ordures ménagères, nous allons le contacter dans le cas où des données sont disponibles
 * Subventions : il y a, potentiellement, des données notamment de subventions des associations, mais pas de documents qui récapitulent les demandes entrantes, les demandes acceptées… Seulement les subventions attribuées et leur montant dans les délibérations.
 
-        Malgré tout, la secrétaire de mairie  était disponible et désolée de ne pas disposer de jeux de données à notre disposition. Nous sommes un peu refroidis, on ne retrouve pas l’ambiance festive de ce matin. La tâche s’annonce plus difficile que prévue, sachant désormais que la maturité numérique de la commune est très faible. Peu de choses sont numérisées, pas même l’état civil,  l’adresse mail municipale n’est pas totalement fonctionnelle : la tâche s’annonce lourde pour créer les bases de données de zéro. 
+Malgré tout, la secrétaire de mairie  était disponible et désolée de ne pas disposer de plus de jeux de données. Nous sommes un peu refroidis, on ne retrouve pas l’ambiance festive de ce matin. La tâche s’annonce plus difficile que prévue, sachant désormais que la maturité numérique de la commune est très faible. Peu de choses sont numérisées, pas même l’état civil, l’adresse mail municipale n’est pas totalement fonctionnelle : la tâche s’annonce lourde pour créer les bases de données de zéro. 
 
 
-        	
+Pendant ce temps, nous commençons en petits groupes à constituer plusieurs bases de données pour lesquelles nous disposons de quelques informations : le jeu de données des délibérations, celui des chemins de randonnée, et celui des associations. 
 
+Concernant les données relatives aux délibérations du conseil municipal, Margaux commence à créer le template reprenant les éléments présents dans les CR et PV : il manque certaines informations, mais le travail est plus chronophage que complexe. Nous avons décidé de nous centrer sur la période 2022-2018 (deux ans d’une première mandature et deux années et demi de la mandature actuelle). 
 
-        Pendant ce temps, nous commençons en petits groupes à constituer plusieurs bases de données pour lesquelles nous disposons de quelques informations : le jeu de données des délibérations, celui des chemins de randonnée, et celui des associations. 
+Les données géographiques concernant les chemins de randonnées sont un peu plus délicates à prendre en main, mais Guillaume aide Diane et Alice, chargées de la base pour exploiter les données. 
 
+Quant aux associations, nous appelons les différents présidents pour avoir plus de données sur les adhérents et autres. Beaucoup de bureaux d’associations n’ont pas répondu à nos sollicitations, mais Pierre et Pauline ont pu échanger avec la trésorière du comité des fêtes de Lys-Saint-Georges.
 
-        Concernant les données relatives aux délibérations du conseil municipal, Margaux commence à créer la template reprenant les éléments présents dans les CR et PV : il manque certaines informations, mais le travail est plus chronophage que complexe. Nous avons décidé de nous centrer sur la période 2022-2018 (deux ans d’une première mandature et deux années et demi de la mandature actuelle). 
+Nous avons dû abandonner le jeu de données sur les randonnées… Tout étant déjà sur Internet. C’est un coup dur pour l’équipe qui a travaillé dessus toute l’après-midi. 
 
+Nous avons pris contact avec notre interlocuteur dans l’après-midi afin de faire le point sur notre appel avec la secrétaire de mairie ainsi que sur les jeux de données que nous avons gardés et ceux que nous avons dû abandonner à savoir l’état civil et les randonnées. Nous avons évoqué également la question des subventions ainsi que celle des monuments historiques pour récupérer notamment certaines informations manquantes : quels monuments sont inscrits au patrimoine, quel est leur statut (public ou privé ?). Notre interlocuteur nous a indiqué qu’il comptait recontacter la secrétaire de mairie  afin de récupérer certaines données. En ce qui concerne la question du tri sélectif, nous avons indiqué à notre interlocuteur que nous les avions contactés dans l’espoir d’avoir quelques données. Il nous a par ailleurs indiqué qu’il serait utile d’insister pour avoir des informations auprès de la communauté de commune. Notre interlocuteur nous a aussi indiqué avoir contacté les personnes chargées des points d'eau qui malheureusement ne souhaitent pas ouvrir les données par crainte de la diffusion des données que représente l’Open Data. Il nous a questionnés sur la dangerosité de l’ouverture des datas et nous avons échangé sur les sujets de transparence publique. 
 
-        Les données géographiques concernant les chemins de randonnées sont un peu plus délicates à prendre en main, mais Guillaume aide Diane et Alice, chargées de la base pour exploiter les données. 
+Nous avons également contacté la mairie de Buxières d’Aillac afin d’avoir le contact de la personne chargée du tri sélectif. 
 
+Il est difficile de récolter des données sur la transition écologique qui était le thème initial. Notre commune n’a aucune donnée concernant le sujet, les compétences liées à la transition écologique étant davantage portées par l'EPCI. 
 
-        Quant aux associations, nous appelons les différents présidents pour avoir plus de données sur les adhérents et autres. Beaucoup de bureaux d’associations n’ont pas répondu à nos sollicitations, mais Pierre et Pauline ont pu échanger avec la trésorière du comité des fêtes de Lys-Saint-Georges.
+En fin de journée, la secrétaire de mairie nous a envoyé les données relatives aux budgets primitifs, aux subventions, aux comptes administratifs et nous devons recevoir rapidement le PLU (update : nous l’avons reçu en début de soirée). 
 
+**La Wanted Data List finale**
 
-        Nous avons dû abandonner le jeu de données sur les randonnées… Tout étant déjà sur Internet. C’est un coup dur pour l’équipe qui a travaillé dessus toute l’après-midi. 
-
-
-                            Nous avons pris contact avec notre interlocuteur dans l’après-midi afin de faire le point sur notre appel avec la secrétaire de mairie  ainsi que sur les jeux de données que nous avons gardés et ceux que nous avons dû abandonner à savoir l’état civil et les randonnées. Nous avons évoqué également la question des subventions ainsi que celle des monuments historiques pour récupérer notamment certaines informations manquantes : quels monuments sont inscrits au patrimoine, quel est leur statut (public ou privé ?). Notre interlocuteur nous a indiqué qu’il comptait recontacter la secrétaire de mairie  afin de récupérer certaines données. En ce qui concerne la question du tri sélectif, nous avons indiqué à notre interlocuteur que nous les avions contactés dans l’espoir d’avoir quelques données. Il nous a par ailleurs indiqué qu’il serait utile d’insister pour avoir des informations auprès de la communauté de commune. Notre interlocuteur nous a aussi indiqué avoir contacté les personnes chargées des points d'eau qui malheureusement ne souhaitent pas ouvrir les données par crainte de la diffusion des données que représente l’Open Data. Il nous a questionnés sur la dangerosité de l’ouverture des datas et nous avons échangé sur les sujets de transparence publique. 
-
-
-        Nous avons également contacté la mairie de Buxières d’Aillac afin d’avoir le contact de la personne chargée du tri sélectif. 
-
-
-        Il est difficile de récolter des données sur la transition écologique qui était le thème initial. Notre commune n’a aucune donnée concernant le sujet. 
-
-
-        En fin de journée, la secrétaire de mairie nous a envoyé les données relatives aux budgets primitifs, aux subventions, aux comptes administratifs et nous devons recevoir rapidement le PLU (update : nous l’avons reçu en début de soirée). 
-
-
-        **La Wanted Data List finale : **
-
-
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG.WDL.jpg">
+</p>
         
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
-
-
-
-**L'organigramme : **
-
-
         
+**L'organigramme**
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG.ORG.jpg">
+</p>
+
+### Quelques photos de la journée
+
+<p float="left">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG5.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG6.jpg" width="200">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG7.jpg" width="200">
+</p>
 
 
-    **JOUR 3 – MISE EN QUALITÉ**
+    JOUR 3 – MISE EN QUALITÉ**
 
 
     **Nos bilans de mise en qualité sont à retrouver dans le dossier jour 3 (dans le dossier “_bilans de mise en qualité_”)**
