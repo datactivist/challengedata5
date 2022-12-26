@@ -90,8 +90,11 @@ La première motivation à l’ouverture de la donnée est basée sur une probl�
 
 ### Quelques photos de la journée
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG2.jpg" width="200">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG2.jpg" width="300">
+</p>
+
+<p float="left"> <p align="center">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG3.jpg" width="200">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG4.jpg" width="200">
 </p>
@@ -177,17 +180,20 @@ En fin de journée, la secrétaire de mairie nous a envoyé les données relativ
 
 ### Quelques photos de la journée
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG5.jpg" width="200">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG6.jpg" width="200">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG7.jpg" width="200">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG5.jpg" width="200">
+</p>
+
+<p float="left"> <p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG6.jpg" width="350">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG7.jpg" width="350">
 </p>
 
 
-    JOUR 3 – MISE EN QUALITÉ**
+## JOUR 3 – MISE EN QUALITÉ
 
 
-    **Nos bilans de mise en qualité sont à retrouver dans le dossier jour 3 (dans le dossier “_bilans de mise en qualité_”)**
+    
 
 **Résumé : **
 
