@@ -221,189 +221,134 @@ La validation du jeu de données des budgets primitifs de Lys-Saint-Georges (_un
 </p>
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG9.jpg" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG9.jpg" width="350">
 </p>
 
-<p float="left"> <p align="center">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG10.jpg" width="300">
-  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG11.jpg" width="300">
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG10.jpg" width="350">
 </p>
 
-    **JOUR 4 – PUBLICATION**
 
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La rédaction des bilans de mise en qualité 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La rédaction des fiches descriptives des jeux de données
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Modification du point GPS à la norme demandée
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Publication des jeux de données sur DataGouv.fr
-   </td>
-  </tr>
-</table>
+## JOUR 4 – PUBLICATION
 
 
+Ce matin, c’est avec une grande motivation que nous arrivons à l’IEP. La bonne ambiance était au rendez-vous car Margaux nous a apporté des viennoiseries. Notre interlocuteur du challenge au sein de la collectivité a répondu à notre e-mail d’hier soir en nous donnant son retour sur notre travail qu’il a jugé très pertinent. Il nous a indiqué une modification à apporter sur la base de données du tri sélectif. À présent, nous nous sommes répartis les tâches pour la matinée. Coline s’occupe de répondre à l’e-mail de notre interlocuteur alors que nous nous attelons tous à compléter les bilans de mise en qualité pour chaque jeu de données. Nous disposons maintenant de l’ensemble des informations nécessaires pour que nos jeux de données soient complets en perspective de leur publication sur data.gouv.fr. Nous avons également ajouté les documents sources utilisés pour compléter nos jeux de donnés dans les fichiers récupérés. Il est 10h30, nous avons terminé les bilans de mise en qualité et nous allons les envoyer à notre interlocuteur pour valider. Dans la perspective de la publication de nos données nous allons les joindre à notre référent pour validation. 
 
-    Ce matin, c’est avec une grande motivation que nous arrivons à l’IEP. La bonne ambiance était au rendez-vous car Margaux nous a apporté des viennoiseries. Notre interlocuteur du challenge au sein de la collectivité a répondu à notre e-mail d’hier soir en nous donnant son retour sur notre travail qu’il a jugé très pertinent. Il nous a indiqué une modification à apporter sur la base de données du tri sélectif. À présent, nous nous sommes répartis les tâches pour la matinée. Coline s’occupe de répondre à l’e-mail de notre interlocuteur alors que nous nous attelons tous à compléter les bilans de mise en qualité pour chaque jeu de données. Nous disposons maintenant de l’ensemble des informations nécessaires pour que nos jeux de données soient complets en perspective de leur publication sur data.gouv.fr. Nous avons également ajouté les documents sources utilisés pour compléter nos jeux de donnés dans les fichiers récupérés. Il est 10h30, nous avons terminé les bilans de mise en qualité et nous allons les envoyer à notre interlocuteur pour valider. Dans la perspective de la publication de nos données nous allons les joindre à notre référent pour validation. 
+En parallèle, nous allons à présent compléter les fiches descriptives de nos jeux de données. Colline et Pauline s'attèlent à compléter l’information du point de coordonnées GPS manquant sur le fichier tri sélectif. Nous faisons un point avec Guillaume à 11 heures qui vérifie l’exactitude de nos jeux de données. Puis, nous avons finalisé les fiches descriptives des jeux de données. Diane s’est occupée de la création du compte de la collectivité sur data.gouv.fr. Margaux a procédé à la demande de certification de la commune sur le site. Nous avons communiqué l’ensemble de ces informations à notre référent. 
 
+Cet après-midi, nous nous sommes repartis des jeux de données à publier en ligne sur le site de data.gouv.fr. Coline, Margaux et Pauline ont dû reprendre certaines des fiches descriptives de nos jeux de données afin de les publier sur data.gouv.fr.
 
-    En parallèle, nous allons à présent compléter les fiches descriptives de nos jeux de données. Colline et Pauline s'attèlent à compléter l’information du point de coordonnées GPS manquant sur le fichier tri sélectif. Nous faisons un point avec Guillaume à 11 heures qui vérifie l’exactitude de nos jeux de données. Puis, nous avons finalisé les fiches descriptives des jeux de données. Diane s’est occupée de la création du compte de la collectivité sur data.gouv.fr. Margaux a procédé à la demande de certification de la commune sur le site. Nous avons communiqué l’ensemble de ces informations à notre référent. 
+Vers 16 heures, nous avons eu l’appel quotidien avec notre interlocuteur où nous lui avons indiqué comment se créer un compte sur data.gouv.fr afin d'accéder aux jeux de données. Nous avons ensuite discuté des différentes possibilités concernant le plan de communication. Pierre s’attèle à la création du logo de l’open data. Nous avons complété le plan de communication qui a été validé par Guillaume. Bilan de la journée : de nombreuses réussites aujourd’hui, toutes les étapes se sont faites de manière assez fluides et on sent une très bonne cohésion d’équipe. 
 
+### Liens URL des jeux de données publiés sur datagouv.fr
 
-    Cet après-midi, nous nous sommes repartis des jeux de données à publier en ligne sur le site de data.gouv.fr. Coline, Margaux et Pauline ont dû reprendre certaines des fiches descriptives de nos jeux de données afin de les publier sur data.gouv.fr.
-
-
-    Vers 16 heures, nous avons eu l’appel quotidien avec notre interlocuteur où nous lui avons indiqué comment se créer un compte sur data.gouv.fr afin d'accéder aux jeux de données. Nous avons ensuite discuté des différentes possibilités concernant le plan de communication. Pierre s’attèle à la création du logo de l’open data. Nous avons complété le plan de communication qui a été validé par Guillaume. Bilan de la journée : de nombreuses réussites aujourd’hui, toutes les étapes se sont faites de manière assez fluides et on sent une très bonne cohésion d’équipe. 
-
-**<span style="text-decoration:underline;">Liens URL des jeux de données publiés sur datagouv.fr : </span>**
-
-**Subventions:**
-
-
+**Subventions :**
 
 * [https://www.data.gouv.fr/fr/datasets/subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/](https://www.data.gouv.fr/fr/datasets/subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/)
 
-**Budget primitif : **
-
-
+**Budget primitif :**
 
 * [https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022/](https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022/)
 
 **Tri sélectif :**
 
-
-
 * [https://www.data.gouv.fr/fr/datasets/emplacements-des-bacs-de-tri-selectif-de-la-commune-de-lys-saint-georges-en-2022/](https://www.data.gouv.fr/fr/datasets/emplacements-des-bacs-de-tri-selectif-de-la-commune-de-lys-saint-georges-en-2022/)
 
 **Délibérations :**
-
-
 
 * [https://www.data.gouv.fr/fr/datasets/deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-pour-la-periode-2018-2022/](https://www.data.gouv.fr/fr/datasets/deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-pour-la-periode-2018-2022/)
 
 **Monuments historiques :**
 
-
-
 * [https://www.data.gouv.fr/fr/datasets/monuments-historiques-de-la-commune-de-lys-saint-georges/](https://www.data.gouv.fr/fr/datasets/monuments-historiques-de-la-commune-de-lys-saint-georges/)
 
-**Associations : **
-
-
+**Associations :**
 
 * [https://www.data.gouv.fr/es/datasets/subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/](https://www.data.gouv.fr/es/datasets/subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/)
 
-    **Marchés publics :** 
+**Marchés publics :** 
 
 * [https://www.data.gouv.fr/fr/datasets/marches-publics-de-la-commune-de-lys-saint-georges-de-lannee-2022/](https://www.data.gouv.fr/fr/datasets/marches-publics-de-la-commune-de-lys-saint-georges-de-lannee-2022/)
 
-**        Quelques illustrations de cette journée : **
+### Quelques illustrations de cette journée :
 
-**JOUR 5 – VALORISATION**
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG11.jpeg" width="250">
+</p>
 
-**Résumé : **
-
-
-<table>
-  <tr>
-   <td>Réussite ou casse-tête ? 
-   </td>
-   <td>Explication / Citation du récit du jour
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Problème dans le jeu de données Budget, Coline s’est rendu compte qu’il y avait une erreur de données. 
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Graphique budget non réussi la première fois
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>La certification du compte data.gouv n’a pas été acceptée à la première demande
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Autres datavisualisations facilement réalisées
-   </td>
-  </tr>
-  <tr>
-   <td>
-   </td>
-   <td>Toutes les datavisualisations accompagnées de leurs fiches descriptives ont pu être mises en ligne dans les temps 
-   </td>
-  </tr>
-</table>
+<p float="left"> <p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG12.jpeg" width="300">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG13.jpg" width="300">
+</p>
 
 
+## JOUR 5 – VALORISATION
 
-    Pour le dernier jour, nous sommes arrivés légèrement fatigués mais toujours aussi motivés et soudés. Nous nous sommes installés et mis au travail en nous répartissant les visualisations à faire, après avoir rapidement terminé les fiches descriptives qu’il nous manquait de la veille. Pauline s’occupe de la mise en cartographie des monuments et des points de tri sélectif, via UMap.  Pierre fait les datavisualisations des subventions, Margaux des délibérations et les deux Alice et Diane s’occupent du budget; sur le site Flourish.  Nous avons donc choisi de faire deux cartes et trois graphiques en bâtons. 
+Pour le dernier jour, nous sommes arrivés légèrement fatigués mais toujours aussi motivés et soudés. Nous nous sommes installés et mis au travail en nous répartissant les visualisations à faire, après avoir rapidement terminé les fiches descriptives qu’il nous manquait la veille. Pauline s’occupe de la mise en cartographie des monuments et des points de tri sélectif, via UMap.  Pierre fait les datavisualisations des subventions, Margaux des délibérations et les deux Alice et Diane s’occupent du budget; sur le site Flourish.  Nous avons donc choisi de faire deux cartes et trois graphiques en bâtons. 
 
+Guillaume est venu faire le point avec nous et nous a conseillé sur la réalisation des datavisualisations. Nous avons commencé nos graphiques, avec plus ou moins de facilité. En effet, il n’a pas toujours été facile de concevoir comment mettre en lumière les jeux de données que nous avions créés. Mais nous ne nous sommes pas démotivés, et avons pu discuter tous ensemble afin de produire de jolis datavisualisations, mais qui puissent avant tout être utiles. Certaines difficultés sont remontées : quelles données mettre en avant ? De quelle façon ? Comment rendre simple et facile à comprendre une donnée “brute” ? C’était là tout l’enjeu de la semaine que nous réalisions tout d’un coup complètement. 
 
-    Guillaume est venu faire le point avec nous et nous a conseillés sur la réalisation des datavisualisations. Nous avons commencé nos graphiques, avec plus ou moins de facilités. En effet, il n’a pas toujours été facile de concevoir comment mettre en lumière les magnifiques jeux de données que nous avions créés. Mais nous ne nous sommes pas laissé démotiver, et avons pu discuter tous ensemble afin de produire de jolis datavisualisations, mais qui puissent avant tout être utiles. Certaines difficultés sont remontées : quelles données mettre en avant ? De quelle façon ? Comment rendre simple et facile à comprendre une donnée “brute” ? C’était là tout l’enjeu de la semaine que nous réalisions tout d’un coup complètement. 
+Notre interlocuteur nous a envoyé des mails pour nous faire part des avancées de son côté : la mairie a pu créer son compte sur data.gouv.fr, et est désormais mise en tant qu’administrateur du compte. 
 
+Nous avons ensuite publié nos datavisualisations ainsi que leurs fiches descriptives sur Data.Gouv.fr. Nous en avons donc publié 5 au total, dont 3 concernant le budget primitif.  Pendant ce temps-là, Coline et Margaux ont commencé la présentation, et notre référent a été mis au courant que nous allions lui faire la présentation finale à 17h. 
 
-     Notre interlocuteur nous a envoyé des mails pour nous faire part des avancées de son côté : la mairie a pu créer son compte sur data.gouv.fr, et est désormais mise en tant qu’administrateur du compte. 
+Nous nous sommes tous répartis les tâches pour pouvoir lire et relire le carnet de bord plusieurs fois. 
 
+Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en précisant tour à tour à quoi avaient servi nos données et nos datavisualisations. Notre dur travail, du lundi matin au vendredi soir était enfin fini et c’est fièrement que nous avons fait défiler les slides de notre présentation, qui mettait en avant le but de cette semaine, les différents jeux de données réalisés accompagnés de leurs datavisualisations. Nous avons pu remercier chaleureusement notre interlocuteur qui a toujours été très réactif et nous a bien aidé durant cette semaine, malgré la difficulté de la tâche. 
 
-    Nous avons ensuite publié nos datavisualisations ainsi que leurs fiches descriptives sur Data.Gouv.fr. Nous en avons donc publié 5 au total, dont 3 concernant le budget primitif.  Pendant ce temps-là, Coline et Margaux ont commencé la présentation, et notre référent a été mis au courant que nous allions lui faire la présentation finale à 17h. 
+### Nos datavisualisations
 
-
-    Nous nous sommes finalement tous répartis les tâches pour pouvoir lire et relire le carnet de bord plusieurs fois. 
-
-
-    Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en précisant tour à tour à quoi avaient servi nos données et nos datavisualisations. Notre dur travail, du lundi matin au vendredi soir était enfin fini et c’est fièrement que nous avons fait défiler les slides de notre présentation, qui mettait en avant le but de cette semaine, les différents jeux de données réalisés accompagnés de leurs datavisualisations. Nous avons pu remercier chaleureusement notre interlocuteur qui a toujours été très réactif et nous a bien aidé durant cette semaine, malgré la difficulté de la tâche. 
-
-
-    **Monuments historiques : **[https://www.data.gouv.fr/fr/reuses/emplacements-des-monuments-historiques-de-la-commune-de-lys-saint-georges-en-2022/](https://www.data.gouv.fr/fr/reuses/emplacements-des-monuments-historiques-de-la-commune-de-lys-saint-georges-en-2022/)
-
-
-    **Tri sélectif : **[https://www.data.gouv.fr/fr/reuses/carte-des-emplacements-des-bacs-de-tri-selectif-papier-verre-emballages-de-la-commune-de-lys-saint-georges/](https://www.data.gouv.fr/fr/reuses/carte-des-emplacements-des-bacs-de-tri-selectif-papier-verre-emballages-de-la-commune-de-lys-saint-georges/)
+**Monuments historiques :** [https://www.data.gouv.fr/fr/reuses/emplacements-des-monuments-historiques-de-la-commune-de-lys-saint-georges-en-2022/](https://www.data.gouv.fr/fr/reuses/emplacements-des-monuments-historiques-de-la-commune-de-lys-saint-georges-en-2022/)
+    
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG14.jpg" width="350">
+</p>
 
 
-    **Délibérations du conseil municipal : **[https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
+**Tri sélectif :** [https://www.data.gouv.fr/fr/reuses/carte-des-emplacements-des-bacs-de-tri-selectif-papier-verre-emballages-de-la-commune-de-lys-saint-georges/](https://www.data.gouv.fr/fr/reuses/carte-des-emplacements-des-bacs-de-tri-selectif-papier-verre-emballages-de-la-commune-de-lys-saint-georges/)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG15.jpg" width="350">
+</p>
+
+**Délibérations du conseil municipal :** [https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/](https://www.data.gouv.fr/fr/reuses/repartition-des-thematiques-des-deliberations-du-conseil-municipal-de-la-commune-de-lys-saint-georges-sur-la-periode-2018-2022/)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG16.jpg" width="350">
+</p>
+
+**Répartition des subventions aux associations de la commune :** [https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/](https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG17.jpg" width="350">
+</p>
+
+ **Budget primitif (trois data-visualisations différentes):** [https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022](https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022/)
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG18.jpg" width="350">
+</p>
+
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG19.jpg" width="350">
+</p>
 
 
-    **Répartition des subventions aux associations de la commune : **[https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/](https://www.data.gouv.fr/fr/reuses/datavisualisation-des-subventions-associatives-de-la-commune-de-lys-saint-georges-de-2017-a-2022/)
+### Quelques photos de cette dernière journée
 
+<p float="left"> <p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG20.jpg" width="350">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG21.jpg" width="350">
+</p>
 
-    **Budget primitif (trois data-visualisations différentes): **[https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022](https://www.data.gouv.fr/fr/datasets/budget-primitif-de-la-commune-de-lys-saint-georges-2022/)
+<p float="left"> <p align="center">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG22.jpg" width="350">
+  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG23.jpg" width="350">
+</p>
 
-
-    **Quelques photos de cette journée : **
+<p align="center">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG24.jpg" width="350">
+</p>
 
 
     **CONCLUSION**
