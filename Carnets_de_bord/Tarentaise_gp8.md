@@ -1,6 +1,9 @@
+# Carnet de bord de l'ouverture des données de Tarentaise Vanoise - groupe 8
 
+par COUSIN Martin, THIBAUT Léo, GHAZI Iliana, POUX Julien, CHASSAGNE Angele, CHERIGUI Leina, LABRY Mathieu
 
-## Assemblée de Pays Tarentaise Vanoise (APTV)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/8.jpg)
+
 
 ## JOUR 1 – DIAGNOSTIC
 
