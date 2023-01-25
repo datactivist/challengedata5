@@ -2,7 +2,7 @@
 
 par AASLI Jibran, ABOUBAKAR Nahia, KORCHANE Angla, MADRELLE Lucas, VASQUEZ Elena, DUBIEF Louis, DOSIMONT Claire 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/19.jpg)
 
 
 ## INTRODUCTION
