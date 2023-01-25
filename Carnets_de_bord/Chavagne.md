@@ -2,7 +2,7 @@
 
 par Salomé Heuberger, Eden Cantens, Agathe Hélaine, Thibault Cieslak, Mathilde Baleyte, Sacha Mesnier-Levatic et Eve Hoquidant
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/20.jpg)
 
 ## Introduction
 
