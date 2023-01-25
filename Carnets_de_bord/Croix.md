@@ -2,7 +2,7 @@
 
 par Hady Hage, Emma Buiret, Raphaël Zwein, Maxence Hanriot, François Paillard, Capucine Renault, Alice Zarba
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/15.jpg)
 
 ## Introduction
 
