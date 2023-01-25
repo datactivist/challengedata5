@@ -1,3 +1,8 @@
+# Carnet de bord de l'ouverture des données de Tarentaise Vanoise - groupe 1
+
+par MARTINEZ Maëlys, SALIBA Lilou, CLAIRE Manon, HINNEH Anita, FONTCUBERTA Elise, PERRAULT Alexandre, ADOUKI Wendy
+
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/1.jpg)
 
 
 ## INTRODUCTION
