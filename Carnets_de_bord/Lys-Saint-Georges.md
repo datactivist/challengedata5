@@ -2,7 +2,7 @@
 
 par Alice CHEROYAN, Alice DUBET, Margaux GUIFFARD, Pauline HOVELACQUE, Diane SCRIBE, Pierre RIVORY et Coline THOMAS
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/13.jpg)
 
 ## Introduction
 
