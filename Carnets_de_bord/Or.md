@@ -2,7 +2,7 @@
 
 par ORBAN Clara, LEIDWANGER Madeleine, DAMOUR Laurianne, SPANDONIS Valentin, RABÉ Nathan, CHAUSSE-DUMONT Louisa
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/7.jpg)
 
 ## JOUR 1 – DIAGNOSTIC
 
