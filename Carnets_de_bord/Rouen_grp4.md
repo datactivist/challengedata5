@@ -3,7 +3,7 @@
 par Marceau Berthon, Constance Maly, Juliette Louys, Marie Sicot, Thomas Simon, Aymeric Farret, Marine Ficot
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/5.jpg)
 
 ## Introduction
 
