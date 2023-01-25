@@ -2,7 +2,7 @@
 
 par Mikhael CHERIFI, Paul ESTEVES, Sharmilie GNANACHELVAM, Axel BELKEBIR LE GUEN, Sélya MEREGHETTI, Ludovic RIEUTORD et Salomé ZERBOUHI. 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/Exemple.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Illustrations/16.jpg)
 
 ## Introduction
 
