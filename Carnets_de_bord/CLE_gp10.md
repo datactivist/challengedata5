@@ -303,7 +303,7 @@ Le plan de communication nous a pris une grande partie de l’après-midi mais n
 
 Je te mets ici nos logos:
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_g10_13.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp10_13.png)
 
 Bref, j’espère que chez toi tout va bien, pour nous c’est un clap de fin et à demain! 
 
@@ -311,9 +311,9 @@ Bref, j’espère que chez toi tout va bien, pour nous c’est un clap de fin et
 
 _Ton  groupe 10 adoré_
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_g10_14.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp10_14.png)
 
-_Répartition des missions entre groupes 9 et 10        Tableau to-do-list pour un max d’efficacité! _
+_Répartition des missions entre groupes 9 et 10        Tableau to-do-list pour un max d’efficacité!_
 
 ## JOUR 5 – VALORISATION
 
