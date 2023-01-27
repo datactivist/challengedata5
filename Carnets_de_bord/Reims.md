@@ -98,7 +98,7 @@ Elle désire que nous terminions les îlots de chaleur de la ville de Reims, mai
 **Jour 3 :** début du briefing à 9:05, l’objectif du jour est le nettoyage des jeux de données en uniformisant, supprimer les données inutiles et les aplatir, les standardiser. Pourquoi ? On doit rendre les données utiles, faire un bon format open data qui puisse être utilisé, la ville doit pouvoir les télécharger pour les utiliser. On commence par regarder les vidéos du jour 3 sur open data canvas pour comprendre nos objectifs. 
 
 
-Henri et Léa reprennent leur tâche d'hier qui consiste à entourer les arbres dans les parcs de Reims, pour voir les parcs ombragés et ceux très ensoleillés. Le dicton du jour :** il vaut mieux trop d'arbres que pas assez !** On utilise Umap et l’option d’édition “polygones”, avec un calque pour les arbres par dessus le calque avec les parcs (issu des données de la mairie). 
+Henri et Léa reprennent leur tâche d'hier qui consiste à entourer les arbres dans les parcs de Reims, pour voir les parcs ombragés et ceux très ensoleillés. Le dicton du jour : **il vaut mieux trop d'arbres que pas assez !** On utilise Umap et l’option d’édition “polygones”, avec un calque pour les arbres par dessus le calque avec les parcs (issu des données de la mairie). 
 
 
 Keryann arrive vers 9:40 avec une cheville tordue et 8 croissants pour motiver les troupes. ll bosse sur les coordonnées géographiques des parcs et des squares et complète le document Excel donné par la mairie. Il utilise openstreetmap pour les trouver à partir de leurs adresses. 
@@ -129,11 +129,11 @@ On crée un dossier “Données clean” pour mettre les documents en csv et geo
 
 Début de journée avec une citation inspirante de Guillaume:
 
-**“Je n’aime pas les chiens et le café mais j'aime ma mère et la France”  
+**“Je n’aime pas les chiens et le café mais j'aime ma mère et la France”**
 
 ![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/Reims_08.png)
 
-9h45: **Début de journée et assignation des tâches, aujourd’hui nous devons finir de “clean” les jeux de données, établir un plan de communication à proposer à notre commune et lui créer un compte Data.gouv (s’ils n’en ont pas déjà un). Armand et Alexandre se concentrent sur le référencement des fontaines de Reims, aidés par un jeu de données envoyé par la collectivité plus tôt dans la matinée à Guillaume.  
+**9h45**: Début de journée et assignation des tâches, aujourd’hui nous devons finir de “clean” les jeux de données, établir un plan de communication à proposer à notre commune et lui créer un compte Data.gouv (s’ils n’en ont pas déjà un). Armand et Alexandre se concentrent sur le référencement des fontaines de Reims, aidés par un jeu de données envoyé par la collectivité plus tôt dans la matinée à Guillaume.  
 
 
 **10h30:** Solène s’attaque au plan de communication et tente d’établir des conclusions sur les réseaux sociaux et journaux de la ville de Reims pour trouver les meilleurs vecteurs d’information. Henri rédige l’introduction du journal de Bord. Léa et Keryann s'attèlent aux fiches descriptives, quand Guillaume crée notre compte Data.gouv et demande l’accès au compte de la Ville de Reims. La matinée se déroule bien et comme prévu, pas d’embuches. 
@@ -167,7 +167,7 @@ _Les étapes de réalisation de notre travail :_
 **Débat présidentiel du groupe 17:  Toboggans ou pas toboggans?**
 
 
-**H-7 avant rendu **: Vendredi 10h marque le début de la dernière journée de bataille de la forteresse datastistique aidé par une fierté de la France: des croissants. Comme lors des jours précédents, nous finalisons les différents travaux de la veille dont principalement le calcul de la surface d’ombrage et la réponse au questionnaire d’Allyson. L’appel quotidien avec la collectivité se passe assez bien même si nous n’avons pas pu leur soutirer un engagement de diffusion du fruit de notre travail (béni). Dans le domaine fermé qu'est la communication avec les collectivités, Guillaume se perfectionne à tel point qu'il devient un poisson dans l’eau. Cette expérience va-t-elle mener à une reconversion professionnelle? Rendez-vous dans quelques années. Ils nous ont quand même rappelé leur désir de faire figurer les données de l’ombrage des espaces verts. 
+**H-7 avant rendu** : Vendredi 10h marque le début de la dernière journée de bataille de la forteresse datastistique aidé par une fierté de la France: des croissants. Comme lors des jours précédents, nous finalisons les différents travaux de la veille dont principalement le calcul de la surface d’ombrage et la réponse au questionnaire d’Allyson. L’appel quotidien avec la collectivité se passe assez bien même si nous n’avons pas pu leur soutirer un engagement de diffusion du fruit de notre travail (béni). Dans le domaine fermé qu'est la communication avec les collectivités, Guillaume se perfectionne à tel point qu'il devient un poisson dans l’eau. Cette expérience va-t-elle mener à une reconversion professionnelle? Rendez-vous dans quelques années. Ils nous ont quand même rappelé leur désir de faire figurer les données de l’ombrage des espaces verts. 
 
 
 **H-6 avant le rendu, le débat commence :** Avant la pause tant attendue du festin du midi, beaucoup de rebondissements : Léa commence le travail autour de la finalisation des supports topographiques, aussi appelées cartes. S'ensuit un grand débat acharné entre Léa secondée par Magalie contre Keryann déterminer à faire figurer les données des jeux pour enfants et les espaces verts dans la même carte. Aucun débatteur ne voulant lâcher l’affaire face à l'ennemi, démontre ses arguments à base de démonstrations et d’illustrations. Après un échange très long d’environ 5 min, un des parties s’est incliné face à l’adversité provoquant la séparation des cartes. 
