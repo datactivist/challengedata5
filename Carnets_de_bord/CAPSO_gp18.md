@@ -125,7 +125,7 @@ Plus généralement c’est une journée riche en fous rires car nous avons su t
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp18_05.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp18_05.png" width="450">
 </p>
 
 
