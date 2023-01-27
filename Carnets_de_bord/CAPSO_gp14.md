@@ -13,7 +13,7 @@ Ce carnet de bord retrace la semaine consacrée au Challenge Data du 21 au 25 no
 
 
 <p align="center">
- <img src="[https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp18_02.jpg](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_01.png)" width="300">
+ <img src="[https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_01.png](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_01.png)" width="300">
 </p>
 
 
