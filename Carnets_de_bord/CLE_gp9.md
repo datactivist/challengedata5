@@ -8,7 +8,9 @@ par VIVIER Clotilde, CUMUNEL Margaux, ZHAO Zhenqiu, DURAND WEBER Léa, THIENPONT
 
 
 Challenge data - une semaine du 21 au 25 novembre, 
+
 Un groupe – 7 personnes, 
+
 Un objectif - aider une collectivité à ouvrir les jeux de données.
 
 **Objectifs du challenge data**
@@ -19,7 +21,7 @@ L’objectif du Challenge data est d’aider les collectivités à ouvrir leurs 
 
 L’objectif de ce carnet de bord est de retracer le chemin parcouru par notre groupe durant toute la semaine du challenge data. Cette description des difficultés et des réussites permettra, on l’espère du moins, d’aider les collectivités souhaitant ouvrir leurs jeux de données en open data ; autant pour respecter leurs obligations légales que pour permettre la transparence nécessaire vis-à-vis des citoyens.
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_01.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_01.png)
 
 **Présentation de la collectivité**
 
@@ -30,7 +32,7 @@ Nous avions en charge, tout comme le groupe 10, la collectivité de Caudebec-lè
 
 Pour finir cet avant-propos, voici une petite présentation de l’équipe 9. Nous tenons également à remercier l’équipe 10 avec qui nous avons travaillé.
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_02.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_02.png)
 
 
 ## JOUR 1 
@@ -46,7 +48,7 @@ Nous avons eu un premier contact avec l’interlocuteur désigné de la commune 
 C’est aussi notre référente qui a mené l'entretien afin d’éclaircir la situation et nous aider dans la planification de nos objectifs. L’entretiens, qui a duré une dizaine de minutes, a révélé que nous allions devoir mettre l’accent sur de la recherche de données à exploiter, le lendemain. De ce fait, durant le reste de l’après-midi, nous avons tenté d’avancer et de remplir tous les éléments de la check-list, et notamment, notre wish list, qui dirigera nos recherches du jour 2, que voici. 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_03.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_03.png)
 
 _( [Wish list](https://docs.google.com/spreadsheets/d/1Fk2HLeDH56EDO1lgYL4a8vD96gXzKbni/edit#gid=827923237) )_
 
@@ -77,7 +79,7 @@ Malgré cela, l’équipe n’a pas abandonné. Puisque nous ne pouvions avoir l
 
 Parmi les tâches réalisables, nous pouvons compter _les bornes de recharges électriques, les naissances et décès entre 2014 et 2021, les associations, la liste des élus, les élections législatives et présidentielles, les effectifs scolaires, les horaires d’administrations, les subventions des associations et les activités commerciales_. Ces points constituent notre «wanted datalist». 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_04.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_04.png)
 
 
 
@@ -87,7 +89,7 @@ En d’autres termes, la création d’une base de données était enfin possibl
 A cette bonne nouvelle, s’ajoutait le mail envoyé par notre interlocuteur qui a apporté des clarifications et surtout, quelques data tant attendues. Ainsi, nous avons finalement pu compléter l’organigramme de la journée. 
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_05.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_05.png)
 
 
 Précisons que cet organigramme est encore incomplet, c’est pourquoi un dernier mail a été envoyé en fin de journée pour demander certaines données requises (transport, tri sélectif, logements) et exposer les avancées du groupe comme l’évaluation de la maturité de la commune au sujet de la data.
@@ -131,7 +133,7 @@ _(Un poème inattendu)._
 _Bref, la pause est terminée. Donc voici un logo que j’ai fait :_
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_06.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_06.png" width="400">
 </p>
 
 ## JOUR 3 
@@ -186,7 +188,7 @@ Notre interlocuteur a souhaité que nous créions un logo, des visuels pour la c
 
 Nous avons rédigé l'article, créé [un package réseaux sociaux](https://docs.google.com/document/d/1pPqW3KQaNH0L5GSds7LCvOwmMpxAPnFFNSkEXFQB4sI/edit) avec logo, visuels et texte, un [communiqué de presse](https://docs.google.com/document/d/1pPqW3KQaNH0L5GSds7LCvOwmMpxAPnFFNSkEXFQB4sI/edit), une [fiche d'info interne](https://docs.google.com/document/d/1uIInLSBwsADpFGVCEq298s8lZc9Aos1SvjVBtY4doZA/edit), et un [article pour le journal de la commune](https://docs.google.com/document/d/1W7OOvq8y0H4ACaFXH_eYkPtlGmCQKR7AJELgSOu4sOQ/edit?usp=sharing).
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_07.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_07.png)
 
 **Publication :**
 
@@ -251,11 +253,11 @@ Travail du jour, Présentation des Datavisualisations
 
 Quelques exemples …
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_08.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_08.png)
 
 **La magnifique carte synthétisée ! ([http://umap.openstreetmap.fr/fr/map/commerces_838452?fbclid=IwAR1Wln9zR6kleEK-EyC7eRU04OdykVXoLhYbqCDoa9mEhOA4Va06tvEBKao#14/49.2936/1.0368](http://umap.openstreetmap.fr/fr/map/commerces_838452?fbclid=IwAR1Wln9zR6kleEK-EyC7eRU04OdykVXoLhYbqCDoa9mEhOA4Va06tvEBKao#14/49.2936/1.0368) )**
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_09.png)
+![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_09.png)
 
 
 
@@ -270,7 +272,7 @@ C’est pourquoi le deuxième jour a été consacré à la recherche de données
 Lors de notre restitution (ci-contre), notre interlocuteur s’est déclaré ravi de notre collaboration. Notre travail lui a permis de se familiariser avec les différentes étapes de l’open data. Cela lui permet aussi d’alimenter son plan de communication en préparation pour les prochains mois. Nous voyons ainsi l’utilité concrète de notre travail pour la collectivité.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_10.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_10.png" width="300">
 </p>
 
 **Quel bilan dans notre groupe ?**
@@ -279,7 +281,7 @@ Lors de notre restitution (ci-contre), notre interlocuteur s’est déclaré rav
 **Notre plus grand défi :** 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_11.png" width="150">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_11.png" width="150">
 </p>
 
 
@@ -290,7 +292,7 @@ Les autres grands défis selon notre groupe furent le travail de standardisation
 **Notre plus grande réussite :** 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_12.png" width="150">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_12.png" width="150">
 </p>
 
 
@@ -308,7 +310,7 @@ Par ailleurs, nous nous réjouissons aussi du résultat que nous avons pu produi
 Nous avons ainsi le sentiment d’avoir accompli un travail utile à la collectivité et aux habitants de celle-ci.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_13.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_13.png" width="300">
 </p>
 
 **Qu’avons nous appris ?** 
@@ -318,7 +320,7 @@ Ce Challenge Data nous a permis de réaliser à la fois à quel point l’open d
 De par ce travail, nous avons également pu nous familiariser avec différents outils : certains ont redécouvert la satisfaction de créer de beaux tableaux croisés dynamiques tandis que d’autres ont découvert des outils inconnus jusqu’alors tels que Umap ou GéoDataMine.
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_14.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_14.png" width="300">
 </p>
 
 Ce travail fut aussi l’occasion d’approfondir nos connaissances de la réglementation de l’open data et de nous rendre compte des multiples étapes qui sillonnent la démarche ainsi que la rigueur que cela nécessite. En effet, il ne s’agit pas simplement de compiler des données et de réaliser des graphiques mais aussi de rédiger les fiches descriptives des données et les contextualisations des datavisualisations. C’est donc une démarche pointilleuse qui vise à permettre une réelle analyse des données. 
@@ -328,5 +330,5 @@ Enfin, le Challenge Data fut une formidable expérience humaine puisqu’il a fa
 Merci donc à notre référente Datactivist qui nous a accompagnés dans cette démarche d’open data, à notre interlocuteur au sein de la collectivité qui s’est montré flexible et à notre écoute et au membres du groupe 10 qui ont été des collègues dynamiques et joyeux. 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp9_15.png" width="400">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CLE_gp09_15.png" width="400">
 </p>
