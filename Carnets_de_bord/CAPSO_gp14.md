@@ -6,14 +6,15 @@ par MIGEON Marine, NOUGAREDE Emma, GRYSON Romane, ANDRE Chloé, DALBIGOT Elona, 
 
 
 
-##INTRODUCTION
+## INTRODUCTION
 
 
 Ce carnet de bord retrace la semaine consacrée au Challenge Data du 21 au 25 novembre 2022. En groupe de sept, nous travaillons sur la Communauté d’Agglomération du Pays de Saint-Omer (CAPSO), qui est un établissement public de coopération intercommunal qui dispose de son propre budget, d’une fiscalité et d’une liberté d’administration. La Communauté se compose de 53 communes et compte un peu plus de 105 000 habitants. Ces communes ont élu des délégués à la CAPSO, plus ou moins nombreux selon la taille de la commune. Le 1er janvier 2017, la CAPSO née de la fusion de quatre établissements publics de coopération intercommunale (EPCI) qui existaient auparavant, par un projet de territoire écrit conjointement. [Le projet de territoire](https://www.ca-pso.fr/territoire/2021/projet-de-territoire-2020-2026/) définit les grandes orientations stratégiques et politiques de la CAPSO jusqu’en 2026.
 
 
-![](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_01.png)
-
+<p align="center">
+ <img src="[https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp18_02.jpg](https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_01.png)" width="300">
+</p>
 
 
 
@@ -136,7 +137,7 @@ Tout d’abord, il a fallu terminer les fiches descriptives en portant attention
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_10.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_10.png" width="500">
 </p>
 
 _Screenshot de la publication des jeux de données en ligne._
@@ -172,7 +173,7 @@ La dernière tâche de la semaine consiste à valoriser les données en les rend
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_13.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_13.png" width="500">
 </p>
 
 1. D’abord, nous avons choisi de créer une visualisation avec le jeu de données qui suit la vente des titres de transport en fonction de leur mode d’achat et la type de titre acheté.
@@ -191,7 +192,7 @@ Créer des visualisations avec nos jeux de données a été un vrai casse-tête.
 
 
 <p align="center">
- <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_14.png" width="300">
+ <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/CAPSO_gp14_14.png" width="500">
 </p>
 
 Après avoir publié les données, nous avons terminé la publication de nos visualisations. Ensuite, nous nous sommes tous mis sur la présentation de nos travaux. Avec le groupe 18 nous avons préparé un diaporama ré-expliquant toute notre démarche et tous nos travaux de la semaine. 
