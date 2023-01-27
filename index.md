@@ -3,7 +3,7 @@
 
 ## Assemblée du Pays de Tarentaise Vanoise, groupe 1 \(Syndicat\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/1.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/Carnets_de_bord/Tarentaise_gp1)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/1.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/Tarentaise_gp1)
 
 
 ## Sailly-Lez-Lannoy, groupe 2 \(Commune\)
