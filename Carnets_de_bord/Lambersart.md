@@ -113,8 +113,8 @@ Nous avons appelé un responsable numérique de la MEL pour qu’il nous expliqu
 Enfin, nous avons fini la journée par créer de la métadonnée en précisant la description de chaque colonne pour chacun des jeux de données. Nous avons repris les descriptions de schémadatagouv pour qu’elles soient standardisées. Nous pouvons alors demander la validation de nos travaux de notre contact au sein de la MEL pour la publication effective des jeux de données et des cartes.
 
 
-*Plan de communication : https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword
-*Fiches descriptives - Jeux de données : https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation
+* Plan de communication : https://docs.google.com/file/d/1opfMoEeZuj9DCeoVjfF9nKqa4Qmld3pu/edit?usp=docslist_api&filetype=msword
+* Fiches descriptives - Jeux de données : https://docs.google.com/file/d/1gu9GLlmXA8ZyWo5vod59szk5ur4t2dUu/edit?usp=docslist_api&filetype=mspresentation
 
 
 ## JOUR 5 – VALORISATION
@@ -142,15 +142,15 @@ Nous avons fini par envoyer les rendus finaux à nos correspondants municipaux a
 
 *Liens :* 
 
-*Datavisualisation - Liste des commerces acceptant les contenants extérieurs* : (https://opendata.lillemetropole.fr/explore/dataset/fichiers_commerces_contenants_exte-rieurs_lambersart/map/?disjunctive.type_de_contenants&location=13,50.64915,3.02781&basemap=jawg.streets)
+*Datavisualisation - Liste des commerces acceptant les contenants extérieurs* : [](https://opendata.lillemetropole.fr/explore/dataset/fichiers_commerces_contenants_exte-rieurs_lambersart/map/?disjunctive.type_de_contenants&location=13,50.64915,3.02781&basemap=jawg.streets)
 
 *Datavisualisation - Localisation des biobox* :
-(https://opendata.lillemetropole.fr/explore/dataset/fichiers_biobox_lambersart/map/?location=14,50.64924,3.02545&basemap=jawg.streets)
+[](https://opendata.lillemetropole.fr/explore/dataset/fichiers_biobox_lambersart/map/?location=14,50.64924,3.02545&basemap=jawg.streets)
 
-*Datavisualisation - Part des véhicules à faibles émissions dans le renouvellement du parc de la ville* :(https://www.canva.com/design/DAFS8d_5RuY/qC43MgFt6wgp0v70nrWGxg/view?utm_content=DAFS8d_5RuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+*Datavisualisation - Part des véhicules à faibles émissions dans le renouvellement du parc de la ville* :[](https://www.canva.com/design/DAFS8d_5RuY/qC43MgFt6wgp0v70nrWGxg/view?utm_content=DAFS8d_5RuY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 *Présentation Canva finale* : 
-(https://www.canva.com/design/DAFS9EvSfD4/Urc_AO0JKyA_tYeBsVP7Sw/view?utm_content=DAFS9EvSfD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
+[](https://www.canva.com/design/DAFS9EvSfD4/Urc_AO0JKyA_tYeBsVP7Sw/view?utm_content=DAFS9EvSfD4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) 
 
 
 ## CONCLUSION
