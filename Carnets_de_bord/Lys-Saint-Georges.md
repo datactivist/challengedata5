@@ -94,13 +94,15 @@ La première motivation à l’ouverture de la donnée est basée sur une probl�
  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG2.jpg" width="300">
 </p>
 
-<p float="left"> <p align="center">
+<p float="left">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG3.jpg" width="200">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG4.jpg" width="200">
 </p>
 
 
+
 ## JOUR 2 – IDENTIFICATION
+
 
 La journée de Data Exploration commence par la lecture des étapes sur l’Open data canvas, un résumé de nos 4 étapes à suivre : 
 
