@@ -144,7 +144,7 @@ Les principales difficultés rencontrées : la plus grande difficulté était sa
 ## JOUR 4 – PUBLICATION
 
 
-**Mood du jour : Fluidité, à l'exception de l'interaction avec le pôle communication .**
+**Mood du jour : Fluidité, à l'exception de l'interaction avec le pôle communication.**
 
 
 Aujourd'hui, contrairement à hier, le déroulement de la matinée a davantage été fluide. Ayant terminé en amont le nettoyage ainsi que la standardisation des données, nous avons pu consacrer notre journée aux diverses étapes relatives à la publication des données. Un appel avec notre interlocuteur était nécessaire afin de faire un point sur nos jeux de données avant leur publication et d'obtenir les coordonnées du pôle communication. Toutefois, il n'était pas disponible durant l'ensemble de la matinée ce qui nous a légèrement retardé.
@@ -168,7 +168,7 @@ L'appel passé durant le jour 5 avec les agents du pôle communication nous a pe
 Le but de ce plan de communication est de rendre les données ouvertes attrayantes et pertinentes pour les citoyens et les élus, tout en offrant les bonnes incitations et les bonnes pistes pour effectuer des économies d'énergie sur le territoire Arlysère tant dans les infrastructures de l'Agglomération que les 39 communes qui la composent.
 
 
-** Les objectifs établis sont : **
+**Les objectifs établis sont :**
 
 1. _Créer des publications sur les différents supports de communication de l'Agglomération, que les citoyens et élus pourront consulter._
 2. _Créer une compréhension d'un concept encore peu connu, datant de 2018 (CRPA) et encore peu utilisé que le grand public comprendra._
@@ -193,8 +193,8 @@ Les challengers en pleine pause café ☕️.
 
 
 
-* Lien jeux de données **:  [https://www.data.gouv.fr/fr/datasets/637f52a13b17a77185e068b2/](https://www.data.gouv.fr/fr/datasets/637f52a13b17a77185e068b2/)** 
-* Lien plan communication :  **[https://docs.google.com/document/d/1yRW_vA-zTumSw8W431sN7GNVhPg3MfS_/edit?usp=drive_web&ouid=115927717022988275569&rtpof=true](https://docs.google.com/document/d/1yRW_vA-zTumSw8W431sN7GNVhPg3MfS_/edit?usp=drive_web&ouid=115927717022988275569&rtpof=true) **
+* Lien jeux de données :  **[https://www.data.gouv.fr/fr/datasets/637f52a13b17a77185e068b2/](https://www.data.gouv.fr/fr/datasets/637f52a13b17a77185e068b2/)** 
+* Lien plan communication :  **[https://docs.google.com/document/d/1yRW_vA-zTumSw8W431sN7GNVhPg3MfS_/edit?usp=drive_web&ouid=115927717022988275569&rtpof=true](https://docs.google.com/document/d/1yRW_vA-zTumSw8W431sN7GNVhPg3MfS_/edit?usp=drive_web&ouid=115927717022988275569&rtpof=true)**
 
 
 ## JOUR 5 – VALORISATION
