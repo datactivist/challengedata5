@@ -52,7 +52,7 @@
 
 ## Maremne Adour Côte Sud \(Communauté de communes\)
 
-[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/11.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/Maremne)
+[![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/11.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/CCMACS_grp11)
 
 
 ## Marennes Oléron \(Pôle d'équilibre territorial et rural\)
@@ -65,7 +65,7 @@
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/13.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/Lys-Saint-Georges)
 
 
-## Pays de Saint Omer \(Communauté d'agglomération\)
+## Pays de Saint Omer, groupe 14 \(Communauté d'agglomération\)
 
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/14.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/CAPSO_gp14)
 
@@ -85,7 +85,7 @@
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/17.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/Reims)
 
 
-## Pays de Saint Omer \(Communauté d'agglomération\)
+## Pays de Saint Omer, groupe 18 \(Communauté d'agglomération\)
 
 [![Illustration réalisé par Anne-Cécile Calléjon](https://github.com/datactivist/challengedata5/raw/main/Carnets_de_bord/Images/Illustrations/18.jpg)](https://datactivist.coop/challengedata5/Carnets_de_bord/CAPSO_gp18)
 
