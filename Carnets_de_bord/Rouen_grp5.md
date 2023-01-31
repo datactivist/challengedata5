@@ -84,8 +84,8 @@ Notre wanted data list comprend ainsi quatre jeux de données :
 
 Chacun continue sa remise en forme des données, tandis que Juliette essaye de trouver des modèles d’open data d’émissions GES de la ville de Paris. On trouve des données assez partielles en open data sur un rapport de la ville de Paris, ainsi qu’un type de standardisation pour notre jeu de données issu de l’ADEME. On trouve également des visualisations très intéressantes qui nous aident à appréhender notre quatrième journée.
 
-* https://cdn.paris.fr/paris/2020/02/06/dc2edb10d13ae050815850f721f5a837.pdf
-* https://www.data.gouv.fr/fr/datasets/bilans-demissions-de-ges-publies-sur-le-site-de-lademe-1/
+* [https://cdn.paris.fr/paris/2020/02/06/dc2edb10d13ae050815850f721f5a837.pdf]()
+* [https://www.data.gouv.fr/fr/datasets/bilans-demissions-de-ges-publies-sur-le-site-de-lademe-1/]()
  
 Nous préparons ensuite notre entretien avec notre interlocutrice, afin de lui soumettre notre wanted data list et lui présenter notre méthode. On se prépare à être diplomatiques sur les conseils de notre coach Clément ! Après cet entretien, nous pourrons lui faire parvenir notre organigramme. Nous espérons que notre chasse aux données lui conviendra et que notre wanted data list sera pertinente pour la ville de Rouen !
 
