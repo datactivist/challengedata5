@@ -94,7 +94,7 @@ La première motivation à l’ouverture de la donnée est basée sur une probl�
  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG2.jpg" width="300">
 </p>
 
-<p float="left">
+<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG3.jpg" width="200">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG4.jpg" width="200">
 </p>
@@ -278,7 +278,7 @@ Vers 16 heures, nous avons eu l’appel quotidien avec notre interlocuteur où n
  <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG11.jpeg" width="250">
 </p>
 
-<p float="left"> <p align="center">
+<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG12.jpeg" width="300">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG13.jpg" width="300">
 </p>
