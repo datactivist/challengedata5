@@ -1,4 +1,4 @@
-# Carnet de bord de l'ouverture des données de la Maremne Adour Côte Sud - groupe 11
+# Carnet de bord de l'ouverture des données de Maremne Adour Côte Sud - groupe 11
 
 par BIBRON Louis, HERAIEF Ilan, BENOCCI Enza, BETZ Nina, CIVET Léonie, ROMBY Antoine, LESCOUARCH Auriane
 
