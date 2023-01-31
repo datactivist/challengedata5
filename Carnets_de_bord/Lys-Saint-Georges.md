@@ -338,12 +338,12 @@ Finalement, nous avons pu présenter le bilan devant notre interlocuteur, en pr�
 
 ### Quelques photos de cette dernière journée
 
-<p float="left"> <p align="center">
+<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG20.jpg" width="350">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG21.jpg" width="350">
 </p>
 
-<p float="left"> <p align="center">
+<p float="left" align="center">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG22.jpg" width="350">
   <img src="https://raw.githubusercontent.com/datactivist/challengedata5/main/Carnets_de_bord/Images/Contenu/LSG23.jpg" width="350">
 </p>
