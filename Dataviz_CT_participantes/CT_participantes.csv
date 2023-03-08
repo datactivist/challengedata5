@@ -1,0 +1,48 @@
+﻿Nom_collectivite,Type,Type_general,SIREN,Edition,Novice_opendata,Population,Obligation_opendata,Nb_jeux_ouverts_challenge,Longitude,Latitude
+Annecy,Commune,Commune,200063402,4,Non,131481,oui,8,6.12551774,45.89064326
+Arlysère,Communauté d’agglomération,EPCI,200068997,5,Oui,62774,oui,4,6.39249762,45.67422901
+Armentières,Commune,Commune,215900176,3,Non,25140,oui,5,2.87971553,50.69137975
+Assemblée du Pays Tarentaise Vanoise,Syndicat,EPCI,257302539,"4,5",Oui,50983,oui,2,6.53114243,45.48378244
+Baugé-en-Anjou,Commune,Commune,200052702,3,Oui,12060,oui,5,-0.10902179,47.54668947
+Bayonne,Commune,Commune,216401026,4,Non,52569,oui,3,-1.46607674,43.49222540
+Beauvais,Commune,Commune,216000562,3,Non,58011,oui,2,2.08616124,49.43655233
+Béthune,Commune,Commune,216209106,3,Oui,25544,oui,2,2.64242379,50.52889226
+Boulogne-Billancourt,Commune,Commune,216000745,3,Oui,1216,non,8,2.34451291,49.22809441
+Carrières-Sous-Poissy,Commune,Commune,217801232,3,Non,16363,oui,6,2.02913707,48.94556390
+Caudebec-les-Elbeuf,Commune,Commune,217601657,5,Non,10225,oui,11,1.02549552,49.28205421
+Châtillon,Commune,Commune,219200201,3,Oui,37303,oui,1,2.28799132,48.80340918
+Chavagne,Commune,Commune,213500762,5,Oui,4267,oui,3,-1.78649242,48.05615740
+Clermont Auvergne,Métropole,EPCI,246300701,4,Non,300131,oui,10,3.10420442,45.78097459
+Croix,Commune,Commune,215901638,5,Oui,21369,oui,6,3.15464042,50.67406900
+Entre Juine et Renarde,Communauté de communes,EPCI,249100553,4,Oui,27935,oui,3,2.18477451,48.52293006
+Épinal,Commune,Commune,218801603,4,Oui,33682,oui,3,6.47989287,48.16312027
+Épône,Commune,Commune,217802172,3,Non,6593,oui,6,1.81269585,48.94717597
+Eu,Commune,Commune,217602556,3,Oui,6972,oui,3,1.42861758,50.04132688
+Grenoble,Métropole,EPCI,200040715,3,Non,451107,oui,2,5.71825599,45.14195028
+Lacq Orthez,Communauté de communes,EPCI,200039204,4,Non,55001,oui,4,-0.60917836,43.37973664
+Lambersart,Commune,Commune,215903287,"4,5",Oui,27846,oui,7,3.02491174,50.65220530
+Lens-Liévin,Communauté d’agglomération,EPCI,246200364,3,Oui,243731,oui,2,2.78643771,50.42962150
+Lys-Saint-Georges,Commune,Commune,213601081,5,Oui,220,non,7,1.81677559,46.64590033
+Maremne Adour Côte Sud,Communauté de communes,EPCI,244000865,5,Non,68642,oui,7,-1.31617949,43.66257050
+Marennes Oléron,Pôle d’équilibre territorial et rural,EPCI,200050334,5,Oui,37528,oui,2,-1.10814737,45.82230027
+Marseillan,Commune,Commune,216503011,4,Oui,261,non,5,0.21305256,43.30141300
+Marseille,Commune,Commune,211300553,4,Non,874619,oui,5,5.37430682,43.29554388
+Maurienne Galibier,Communauté de communes,EPCI,247300452,4,Oui,5773,oui,6,6.47116028,45.21840904
+Mayenne,Département,Département,225300011,"4,5",Non,305021,oui,19,-0.76651034,48.06996863
+Neuville Saint Rémy,Commune,Commune,215904285,3,Non,3832,oui,7,3.21918185,50.18769809
+Nézel,Commune,Commune,217804517,3,Non,1056,non,3,1.83927893,48.94223973
+Pays de l’Or,Communauté d’agglomération,EPCI,243400470,5,Non,45038,oui,7,3.95879076,43.58086910
+Pays de Mormal,Communauté de communes,EPCI,200043321,3,Oui,49257,oui,3,3.70591050,50.23072451
+Pays de Saint Omer,Communauté d’agglomération,EPCI,200069037,5,Non,107895,oui,10,2.28558148,50.70367760
+Plaine d’Estrées,Communauté de communes,EPCI,246000897,3,Oui,18344,oui,6,2.65734064,49.42771389
+Porto-Vecchio,Commune,Commune,212002471,4,Oui,11934,oui,7,9.25363087,41.59249329
+Pré Saint-Gervais,Commune,Commune,219300613,3,Oui,17557,oui,3,2.40542233,48.88467349
+Région Sud,Région,Région,231300021,4,Non,5098700,oui,1,5.37377000,43.30130732
+Reims,Commune,Commune,215104217,5,Non,185211,oui,4,4.04023023,49.25149061
+Rosny-sur-Seine,Commune,Commune,217805316,3,Non,6703,oui,4,1.60820077,48.99642266
+Rouen,Commune,Commune,217605401,5,Oui,112965,oui,8,1.09256784,49.44134601
+Sailly-Lez-Lannoy,Commune,Commune,215905225,5,Oui,1964,non,14,3.22762244,50.64604329
+Saint Germain en Laye,Commune,Commune,200086924,3,Oui,46599,oui,4,2.09870929,48.94070414
+Saint Jean de Luz,Commune,Commune,216404830,4,Oui,14622,oui,3,-1.63099022,43.39478869
+Saint Marcellin,Commune,Commune,213804164,4,Oui,7970,oui,12,5.31720171,45.15341369
+Villes Soeurs,Communauté de communes,EPCI,247600588,3,Oui,37781,oui,1,1.45185090,50.02939445
